@@ -1,0 +1,258 @@
+
+-- ============================================================
+-- VICTORIAN LOCAL GOVERNMENT FINANCIAL SCREENING
+-- Financial Years: 2020-21 to 2024-25
+-- Coverage: 79 Victorian Councils
+--
+-- Purpose:
+-- Identify councils requiring further financial investigation
+-- using operating results and peer-relative indicators.
+--
+-- IMPORTANT:
+-- Screening categories are project-defined analytical labels.
+-- They are NOT official VAGO financial risk classifications.
+-- ============================================================
+
+
+-- ============================================================
+-- STEP 1: CREATE GOLD FINANCIAL SCREENING TABLE
+-- ============================================================
+
+CREATE OR REPLACE TABLE
+workspace.default.gold_council_financial_screening AS
+
+WITH council_kpis AS (
+
+    SELECT
+        Council,
+        CouncilCategory,
+        FinancialYear,
+
+        -- Operating result: OP1
+        MAX(
+            CASE
+                WHEN IndicatorID = 'OP1'
+                THEN KPIValue
+            END
+        ) AS OperatingResult,
+
+        -- Liquidity: L1
+        MAX(
+            CASE
+                WHEN IndicatorID = 'L1'
+                THEN KPIValue
+            END
+        ) AS Liquidity,
+
+        -- Indebtedness: O4
+        MAX(
+            CASE
+                WHEN IndicatorID = 'O4'
+                THEN KPIValue
+            END
+        ) AS Indebtedness,
+
+        -- Asset renewal: O5
+        MAX(
+            CASE
+                WHEN IndicatorID = 'O5'
+                THEN KPIValue
+            END
+        ) AS AssetRenewal,
+
+        -- Peer medians
+        MAX(
+            CASE
+                WHEN IndicatorID = 'L1'
+                THEN PeerMedian
+            END
+        ) AS LiquidityPeer,
+
+        MAX(
+            CASE
+                WHEN IndicatorID = 'O4'
+                THEN PeerMedian
+            END
+        ) AS DebtPeer,
+
+        MAX(
+            CASE
+                WHEN IndicatorID = 'O5'
+                THEN PeerMedian
+            END
+        ) AS RenewalPeer
+
+    FROM workspace.default.gold_financial_kpi_comparison_validated
+
+    GROUP BY
+        Council,
+        CouncilCategory,
+        FinancialYear
+),
+
+
+-- ============================================================
+-- STEP 2: AGGREGATE FIVE-YEAR COUNCIL RESULTS
+-- ============================================================
+
+council_summary AS (
+
+    SELECT
+        Council,
+        CouncilCategory,
+
+        -- Number of years with reported OP1 values
+        COUNT(OperatingResult) AS OP1ReportedYears,
+
+        -- Number of operating deficit years
+        SUM(
+            CASE
+                WHEN OperatingResult < 0
+                THEN 1
+                ELSE 0
+            END
+        ) AS DeficitYears,
+
+        -- Years with liquidity below peer median
+        SUM(
+            CASE
+                WHEN Liquidity < LiquidityPeer
+                THEN 1
+                ELSE 0
+            END
+        ) AS LowLiquidityYears,
+
+        -- Years with indebtedness above peer median
+        SUM(
+            CASE
+                WHEN Indebtedness > DebtPeer
+                THEN 1
+                ELSE 0
+            END
+        ) AS HighDebtYears,
+
+        -- Years with asset renewal below peer median
+        SUM(
+            CASE
+                WHEN AssetRenewal < RenewalPeer
+                THEN 1
+                ELSE 0
+            END
+        ) AS LowRenewalYears,
+
+        -- Completeness checks for all four indicators
+        COUNT(Liquidity) AS L1ReportedYears,
+        COUNT(Indebtedness) AS O4ReportedYears,
+        COUNT(AssetRenewal) AS O5ReportedYears
+
+    FROM council_kpis
+
+    GROUP BY
+        Council,
+        CouncilCategory
+)
+
+
+-- ============================================================
+-- STEP 3: ASSIGN PROJECT-DEFINED REVIEW CATEGORIES
+-- ============================================================
+
+SELECT
+    *,
+
+    CASE
+
+        -- Incomplete data takes precedence
+        WHEN OP1ReportedYears < 5
+          OR L1ReportedYears < 5
+          OR O4ReportedYears < 5
+          OR O5ReportedYears < 5
+        THEN 'Incomplete Data'
+
+        -- Persistent deficits plus adverse peer comparisons
+        WHEN DeficitYears >= 4
+         AND (
+                LowLiquidityYears >= 3
+             OR HighDebtYears >= 3
+             OR LowRenewalYears >= 3
+         )
+        THEN 'Priority Review'
+
+        -- Persistent operating deficits
+        WHEN DeficitYears >= 4
+        THEN 'Persistent Operating Deficit'
+
+        -- Repeated operating deficits
+        WHEN DeficitYears >= 2
+        THEN 'Monitor'
+
+        -- Does not meet preceding screening criteria
+        ELSE 'Other'
+
+    END AS ReviewCategory
+
+FROM council_summary;
+
+
+-- ============================================================
+-- STEP 4: VALIDATE SCREENING CATEGORY COUNTS
+-- ============================================================
+
+SELECT
+    ReviewCategory,
+    COUNT(*) AS CouncilCount
+
+FROM workspace.default.gold_council_financial_screening
+
+GROUP BY ReviewCategory
+
+ORDER BY CouncilCount DESC;
+
+
+-- ============================================================
+-- STEP 5: VALIDATE UNIQUENESS AND COMPLETENESS
+-- ============================================================
+
+SELECT
+    COUNT(*) AS TotalRows,
+
+    COUNT(DISTINCT Council) AS UniqueCouncils,
+
+    COUNT(*) - COUNT(DISTINCT Council)
+        AS DuplicateCouncilRows,
+
+    SUM(
+        CASE
+            WHEN OP1ReportedYears < 5
+              OR L1ReportedYears < 5
+              OR O4ReportedYears < 5
+              OR O5ReportedYears < 5
+            THEN 1
+            ELSE 0
+        END
+    ) AS CouncilsWithIncompleteKPIs
+
+FROM workspace.default.gold_council_financial_screening;
+
+
+-- ============================================================
+-- STEP 6: IDENTIFY INCOMPLETE COUNCILS
+-- ============================================================
+
+SELECT
+    Council,
+    CouncilCategory,
+    OP1ReportedYears,
+    L1ReportedYears,
+    O4ReportedYears,
+    O5ReportedYears,
+    ReviewCategory
+
+FROM workspace.default.gold_council_financial_screening
+
+WHERE OP1ReportedYears < 5
+   OR L1ReportedYears < 5
+   OR O4ReportedYears < 5
+   OR O5ReportedYears < 5
+
+ORDER BY Council;
