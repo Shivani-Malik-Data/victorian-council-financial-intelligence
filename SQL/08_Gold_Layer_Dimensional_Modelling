@@ -1,0 +1,732 @@
+
+SELECT
+    FinancialYear,
+    ID,
+    Description,
+    COUNT(*) AS MissingCount
+FROM workspace.default.silver_performance
+WHERE Result IS NULL
+GROUP BY FinancialYear, ID, Description
+ORDER BY FinancialYear, MissingCount DESC;
+
+
+
+
+SELECT
+    ID,
+    COUNT(DISTINCT FinancialYear) AS YearsAvailable,
+    COUNT(DISTINCT Council) AS CouncilsCovered,
+    COUNT(DISTINCT Description) AS DescriptionVariants
+FROM workspace.default.silver_performance
+GROUP BY ID
+ORDER BY ID;
+
+
+
+SELECT
+    ID,
+    CONCAT_WS(
+        ', ',
+        SORT_ARRAY(COLLECT_SET(FinancialYear))
+    ) AS AvailableYears,
+    COUNT(DISTINCT FinancialYear) AS YearsAvailable,
+    COUNT(DISTINCT Description) AS DescriptionVariants
+FROM workspace.default.silver_performance
+GROUP BY ID
+HAVING COUNT(DISTINCT FinancialYear) < 5
+ORDER BY ID;
+
+
+
+
+SELECT
+    ID,
+    FinancialYear,
+    Description,
+    COUNT(DISTINCT Council) AS CouncilsCovered
+FROM workspace.default.silver_performance
+WHERE ID IN (
+    'FS5', 'LB1', 'LB4',
+    'LB6', 'LB7', 'LB8', 'WC1'
+)
+GROUP BY
+    ID,
+    FinancialYear,
+    Description
+ORDER BY
+    ID,
+    FinancialYear,
+    Description;
+
+
+
+SELECT
+    ID,
+    FinancialYear,
+    TRIM(Description) AS Description,
+    COUNT(DISTINCT Council) AS CouncilsCovered
+FROM workspace.default.silver_performance
+GROUP BY
+    ID,
+    FinancialYear,
+    TRIM(Description)
+ORDER BY
+    ID,
+    FinancialYear;
+
+
+
+
+
+
+
+
+CREATE OR REPLACE TABLE workspace.default.dim_indicator AS
+
+WITH indicator_history AS (
+    SELECT
+        ID AS IndicatorID,
+        FinancialYear,
+        TRIM(Description) AS Description
+    FROM workspace.default.silver_performance
+    WHERE ID IS NOT NULL
+),
+
+indicator_summary AS (
+    SELECT
+        IndicatorID,
+        COUNT(DISTINCT FinancialYear) AS YearsAvailable,
+        MIN(FinancialYear) AS FirstAvailableYear,
+        MAX(FinancialYear) AS LastAvailableYear,
+        COUNT(DISTINCT Description) AS DescriptionVariants
+    FROM indicator_history
+    GROUP BY IndicatorID
+),
+
+latest_description AS (
+    SELECT
+        IndicatorID,
+        Description,
+        ROW_NUMBER() OVER (
+            PARTITION BY IndicatorID
+            ORDER BY FinancialYear DESC, Description
+        ) AS rn
+    FROM (
+        SELECT DISTINCT
+            IndicatorID,
+            FinancialYear,
+            Description
+        FROM indicator_history
+    )
+)
+
+SELECT
+    s.IndicatorID,
+    l.Description AS IndicatorName,
+    s.YearsAvailable,
+    s.FirstAvailableYear,
+    s.LastAvailableYear,
+    s.DescriptionVariants,
+    CASE
+        WHEN s.YearsAvailable = 5
+        THEN 'Definition review required'
+        ELSE 'Limited historical coverage'
+    END AS ComparabilityStatus
+FROM indicator_summary s
+LEFT JOIN latest_description l
+    ON s.IndicatorID = l.IndicatorID
+   AND l.rn = 1;
+
+
+
+
+
+SELECT
+    COUNT(*) AS TotalIndicators,
+    COUNT(DISTINCT IndicatorID) AS UniqueIndicators,
+    SUM(CASE WHEN IndicatorName IS NULL THEN 1 ELSE 0 END)
+        AS MissingNames
+FROM workspace.default.dim_indicator;
+
+
+
+DESCRIBE TABLE workspace.default.silver_performance;
+
+
+
+CREATE OR REPLACE TABLE workspace.default.dim_council AS
+SELECT DISTINCT
+    Council AS CouncilName,
+    `Group` AS CouncilCategory
+FROM workspace.default.silver_performance
+WHERE Council IS NOT NULL;
+
+
+SELECT
+    COUNT(*) AS TotalRows,
+    COUNT(DISTINCT CouncilName) AS UniqueCouncils,
+    COUNT(DISTINCT CouncilCategory) AS TotalCategories
+FROM workspace.default.dim_council;
+
+
+
+
+CREATE OR REPLACE TABLE workspace.default.dim_financial_year AS
+SELECT DISTINCT
+    FinancialYear,
+    CAST(SUBSTRING(FinancialYear, 1, 4) AS INT)
+        AS StartYear,
+    CAST(SUBSTRING(FinancialYear, 1, 4) AS INT) + 1
+        AS EndYear,
+    MAKE_DATE(
+        CAST(SUBSTRING(FinancialYear, 1, 4) AS INT),
+        7, 1
+    ) AS StartDate,
+    MAKE_DATE(
+        CAST(SUBSTRING(FinancialYear, 1, 4) AS INT) + 1,
+        6, 30
+    ) AS EndDate,
+    CAST(SUBSTRING(FinancialYear, 1, 4) AS INT)
+        AS YearSortOrder
+FROM workspace.default.silver_performance
+WHERE FinancialYear IS NOT NULL;
+
+
+
+
+
+SELECT
+    COUNT(*) AS TotalRows,
+    COUNT(DISTINCT FinancialYear) AS UniqueYears,
+    MIN(StartDate) AS EarliestStartDate,
+    MAX(EndDate) AS LatestEndDate,
+    SUM(
+        CASE
+            WHEN StartDate IS NULL OR EndDate IS NULL
+            THEN 1 ELSE 0
+        END
+    ) AS InvalidDates
+FROM workspace.default.dim_financial_year;
+
+
+
+
+CREATE OR REPLACE TABLE workspace.default.fact_performance AS
+SELECT
+    p.Council,
+    p.FinancialYear,
+    p.ID AS IndicatorID,
+    p.Result,
+    p.Target,
+    p.Variation
+FROM workspace.default.silver_performance p;
+
+
+
+SELECT
+    COUNT(*) AS TotalRows,
+    COUNT(DISTINCT Council) AS Councils,
+    COUNT(DISTINCT FinancialYear) AS Years,
+    COUNT(DISTINCT IndicatorID) AS Indicators,
+    SUM(CASE WHEN Result IS NULL THEN 1 ELSE 0 END)
+        AS MissingResults
+FROM workspace.default.fact_performance;
+
+
+
+
+SELECT
+    COUNT(*) AS TotalFactRows,
+
+    SUM(CASE WHEN c.CouncilName IS NULL
+        THEN 1 ELSE 0 END) AS UnmatchedCouncils,
+
+    SUM(CASE WHEN y.FinancialYear IS NULL
+        THEN 1 ELSE 0 END) AS UnmatchedYears,
+
+    SUM(CASE WHEN i.IndicatorID IS NULL
+        THEN 1 ELSE 0 END) AS UnmatchedIndicators
+
+FROM workspace.default.fact_performance p
+
+LEFT JOIN workspace.default.dim_council c
+    ON p.Council = c.CouncilName
+
+LEFT JOIN workspace.default.dim_financial_year y
+    ON p.FinancialYear = y.FinancialYear
+
+LEFT JOIN workspace.default.dim_indicator i
+    ON p.IndicatorID = i.IndicatorID;
+
+
+
+
+CREATE OR REPLACE TABLE workspace.default.fact_financial AS
+SELECT
+    Council,
+    FinancialYear,
+    Category,
+    `Sub-Category` AS SubCategory,
+    Value
+FROM workspace.default.silver_financial;
+
+
+SELECT
+    COUNT(*) AS TotalRows,
+    COUNT(DISTINCT Council) AS Councils,
+    COUNT(DISTINCT FinancialYear) AS Years,
+    SUM(CASE WHEN Value IS NULL THEN 1 ELSE 0 END)
+        AS MissingValues
+FROM workspace.default.fact_financial;
+
+
+
+
+
+CREATE OR REPLACE TABLE workspace.default.fact_financial_per_capita AS
+SELECT
+    Council,
+    FinancialYear,
+    Attribute,
+    Value
+FROM workspace.default.silver_financial_per_capita;
+
+
+SELECT
+    COUNT(*) AS TotalRows,
+    COUNT(DISTINCT Council) AS Councils,
+    COUNT(DISTINCT FinancialYear) AS Years,
+    SUM(
+        CASE WHEN Value IS NULL THEN 1 ELSE 0 END
+    ) AS MissingValues
+FROM workspace.default.fact_financial_per_capita;
+
+
+
+DESCRIBE TABLE workspace.default.silver_population;
+
+
+
+CREATE OR REPLACE TABLE workspace.default.fact_population AS
+SELECT
+    Council,
+    FinancialYear,
+    Population
+FROM workspace.default.silver_population;
+
+
+
+SELECT
+    COUNT(*) AS TotalRows,
+    COUNT(DISTINCT Council) AS Councils,
+    COUNT(DISTINCT FinancialYear) AS Years,
+    SUM(
+        CASE WHEN Population IS NULL THEN 1 ELSE 0 END
+    ) AS MissingPopulation,
+    SUM(
+        CASE WHEN Population <= 0 THEN 1 ELSE 0 END
+    ) AS InvalidPopulation
+FROM workspace.default.fact_population;
+
+
+
+DESCRIBE TABLE workspace.default.silver_financial_benchmarks;
+
+
+
+CREATE OR REPLACE TABLE workspace.default.fact_financial_benchmarks AS
+SELECT
+    BenchmarkName,
+    FinancialYear,
+    Attribute,
+    Value
+FROM workspace.default.silver_financial_benchmarks;
+
+
+
+SELECT
+    COUNT(*) AS TotalRows,
+    COUNT(DISTINCT BenchmarkName) AS Benchmarks,
+    COUNT(DISTINCT FinancialYear) AS Years,
+    SUM(
+        CASE WHEN Value IS NULL THEN 1 ELSE 0 END
+    ) AS MissingValues
+FROM workspace.default.fact_financial_benchmarks;
+
+
+
+
+SELECT
+    'fact_performance' AS TableName,
+    COUNT(*) AS DuplicateKeyGroups
+FROM (
+    SELECT Council, FinancialYear, IndicatorID
+    FROM workspace.default.fact_performance
+    GROUP BY Council, FinancialYear, IndicatorID
+    HAVING COUNT(*) > 1
+)
+
+UNION ALL
+
+SELECT
+    'fact_financial',
+    COUNT(*)
+FROM (
+    SELECT Council, FinancialYear, Category, SubCategory
+    FROM workspace.default.fact_financial
+    GROUP BY Council, FinancialYear, Category, SubCategory
+    HAVING COUNT(*) > 1
+)
+
+UNION ALL
+
+SELECT
+    'fact_financial_per_capita',
+    COUNT(*)
+FROM (
+    SELECT Council, FinancialYear, Attribute
+    FROM workspace.default.fact_financial_per_capita
+    GROUP BY Council, FinancialYear, Attribute
+    HAVING COUNT(*) > 1
+)
+
+UNION ALL
+
+SELECT
+    'fact_population',
+    COUNT(*)
+FROM (
+    SELECT Council, FinancialYear
+    FROM workspace.default.fact_population
+    GROUP BY Council, FinancialYear
+    HAVING COUNT(*) > 1
+)
+
+UNION ALL
+
+SELECT
+    'fact_financial_benchmarks',
+    COUNT(*)
+FROM (
+    SELECT BenchmarkName, FinancialYear, Attribute
+    FROM workspace.default.fact_financial_benchmarks
+    GROUP BY BenchmarkName, FinancialYear, Attribute
+    HAVING COUNT(*) > 1
+);
+
+
+
+
+
+
+
+
+WITH all_fact_keys AS (
+    SELECT 'fact_financial' AS TableName,
+           Council, FinancialYear
+    FROM workspace.default.fact_financial
+
+    UNION ALL
+
+    SELECT 'fact_financial_per_capita',
+           Council, FinancialYear
+    FROM workspace.default.fact_financial_per_capita
+
+    UNION ALL
+
+    SELECT 'fact_population',
+           Council, FinancialYear
+    FROM workspace.default.fact_population
+)
+SELECT
+    f.TableName,
+    COUNT(*) AS TotalRows,
+    SUM(CASE WHEN c.CouncilName IS NULL
+        THEN 1 ELSE 0 END) AS UnmatchedCouncils,
+    SUM(CASE WHEN y.FinancialYear IS NULL
+        THEN 1 ELSE 0 END) AS UnmatchedYears
+FROM all_fact_keys f
+LEFT JOIN workspace.default.dim_council c
+    ON f.Council = c.CouncilName
+LEFT JOIN workspace.default.dim_financial_year y
+    ON f.FinancialYear = y.FinancialYear
+GROUP BY f.TableName
+ORDER BY f.TableName;
+
+
+
+
+SELECT DISTINCT
+    f.Council AS FactCouncil,
+    c.CouncilName AS DimensionCouncil
+FROM workspace.default.fact_financial f
+LEFT JOIN workspace.default.dim_council c
+    ON f.Council = c.CouncilName
+WHERE c.CouncilName IS NULL
+ORDER BY FactCouncil
+LIMIT 30;
+
+
+SELECT
+    CouncilName,
+    CouncilCategory
+FROM workspace.default.dim_council
+ORDER BY CouncilName
+LIMIT 30;
+
+
+
+
+
+
+
+WITH normalized_financial AS (
+    SELECT
+        Council,
+        REGEXP_REPLACE(
+            TRIM(Council),
+            '(?i)\\s+Council$',
+            ''
+        ) AS NormalizedCouncil
+    FROM workspace.default.fact_financial
+)
+SELECT
+    COUNT(*) AS TotalRows,
+    SUM(
+        CASE WHEN c.CouncilName IS NULL
+        THEN 1 ELSE 0 END
+    ) AS UnmatchedAfterNormalization
+FROM normalized_financial f
+LEFT JOIN workspace.default.dim_council c
+    ON f.NormalizedCouncil = c.CouncilName;
+
+
+
+
+
+WITH combined AS (
+    SELECT
+        'fact_financial_per_capita' AS TableName,
+        Council
+    FROM workspace.default.fact_financial_per_capita
+
+    UNION ALL
+
+    SELECT
+        'fact_population' AS TableName,
+        Council
+    FROM workspace.default.fact_population
+),
+normalized AS (
+    SELECT
+        TableName,
+        REGEXP_REPLACE(
+            TRIM(Council),
+            '(?i)\\s+Council$',
+            ''
+        ) AS NormalizedCouncil
+    FROM combined
+)
+SELECT
+    n.TableName,
+    COUNT(*) AS TotalRows,
+    SUM(
+        CASE WHEN c.CouncilName IS NULL
+        THEN 1 ELSE 0 END
+    ) AS UnmatchedCouncils
+FROM normalized n
+LEFT JOIN workspace.default.dim_council c
+    ON n.NormalizedCouncil = c.CouncilName
+GROUP BY n.TableName
+ORDER BY n.TableName;
+
+
+
+
+
+
+
+
+UPDATE workspace.default.fact_financial
+SET Council = REGEXP_REPLACE(
+    TRIM(Council),
+    '(?i)\\s+Council$',
+    ''
+)
+WHERE Council RLIKE '(?i)\\s+Council$';
+
+
+UPDATE workspace.default.fact_financial_per_capita
+SET Council = REGEXP_REPLACE(
+    TRIM(Council),
+    '(?i)\\s+Council$',
+    ''
+)
+WHERE Council RLIKE '(?i)\\s+Council$';
+
+
+UPDATE workspace.default.fact_population
+SET Council = REGEXP_REPLACE(
+    TRIM(Council),
+    '(?i)\\s+Council$',
+    ''
+)
+WHERE Council RLIKE '(?i)\\s+Council$';
+
+
+
+
+
+
+WITH all_fact_keys AS (
+    SELECT 'fact_financial' AS TableName,
+           Council, FinancialYear
+    FROM workspace.default.fact_financial
+
+    UNION ALL
+
+    SELECT 'fact_financial_per_capita',
+           Council, FinancialYear
+    FROM workspace.default.fact_financial_per_capita
+
+    UNION ALL
+
+    SELECT 'fact_population',
+           Council, FinancialYear
+    FROM workspace.default.fact_population
+)
+SELECT
+    f.TableName,
+    COUNT(*) AS TotalRows,
+    SUM(CASE WHEN c.CouncilName IS NULL
+        THEN 1 ELSE 0 END) AS UnmatchedCouncils,
+    SUM(CASE WHEN y.FinancialYear IS NULL
+        THEN 1 ELSE 0 END) AS UnmatchedYears
+FROM all_fact_keys f
+LEFT JOIN workspace.default.dim_council c
+    ON f.Council = c.CouncilName
+LEFT JOIN workspace.default.dim_financial_year y
+    ON f.FinancialYear = y.FinancialYear
+GROUP BY f.TableName
+ORDER BY f.TableName;
+
+
+
+
+
+SELECT
+    COUNT(*) AS TotalRows,
+    COUNT(DISTINCT b.BenchmarkName) AS Benchmarks,
+    COUNT(DISTINCT b.FinancialYear) AS Years,
+    SUM(
+        CASE WHEN y.FinancialYear IS NULL
+        THEN 1 ELSE 0 END
+    ) AS UnmatchedYears
+FROM workspace.default.fact_financial_benchmarks b
+LEFT JOIN workspace.default.dim_financial_year y
+    ON b.FinancialYear = y.FinancialYear;
+
+
+
+
+SELECT
+    COUNT(*) AS TotalRows,
+    SUM(
+        CASE WHEN f.Council <> s.Council
+        THEN 1 ELSE 0 END
+    ) AS DifferentCouncilNames
+FROM workspace.default.fact_population f
+JOIN workspace.default.silver_population s
+    ON f.FinancialYear = s.FinancialYear
+   AND REGEXP_REPLACE(TRIM(f.Council), '(?i)\\s+Council$', '')
+       = REGEXP_REPLACE(TRIM(s.Council), '(?i)\\s+Council$', '');
+
+
+
+
+
+SELECT DISTINCT
+    s.Council AS SilverCouncil,
+    f.Council AS GoldCouncil
+FROM workspace.default.silver_population s
+JOIN workspace.default.fact_population f
+    ON s.FinancialYear = f.FinancialYear
+   AND REGEXP_REPLACE(
+       TRIM(s.Council),
+       '(?i)\\s+Council$',
+       ''
+   ) = REGEXP_REPLACE(
+       TRIM(f.Council),
+       '(?i)\\s+Council$',
+       ''
+   )
+WHERE s.Council <> f.Council
+ORDER BY SilverCouncil
+LIMIT 20;
+
+
+
+
+
+SELECT
+    COUNT(*) AS TotalRows,
+    SUM(
+        CASE
+            WHEN REGEXP_REPLACE(
+                TRIM(s.Council),
+                '(?i)\\s+Council$',
+                ''
+            ) = TRIM(f.Council)
+            THEN 1 ELSE 0
+        END
+    ) AS MatchingNormalizedNames,
+    SUM(
+        CASE
+            WHEN REGEXP_REPLACE(
+                TRIM(s.Council),
+                '(?i)\\s+Council$',
+                ''
+            ) <> TRIM(f.Council)
+            THEN 1 ELSE 0
+        END
+    ) AS UnexpectedDifferences
+FROM workspace.default.silver_population s
+JOIN workspace.default.fact_population f
+    ON s.FinancialYear = f.FinancialYear
+   AND s.Population = f.Population
+   AND REGEXP_REPLACE(
+       TRIM(s.Council),
+       '(?i)\\s+Council$',
+       ''
+   ) = TRIM(f.Council);
+
+
+
+
+
+
+SELECT 'dim_council' AS TableName, COUNT(*) AS TotalRows
+FROM workspace.default.dim_council
+UNION ALL
+SELECT 'dim_financial_year', COUNT(*)
+FROM workspace.default.dim_financial_year
+UNION ALL
+SELECT 'dim_indicator', COUNT(*)
+FROM workspace.default.dim_indicator
+UNION ALL
+SELECT 'fact_performance', COUNT(*)
+FROM workspace.default.fact_performance
+UNION ALL
+SELECT 'fact_financial', COUNT(*)
+FROM workspace.default.fact_financial
+UNION ALL
+SELECT 'fact_financial_per_capita', COUNT(*)
+FROM workspace.default.fact_financial_per_capita
+UNION ALL
+SELECT 'fact_population', COUNT(*)
+FROM workspace.default.fact_population
+UNION ALL
+SELECT 'fact_financial_benchmarks', COUNT(*)
+FROM workspace.default.fact_financial_benchmarks;
+
+
