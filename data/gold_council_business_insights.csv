@@ -1,0 +1,80 @@
+Council,CouncilCategory,ReviewCategory,DeficitYears,OP1ReportedYears,LowLiquidityYears,HighDebtYears,LowRenewalYears,TotalIndicators,DeterioratingIndicators,ImprovingIndicators,IncompleteIndicators,ManagementAttention
+Frankston City,Metropolitan,Priority Review,5,5,4,5,2,4,3,1,0,High Analytical Priority
+Hepburn Shire,Small Shire,Priority Review,5,5,5,5,4,4,3,1,0,High Analytical Priority
+Central Goldfields Shire,Small Shire,Priority Review,5,5,5,3,3,4,2,2,0,Financial Review Recommended
+Latrobe City,Regional,Persistent Operating Deficit,5,5,1,0,1,4,2,2,0,Operating Sustainability Review
+Mitchell Shire,Large Shire,Priority Review,5,5,4,5,2,4,2,2,0,Financial Review Recommended
+Campaspe Shire,Large Shire,Priority Review,5,5,0,0,3,4,1,3,0,Financial Review Recommended
+Glenelg Shire,Large Shire,Priority Review,5,5,5,4,5,4,1,3,0,Financial Review Recommended
+Moyne Shire,Large Shire,Persistent Operating Deficit,5,5,0,0,0,4,1,3,0,Operating Sustainability Review
+Murrindindi Shire,Small Shire,Priority Review,5,5,0,4,2,4,1,3,0,Financial Review Recommended
+Nillumbik Shire,Interface,Priority Review,5,5,5,5,0,4,1,3,0,Financial Review Recommended
+Northern Grampians Shire,Small Shire,Priority Review,5,5,2,0,5,4,1,3,0,Financial Review Recommended
+Surf Coast Shire,Large Shire,Priority Review,5,5,3,5,5,4,1,3,0,Financial Review Recommended
+Cardinia Shire,Interface,Priority Review,5,5,3,2,1,4,0,4,0,Financial Review Recommended
+Bass Coast Shire,Large Shire,Priority Review,4,5,5,3,2,4,3,1,0,High Analytical Priority
+Baw Baw Shire,Large Shire,Priority Review,4,5,5,5,5,4,3,1,0,High Analytical Priority
+Indigo Shire,Small Shire,Priority Review,4,5,5,5,4,4,3,1,0,High Analytical Priority
+Melbourne City,Metropolitan,Priority Review,4,5,5,3,3,4,3,1,0,High Analytical Priority
+Southern Grampians Shire,Large Shire,Priority Review,4,5,2,0,4,4,3,1,0,High Analytical Priority
+Wangaratta Rural City,Regional,Priority Review,4,5,5,5,3,4,3,1,0,High Analytical Priority
+Whittlesea City,Interface,Priority Review,4,5,2,0,3,4,3,1,0,High Analytical Priority
+Buloke Shire,Small Shire,Persistent Operating Deficit,4,5,0,1,2,4,2,2,0,Operating Sustainability Review
+Greater Bendigo City,Regional,Priority Review,4,5,5,3,5,4,2,2,0,Financial Review Recommended
+Casey City,Interface,Persistent Operating Deficit,4,5,0,0,1,4,1,3,0,Operating Sustainability Review
+Horsham Rural City,Regional,Priority Review,4,5,0,0,3,4,1,3,0,Financial Review Recommended
+Wodonga City,Regional,Priority Review,4,5,0,2,3,4,1,3,0,Financial Review Recommended
+Wyndham City,Interface,Priority Review,4,5,0,3,5,4,1,3,0,Financial Review Recommended
+Banyule City,Metropolitan,Persistent Operating Deficit,4,5,0,2,2,4,0,4,0,Operating Sustainability Review
+Stonnington City,Metropolitan,Monitor,3,5,3,5,1,4,4,0,0,Trend Monitoring Recommended
+Yarriambiack Shire,Small Shire,Monitor,3,5,4,1,1,4,4,0,0,Trend Monitoring Recommended
+Corangamite Shire,Large Shire,Monitor,3,5,0,5,1,4,3,1,0,Trend Monitoring Recommended
+Hindmarsh Shire,Small Shire,Monitor,3,5,0,0,3,4,3,1,0,Trend Monitoring Recommended
+West Wimmera Shire,Small Shire,Monitor,3,5,2,0,4,4,3,1,0,Trend Monitoring Recommended
+Ballarat City,Regional,Monitor,3,5,3,0,0,4,2,2,0,Routine Monitoring
+Borough of Queenscliffe,Small Shire,Monitor,3,5,0,0,1,4,2,2,0,Routine Monitoring
+Golden Plains Shire,Large Shire,Monitor,3,5,5,5,1,4,2,2,0,Routine Monitoring
+Macedon Ranges Shire,Large Shire,Monitor,3,5,5,2,1,4,2,2,0,Routine Monitoring
+Moorabool Shire,Large Shire,Monitor,3,5,5,3,1,4,2,2,0,Routine Monitoring
+Mount Alexander Shire,Large Shire,Monitor,3,5,1,1,5,4,2,2,0,Routine Monitoring
+Monash City,Metropolitan,Monitor,3,5,5,0,0,4,1,3,0,Routine Monitoring
+Ararat Rural City,Small Shire,Monitor,2,5,4,0,1,4,4,0,0,Trend Monitoring Recommended
+Colac Otway Shire,Large Shire,Monitor,2,5,3,0,4,4,3,1,0,Trend Monitoring Recommended
+East Gippsland Shire,Large Shire,Monitor,2,5,0,0,0,4,3,1,0,Trend Monitoring Recommended
+Hume City,Interface,Monitor,2,5,0,4,4,4,3,1,0,Trend Monitoring Recommended
+Yarra Ranges Shire,Interface,Monitor,2,5,5,1,0,4,3,1,0,Trend Monitoring Recommended
+Darebin City,Metropolitan,Monitor,2,5,5,3,3,4,2,2,0,Routine Monitoring
+Knox City,Metropolitan,Monitor,2,5,5,4,0,4,2,2,0,Routine Monitoring
+Mansfield Shire,Small Shire,Monitor,2,5,3,5,0,4,2,2,0,Routine Monitoring
+Maroondah City,Metropolitan,Monitor,2,5,4,5,2,4,2,2,0,Routine Monitoring
+South Gippsland Shire,Large Shire,Monitor,2,5,2,3,0,4,2,2,0,Routine Monitoring
+Towong Shire,Small Shire,Incomplete Data,2,4,0,0,0,4,2,2,4,Data Verification Required
+Warrnambool City,Regional,Monitor,2,5,2,0,2,4,2,2,0,Routine Monitoring
+Yarra City,Metropolitan,Monitor,2,5,3,3,3,4,2,2,0,Routine Monitoring
+Alpine Shire,Small Shire,Monitor,2,5,2,5,1,4,1,3,0,Routine Monitoring
+Gannawarra Shire,Small Shire,Monitor,2,5,3,1,3,4,1,3,0,Routine Monitoring
+Loddon Shire,Small Shire,Monitor,2,5,0,4,5,4,1,3,0,Routine Monitoring
+Manningham City,Metropolitan,Monitor,2,5,2,0,4,4,1,3,0,Routine Monitoring
+Maribyrnong City,Metropolitan,Monitor,2,5,0,0,3,4,1,3,0,Routine Monitoring
+Kingston City,Metropolitan,Other,1,5,1,1,4,4,4,0,0,Trend Monitoring Recommended
+Whitehorse City,Metropolitan,Other,1,5,0,0,2,4,3,1,0,Trend Monitoring Recommended
+Boroondara City,Metropolitan,Other,1,5,0,5,1,4,2,2,0,Routine Monitoring
+Greater Geelong City,Regional,Other,1,5,5,5,5,4,2,2,0,Routine Monitoring
+Mildura Rural City,Regional,Other,1,5,0,5,1,4,2,2,0,Routine Monitoring
+Port Phillip City,Metropolitan,Other,1,5,0,0,4,4,2,2,0,Routine Monitoring
+Pyrenees Shire,Small Shire,Other,1,5,5,1,0,4,2,2,0,Routine Monitoring
+Wellington Shire,Large Shire,Other,1,5,0,2,1,4,2,2,0,Routine Monitoring
+Brimbank City,Metropolitan,Other,1,5,3,5,5,4,1,3,0,Routine Monitoring
+Glen Eira City,Metropolitan,Other,1,5,5,4,3,4,1,3,0,Routine Monitoring
+Greater Dandenong City,Metropolitan,Other,1,5,0,5,5,4,1,3,0,Routine Monitoring
+Greater Shepparton City,Regional,Other,1,5,4,5,2,4,1,3,0,Routine Monitoring
+Moira Shire,Large Shire,Other,1,5,0,2,2,4,1,3,0,Routine Monitoring
+Mornington Peninsula Shire,Interface,Other,1,5,5,5,2,4,1,3,0,Routine Monitoring
+Strathbogie Shire,Small Shire,Other,1,5,3,5,1,4,1,3,0,Routine Monitoring
+Swan Hill Rural City,Large Shire,Other,1,5,0,0,3,4,1,3,0,Routine Monitoring
+Benalla Rural City,Small Shire,Other,1,5,2,5,5,4,0,4,0,Routine Monitoring
+Bayside City,Metropolitan,Other,0,5,0,0,1,4,3,1,0,Trend Monitoring Recommended
+Hobsons Bay City,Metropolitan,Other,0,5,5,2,1,4,3,1,0,Trend Monitoring Recommended
+Melton City,Interface,Other,0,5,0,0,4,4,2,2,0,Routine Monitoring
+Merri-bek City,Metropolitan,Other,0,5,0,2,3,4,1,3,0,Routine Monitoring
+Moonee Valley City,Metropolitan,Other,0,5,5,1,3,4,1,3,0,Routine Monitoring

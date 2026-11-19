@@ -1,0 +1,80 @@
+Council,CouncilCategory,OP1ReportedYears,DeficitYears,LowLiquidityYears,HighDebtYears,LowRenewalYears,L1ReportedYears,O4ReportedYears,O5ReportedYears,ReviewCategory
+Hume City,Interface,5,2,0,4,4,5,5,5,Monitor
+Northern Grampians Shire,Small Shire,5,5,2,0,5,5,5,5,Priority Review
+Wodonga City,Regional,5,4,0,2,3,5,5,5,Priority Review
+Nillumbik Shire,Interface,5,5,5,5,0,5,5,5,Priority Review
+Macedon Ranges Shire,Large Shire,5,3,5,2,1,5,5,5,Monitor
+Stonnington City,Metropolitan,5,3,3,5,1,5,5,5,Monitor
+Glenelg Shire,Large Shire,5,5,5,4,5,5,5,5,Priority Review
+Greater Shepparton City,Regional,5,1,4,5,2,5,5,5,Other
+Borough of Queenscliffe,Small Shire,5,3,0,0,1,5,5,5,Monitor
+Pyrenees Shire,Small Shire,5,1,5,1,0,5,5,5,Other
+Melton City,Interface,5,0,0,0,4,5,5,5,Other
+Colac Otway Shire,Large Shire,5,2,3,0,4,5,5,5,Monitor
+Brimbank City,Metropolitan,5,1,3,5,5,5,5,5,Other
+Hobsons Bay City,Metropolitan,5,0,5,2,1,5,5,5,Other
+Horsham Rural City,Regional,5,4,0,0,3,5,5,5,Priority Review
+Yarra Ranges Shire,Interface,5,2,5,1,0,5,5,5,Monitor
+Wyndham City,Interface,5,4,0,3,5,5,5,5,Priority Review
+Monash City,Metropolitan,5,3,5,0,0,5,5,5,Monitor
+Moorabool Shire,Large Shire,5,3,5,3,1,5,5,5,Monitor
+Moira Shire,Large Shire,5,1,0,2,2,5,5,5,Other
+Merri-bek City,Metropolitan,5,0,0,2,3,5,5,5,Other
+Central Goldfields Shire,Small Shire,5,5,5,3,3,5,5,5,Priority Review
+Maroondah City,Metropolitan,5,2,4,5,2,5,5,5,Monitor
+Ballarat City,Regional,5,3,3,0,0,5,5,5,Monitor
+Glen Eira City,Metropolitan,5,1,5,4,3,5,5,5,Other
+Knox City,Metropolitan,5,2,5,4,0,5,5,5,Monitor
+Murrindindi Shire,Small Shire,5,5,0,4,2,5,5,5,Priority Review
+Ararat Rural City,Small Shire,5,2,4,0,1,5,5,5,Monitor
+Bass Coast Shire,Large Shire,5,4,5,3,2,5,5,5,Priority Review
+Moyne Shire,Large Shire,5,5,0,0,0,5,5,5,Persistent Operating Deficit
+Mitchell Shire,Large Shire,5,5,4,5,2,5,5,5,Priority Review
+Maribyrnong City,Metropolitan,5,2,0,0,3,5,5,5,Monitor
+Swan Hill Rural City,Large Shire,5,1,0,0,3,5,5,5,Other
+Golden Plains Shire,Large Shire,5,3,5,5,1,5,5,5,Monitor
+Loddon Shire,Small Shire,5,2,0,4,5,5,5,5,Monitor
+Mansfield Shire,Small Shire,5,2,3,5,0,5,5,5,Monitor
+Cardinia Shire,Interface,5,5,3,2,1,5,5,5,Priority Review
+Kingston City,Metropolitan,5,1,1,1,4,5,5,5,Other
+Greater Dandenong City,Metropolitan,5,1,0,5,5,5,5,5,Other
+East Gippsland Shire,Large Shire,5,2,0,0,0,5,5,5,Monitor
+South Gippsland Shire,Large Shire,5,2,2,3,0,5,5,5,Monitor
+Moonee Valley City,Metropolitan,5,0,5,1,3,5,5,5,Other
+Greater Bendigo City,Regional,5,4,5,3,5,5,5,5,Priority Review
+Melbourne City,Metropolitan,5,4,5,3,3,5,5,5,Priority Review
+Manningham City,Metropolitan,5,2,2,0,4,5,5,5,Monitor
+Towong Shire,Small Shire,4,2,0,0,0,4,4,4,Incomplete Data
+Alpine Shire,Small Shire,5,2,2,5,1,5,5,5,Monitor
+Mount Alexander Shire,Large Shire,5,3,1,1,5,5,5,5,Monitor
+Frankston City,Metropolitan,5,5,4,5,2,5,5,5,Priority Review
+Corangamite Shire,Large Shire,5,3,0,5,1,5,5,5,Monitor
+Banyule City,Metropolitan,5,4,0,2,2,5,5,5,Persistent Operating Deficit
+Warrnambool City,Regional,5,2,2,0,2,5,5,5,Monitor
+Hepburn Shire,Small Shire,5,5,5,5,4,5,5,5,Priority Review
+Southern Grampians Shire,Large Shire,5,4,2,0,4,5,5,5,Priority Review
+Indigo Shire,Small Shire,5,4,5,5,4,5,5,5,Priority Review
+Mildura Rural City,Regional,5,1,0,5,1,5,5,5,Other
+Buloke Shire,Small Shire,5,4,0,1,2,5,5,5,Persistent Operating Deficit
+Boroondara City,Metropolitan,5,1,0,5,1,5,5,5,Other
+Latrobe City,Regional,5,5,1,0,1,5,5,5,Persistent Operating Deficit
+Yarriambiack Shire,Small Shire,5,3,4,1,1,5,5,5,Monitor
+Port Phillip City,Metropolitan,5,1,0,0,4,5,5,5,Other
+Bayside City,Metropolitan,5,0,0,0,1,5,5,5,Other
+Wellington Shire,Large Shire,5,1,0,2,1,5,5,5,Other
+Gannawarra Shire,Small Shire,5,2,3,1,3,5,5,5,Monitor
+Darebin City,Metropolitan,5,2,5,3,3,5,5,5,Monitor
+Baw Baw Shire,Large Shire,5,4,5,5,5,5,5,5,Priority Review
+Yarra City,Metropolitan,5,2,3,3,3,5,5,5,Monitor
+Wangaratta Rural City,Regional,5,4,5,5,3,5,5,5,Priority Review
+West Wimmera Shire,Small Shire,5,3,2,0,4,5,5,5,Monitor
+Benalla Rural City,Small Shire,5,1,2,5,5,5,5,5,Other
+Casey City,Interface,5,4,0,0,1,5,5,5,Persistent Operating Deficit
+Surf Coast Shire,Large Shire,5,5,3,5,5,5,5,5,Priority Review
+Hindmarsh Shire,Small Shire,5,3,0,0,3,5,5,5,Monitor
+Campaspe Shire,Large Shire,5,5,0,0,3,5,5,5,Priority Review
+Greater Geelong City,Regional,5,1,5,5,5,5,5,5,Other
+Strathbogie Shire,Small Shire,5,1,3,5,1,5,5,5,Other
+Whitehorse City,Metropolitan,5,1,0,0,2,5,5,5,Other
+Whittlesea City,Interface,5,4,2,0,3,5,5,5,Priority Review
+Mornington Peninsula Shire,Interface,5,1,5,5,2,5,5,5,Other

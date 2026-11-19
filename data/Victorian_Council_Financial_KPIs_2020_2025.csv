@@ -1,0 +1,1581 @@
+﻿Sum of PeerMedian,IndicatorName,Sum of KPIValue,IndicatorID,FinancialYear,DataQualityStatus,CouncilCategory,Council
+-0.008025587,Adjusted underlying surplus (or deficit),-0.008025587,OP1,2020-21,Reported,Interface,Cardinia Shire
+-0.008025587,Adjusted underlying surplus (or deficit),-0.023223687,OP1,2020-21,Reported,Interface,Casey City
+-0.008025587,Adjusted underlying surplus (or deficit),0.052643103,OP1,2020-21,Reported,Interface,Hume City
+-0.008025587,Adjusted underlying surplus (or deficit),0.194750691,OP1,2020-21,Reported,Interface,Melton City
+-0.008025587,Adjusted underlying surplus (or deficit),0.030464981,OP1,2020-21,Reported,Interface,Mornington Peninsula Shire
+-0.008025587,Adjusted underlying surplus (or deficit),-0.089957594,OP1,2020-21,Reported,Interface,Nillumbik Shire
+-0.008025587,Adjusted underlying surplus (or deficit),-0.129606464,OP1,2020-21,Reported,Interface,Whittlesea City
+-0.008025587,Adjusted underlying surplus (or deficit),-0.125801464,OP1,2020-21,Reported,Interface,Wyndham City
+-0.008025587,Adjusted underlying surplus (or deficit),0.050935993,OP1,2020-21,Reported,Interface,Yarra Ranges Shire
+0.003309961,Adjusted underlying surplus (or deficit),0.004478443,OP1,2020-21,Reported,Large Shire,Bass Coast Shire
+0.003309961,Adjusted underlying surplus (or deficit),-0.00411423,OP1,2020-21,Reported,Large Shire,Baw Baw Shire
+0.003309961,Adjusted underlying surplus (or deficit),-0.118319028,OP1,2020-21,Reported,Large Shire,Campaspe Shire
+0.003309961,Adjusted underlying surplus (or deficit),0.076038889,OP1,2020-21,Reported,Large Shire,Colac Otway Shire
+0.003309961,Adjusted underlying surplus (or deficit),-0.018287671,OP1,2020-21,Reported,Large Shire,Corangamite Shire
+0.003309961,Adjusted underlying surplus (or deficit),0.044900663,OP1,2020-21,Reported,Large Shire,East Gippsland Shire
+0.003309961,Adjusted underlying surplus (or deficit),-0.086538273,OP1,2020-21,Reported,Large Shire,Glenelg Shire
+0.003309961,Adjusted underlying surplus (or deficit),0.010645271,OP1,2020-21,Reported,Large Shire,Golden Plains Shire
+0.003309961,Adjusted underlying surplus (or deficit),-0.027372462,OP1,2020-21,Reported,Large Shire,Macedon Ranges Shire
+0.003309961,Adjusted underlying surplus (or deficit),-0.038451663,OP1,2020-21,Reported,Large Shire,Mitchell Shire
+0.003309961,Adjusted underlying surplus (or deficit),0.029135958,OP1,2020-21,Reported,Large Shire,Moira Shire
+0.003309961,Adjusted underlying surplus (or deficit),-0.028353397,OP1,2020-21,Reported,Large Shire,Moorabool Shire
+0.003309961,Adjusted underlying surplus (or deficit),0.028788414,OP1,2020-21,Reported,Large Shire,Mount Alexander Shire
+0.003309961,Adjusted underlying surplus (or deficit),-0.061697653,OP1,2020-21,Reported,Large Shire,Moyne Shire
+0.003309961,Adjusted underlying surplus (or deficit),0.054209784,OP1,2020-21,Reported,Large Shire,South Gippsland Shire
+0.003309961,Adjusted underlying surplus (or deficit),0.023072814,OP1,2020-21,Reported,Large Shire,Southern Grampians Shire
+0.003309961,Adjusted underlying surplus (or deficit),-0.094967768,OP1,2020-21,Reported,Large Shire,Surf Coast Shire
+0.003309961,Adjusted underlying surplus (or deficit),0.127135907,OP1,2020-21,Reported,Large Shire,Swan Hill Rural City
+0.003309961,Adjusted underlying surplus (or deficit),0.003309961,OP1,2020-21,Reported,Large Shire,Wellington Shire
+0.028406134,Adjusted underlying surplus (or deficit),-0.018922214,OP1,2020-21,Reported,Metropolitan,Banyule City
+0.028406134,Adjusted underlying surplus (or deficit),0.09131722,OP1,2020-21,Reported,Metropolitan,Bayside City
+0.028406134,Adjusted underlying surplus (or deficit),-0.091569713,OP1,2020-21,Reported,Metropolitan,Boroondara City
+0.028406134,Adjusted underlying surplus (or deficit),0.028406134,OP1,2020-21,Reported,Metropolitan,Brimbank City
+0.028406134,Adjusted underlying surplus (or deficit),-0.002339819,OP1,2020-21,Reported,Metropolitan,Darebin City
+0.028406134,Adjusted underlying surplus (or deficit),-0.005807234,OP1,2020-21,Reported,Metropolitan,Frankston City
+0.028406134,Adjusted underlying surplus (or deficit),-0.028804354,OP1,2020-21,Reported,Metropolitan,Glen Eira City
+0.028406134,Adjusted underlying surplus (or deficit),0.014315398,OP1,2020-21,Reported,Metropolitan,Greater Dandenong City
+0.028406134,Adjusted underlying surplus (or deficit),0.071949191,OP1,2020-21,Reported,Metropolitan,Hobsons Bay City
+0.028406134,Adjusted underlying surplus (or deficit),0.061019615,OP1,2020-21,Reported,Metropolitan,Kingston City
+0.028406134,Adjusted underlying surplus (or deficit),0.046589669,OP1,2020-21,Reported,Metropolitan,Knox City
+0.028406134,Adjusted underlying surplus (or deficit),0.057949947,OP1,2020-21,Reported,Metropolitan,Manningham City
+0.028406134,Adjusted underlying surplus (or deficit),-0.020635196,OP1,2020-21,Reported,Metropolitan,Maribyrnong City
+0.028406134,Adjusted underlying surplus (or deficit),0.125220162,OP1,2020-21,Reported,Metropolitan,Maroondah City
+0.028406134,Adjusted underlying surplus (or deficit),-0.049321753,OP1,2020-21,Reported,Metropolitan,Melbourne City
+0.028406134,Adjusted underlying surplus (or deficit),0.10275082,OP1,2020-21,Reported,Metropolitan,Merri-bek City
+0.028406134,Adjusted underlying surplus (or deficit),-0.007255793,OP1,2020-21,Reported,Metropolitan,Monash City
+0.028406134,Adjusted underlying surplus (or deficit),0.072373576,OP1,2020-21,Reported,Metropolitan,Moonee Valley City
+0.028406134,Adjusted underlying surplus (or deficit),0.03501678,OP1,2020-21,Reported,Metropolitan,Port Phillip City
+0.028406134,Adjusted underlying surplus (or deficit),0.03057735,OP1,2020-21,Reported,Metropolitan,Stonnington City
+0.028406134,Adjusted underlying surplus (or deficit),0.108622392,OP1,2020-21,Reported,Metropolitan,Whitehorse City
+0.028406134,Adjusted underlying surplus (or deficit),-0.090120156,OP1,2020-21,Reported,Metropolitan,Yarra City
+-0.012231322,Adjusted underlying surplus (or deficit),0.052263251,OP1,2020-21,Reported,Regional,Ballarat City
+-0.012231322,Adjusted underlying surplus (or deficit),-0.068433711,OP1,2020-21,Reported,Regional,Greater Bendigo City
+-0.012231322,Adjusted underlying surplus (or deficit),0.056089837,OP1,2020-21,Reported,Regional,Greater Geelong City
+-0.012231322,Adjusted underlying surplus (or deficit),0.079677387,OP1,2020-21,Reported,Regional,Greater Shepparton City
+-0.012231322,Adjusted underlying surplus (or deficit),-0.012231322,OP1,2020-21,Reported,Regional,Horsham Rural City
+-0.012231322,Adjusted underlying surplus (or deficit),-0.050038249,OP1,2020-21,Reported,Regional,Latrobe City
+-0.012231322,Adjusted underlying surplus (or deficit),0.106660494,OP1,2020-21,Reported,Regional,Mildura Rural City
+-0.012231322,Adjusted underlying surplus (or deficit),-0.057425457,OP1,2020-21,Reported,Regional,Wangaratta Rural City
+-0.012231322,Adjusted underlying surplus (or deficit),0.00810999,OP1,2020-21,Reported,Regional,Warrnambool City
+-0.012231322,Adjusted underlying surplus (or deficit),-0.102772919,OP1,2020-21,Reported,Regional,Wodonga City
+-0.022331814,Adjusted underlying surplus (or deficit),0.037854493,OP1,2020-21,Reported,Small Shire,Alpine Shire
+-0.022331814,Adjusted underlying surplus (or deficit),0.090772881,OP1,2020-21,Reported,Small Shire,Ararat Rural City
+-0.022331814,Adjusted underlying surplus (or deficit),0.06803624,OP1,2020-21,Reported,Small Shire,Benalla Rural City
+-0.022331814,Adjusted underlying surplus (or deficit),-0.137072285,OP1,2020-21,Reported,Small Shire,Borough of Queenscliffe
+-0.022331814,Adjusted underlying surplus (or deficit),-0.061290764,OP1,2020-21,Reported,Small Shire,Buloke Shire
+-0.022331814,Adjusted underlying surplus (or deficit),-0.117015071,OP1,2020-21,Reported,Small Shire,Central Goldfields Shire
+-0.022331814,Adjusted underlying surplus (or deficit),-0.022331814,OP1,2020-21,Reported,Small Shire,Gannawarra Shire
+-0.022331814,Adjusted underlying surplus (or deficit),-0.170692799,OP1,2020-21,Reported,Small Shire,Hepburn Shire
+-0.022331814,Adjusted underlying surplus (or deficit),-0.01979904,OP1,2020-21,Reported,Small Shire,Hindmarsh Shire
+-0.022331814,Adjusted underlying surplus (or deficit),-0.664961945,OP1,2020-21,Reported,Small Shire,Indigo Shire
+-0.022331814,Adjusted underlying surplus (or deficit),-0.054370989,OP1,2020-21,Reported,Small Shire,Loddon Shire
+-0.022331814,Adjusted underlying surplus (or deficit),-0.014978304,OP1,2020-21,Reported,Small Shire,Mansfield Shire
+-0.022331814,Adjusted underlying surplus (or deficit),-0.16768283,OP1,2020-21,Reported,Small Shire,Murrindindi Shire
+-0.022331814,Adjusted underlying surplus (or deficit),-0.263882669,OP1,2020-21,Reported,Small Shire,Northern Grampians Shire
+-0.022331814,Adjusted underlying surplus (or deficit),0.014539052,OP1,2020-21,Reported,Small Shire,Pyrenees Shire
+-0.022331814,Adjusted underlying surplus (or deficit),0.033181969,OP1,2020-21,Reported,Small Shire,Strathbogie Shire
+-0.022331814,Adjusted underlying surplus (or deficit),0.07820666,OP1,2020-21,Reported,Small Shire,Towong Shire
+-0.022331814,Adjusted underlying surplus (or deficit),-0.060246805,OP1,2020-21,Reported,Small Shire,West Wimmera Shire
+-0.022331814,Adjusted underlying surplus (or deficit),0.151691597,OP1,2020-21,Reported,Small Shire,Yarriambiack Shire
+0.039380809,Adjusted underlying surplus (or deficit),,OP1,2021-22,Missing,Small Shire,Towong Shire
+-0.002158985,Adjusted underlying surplus (or deficit),-0.003895086,OP1,2021-22,Reported,Interface,Cardinia Shire
+-0.002158985,Adjusted underlying surplus (or deficit),-0.099125317,OP1,2021-22,Reported,Interface,Casey City
+-0.002158985,Adjusted underlying surplus (or deficit),0.02191007,OP1,2021-22,Reported,Interface,Hume City
+-0.002158985,Adjusted underlying surplus (or deficit),0.332815346,OP1,2021-22,Reported,Interface,Melton City
+-0.002158985,Adjusted underlying surplus (or deficit),0.002689749,OP1,2021-22,Reported,Interface,Mornington Peninsula Shire
+-0.002158985,Adjusted underlying surplus (or deficit),-0.063534827,OP1,2021-22,Reported,Interface,Nillumbik Shire
+-0.002158985,Adjusted underlying surplus (or deficit),-0.002158985,OP1,2021-22,Reported,Interface,Whittlesea City
+-0.002158985,Adjusted underlying surplus (or deficit),-0.099817305,OP1,2021-22,Reported,Interface,Wyndham City
+-0.002158985,Adjusted underlying surplus (or deficit),0.065998499,OP1,2021-22,Reported,Interface,Yarra Ranges Shire
+-0.005364725,Adjusted underlying surplus (or deficit),-0.005364725,OP1,2021-22,Reported,Large Shire,Bass Coast Shire
+-0.005364725,Adjusted underlying surplus (or deficit),0.131681497,OP1,2021-22,Reported,Large Shire,Baw Baw Shire
+-0.005364725,Adjusted underlying surplus (or deficit),-0.00754536,OP1,2021-22,Reported,Large Shire,Campaspe Shire
+-0.005364725,Adjusted underlying surplus (or deficit),0.009092806,OP1,2021-22,Reported,Large Shire,Colac Otway Shire
+-0.005364725,Adjusted underlying surplus (or deficit),0.017699827,OP1,2021-22,Reported,Large Shire,Corangamite Shire
+-0.005364725,Adjusted underlying surplus (or deficit),0.103310711,OP1,2021-22,Reported,Large Shire,East Gippsland Shire
+-0.005364725,Adjusted underlying surplus (or deficit),-0.182031543,OP1,2021-22,Reported,Large Shire,Glenelg Shire
+-0.005364725,Adjusted underlying surplus (or deficit),-0.008607979,OP1,2021-22,Reported,Large Shire,Golden Plains Shire
+-0.005364725,Adjusted underlying surplus (or deficit),-0.00259701,OP1,2021-22,Reported,Large Shire,Macedon Ranges Shire
+-0.005364725,Adjusted underlying surplus (or deficit),-0.018503153,OP1,2021-22,Reported,Large Shire,Mitchell Shire
+-0.005364725,Adjusted underlying surplus (or deficit),0.114780195,OP1,2021-22,Reported,Large Shire,Moira Shire
+-0.005364725,Adjusted underlying surplus (or deficit),-0.070374885,OP1,2021-22,Reported,Large Shire,Moorabool Shire
+-0.005364725,Adjusted underlying surplus (or deficit),-0.090348487,OP1,2021-22,Reported,Large Shire,Mount Alexander Shire
+-0.005364725,Adjusted underlying surplus (or deficit),-0.032541541,OP1,2021-22,Reported,Large Shire,Moyne Shire
+-0.005364725,Adjusted underlying surplus (or deficit),-0.016025076,OP1,2021-22,Reported,Large Shire,South Gippsland Shire
+-0.005364725,Adjusted underlying surplus (or deficit),-0.000682579,OP1,2021-22,Reported,Large Shire,Southern Grampians Shire
+-0.005364725,Adjusted underlying surplus (or deficit),-0.148358017,OP1,2021-22,Reported,Large Shire,Surf Coast Shire
+-0.005364725,Adjusted underlying surplus (or deficit),0.057609105,OP1,2021-22,Reported,Large Shire,Swan Hill Rural City
+-0.005364725,Adjusted underlying surplus (or deficit),0.060962177,OP1,2021-22,Reported,Large Shire,Wellington Shire
+0.025039757,Adjusted underlying surplus (or deficit),-0.020454205,OP1,2021-22,Reported,Metropolitan,Banyule City
+0.025039757,Adjusted underlying surplus (or deficit),0.061550131,OP1,2021-22,Reported,Metropolitan,Bayside City
+0.025039757,Adjusted underlying surplus (or deficit),0.008993257,OP1,2021-22,Reported,Metropolitan,Boroondara City
+0.025039757,Adjusted underlying surplus (or deficit),0.084943348,OP1,2021-22,Reported,Metropolitan,Brimbank City
+0.025039757,Adjusted underlying surplus (or deficit),-0.005370769,OP1,2021-22,Reported,Metropolitan,Darebin City
+0.025039757,Adjusted underlying surplus (or deficit),-0.019820955,OP1,2021-22,Reported,Metropolitan,Frankston City
+0.025039757,Adjusted underlying surplus (or deficit),0.025039757,OP1,2021-22,Reported,Metropolitan,Glen Eira City
+0.025039757,Adjusted underlying surplus (or deficit),0.063856575,OP1,2021-22,Reported,Metropolitan,Greater Dandenong City
+0.025039757,Adjusted underlying surplus (or deficit),0.102233264,OP1,2021-22,Reported,Metropolitan,Hobsons Bay City
+0.025039757,Adjusted underlying surplus (or deficit),0.091197729,OP1,2021-22,Reported,Metropolitan,Kingston City
+0.025039757,Adjusted underlying surplus (or deficit),-0.045562197,OP1,2021-22,Reported,Metropolitan,Knox City
+0.025039757,Adjusted underlying surplus (or deficit),0.028322548,OP1,2021-22,Reported,Metropolitan,Manningham City
+0.025039757,Adjusted underlying surplus (or deficit),0.045196173,OP1,2021-22,Reported,Metropolitan,Maribyrnong City
+0.025039757,Adjusted underlying surplus (or deficit),-0.028035181,OP1,2021-22,Reported,Metropolitan,Maroondah City
+0.025039757,Adjusted underlying surplus (or deficit),-0.057927856,OP1,2021-22,Reported,Metropolitan,Melbourne City
+0.025039757,Adjusted underlying surplus (or deficit),0.160670743,OP1,2021-22,Reported,Metropolitan,Merri-bek City
+0.025039757,Adjusted underlying surplus (or deficit),0.011112663,OP1,2021-22,Reported,Metropolitan,Monash City
+0.025039757,Adjusted underlying surplus (or deficit),0.077618099,OP1,2021-22,Reported,Metropolitan,Moonee Valley City
+0.025039757,Adjusted underlying surplus (or deficit),0.049974007,OP1,2021-22,Reported,Metropolitan,Port Phillip City
+0.025039757,Adjusted underlying surplus (or deficit),-0.012750879,OP1,2021-22,Reported,Metropolitan,Stonnington City
+0.025039757,Adjusted underlying surplus (or deficit),0.057793258,OP1,2021-22,Reported,Metropolitan,Whitehorse City
+0.025039757,Adjusted underlying surplus (or deficit),-0.046346987,OP1,2021-22,Reported,Metropolitan,Yarra City
+0.026293751,Adjusted underlying surplus (or deficit),0.033724276,OP1,2021-22,Reported,Regional,Ballarat City
+0.026293751,Adjusted underlying surplus (or deficit),0.026611234,OP1,2021-22,Reported,Regional,Greater Bendigo City
+0.026293751,Adjusted underlying surplus (or deficit),0.093250412,OP1,2021-22,Reported,Regional,Greater Geelong City
+0.026293751,Adjusted underlying surplus (or deficit),0.026293751,OP1,2021-22,Reported,Regional,Greater Shepparton City
+0.026293751,Adjusted underlying surplus (or deficit),-0.111487685,OP1,2021-22,Reported,Regional,Horsham Rural City
+0.026293751,Adjusted underlying surplus (or deficit),-0.040200835,OP1,2021-22,Reported,Regional,Latrobe City
+0.026293751,Adjusted underlying surplus (or deficit),0.101611314,OP1,2021-22,Reported,Regional,Mildura Rural City
+0.026293751,Adjusted underlying surplus (or deficit),-0.130298167,OP1,2021-22,Reported,Regional,Wangaratta Rural City
+0.026293751,Adjusted underlying surplus (or deficit),0.075710987,OP1,2021-22,Reported,Regional,Warrnambool City
+0.026293751,Adjusted underlying surplus (or deficit),-0.023249565,OP1,2021-22,Reported,Regional,Wodonga City
+0.039380809,Adjusted underlying surplus (or deficit),0.045365134,OP1,2021-22,Reported,Small Shire,Alpine Shire
+0.039380809,Adjusted underlying surplus (or deficit),0.076350093,OP1,2021-22,Reported,Small Shire,Ararat Rural City
+0.039380809,Adjusted underlying surplus (or deficit),0.054014719,OP1,2021-22,Reported,Small Shire,Benalla Rural City
+0.039380809,Adjusted underlying surplus (or deficit),0.055841031,OP1,2021-22,Reported,Small Shire,Borough of Queenscliffe
+0.039380809,Adjusted underlying surplus (or deficit),-0.022815415,OP1,2021-22,Reported,Small Shire,Buloke Shire
+0.039380809,Adjusted underlying surplus (or deficit),-0.070513,OP1,2021-22,Reported,Small Shire,Central Goldfields Shire
+0.039380809,Adjusted underlying surplus (or deficit),0.044529706,OP1,2021-22,Reported,Small Shire,Gannawarra Shire
+0.039380809,Adjusted underlying surplus (or deficit),-0.221843636,OP1,2021-22,Reported,Small Shire,Hepburn Shire
+0.039380809,Adjusted underlying surplus (or deficit),0.116030879,OP1,2021-22,Reported,Small Shire,Hindmarsh Shire
+0.039380809,Adjusted underlying surplus (or deficit),-0.043313038,OP1,2021-22,Reported,Small Shire,Indigo Shire
+0.039380809,Adjusted underlying surplus (or deficit),0.039380809,OP1,2021-22,Reported,Small Shire,Loddon Shire
+0.039380809,Adjusted underlying surplus (or deficit),0.011590696,OP1,2021-22,Reported,Small Shire,Mansfield Shire
+0.039380809,Adjusted underlying surplus (or deficit),-0.003427535,OP1,2021-22,Reported,Small Shire,Murrindindi Shire
+0.039380809,Adjusted underlying surplus (or deficit),-0.216372863,OP1,2021-22,Reported,Small Shire,Northern Grampians Shire
+0.039380809,Adjusted underlying surplus (or deficit),0.042160577,OP1,2021-22,Reported,Small Shire,Pyrenees Shire
+0.039380809,Adjusted underlying surplus (or deficit),0.11067002,OP1,2021-22,Reported,Small Shire,Strathbogie Shire
+0.039380809,Adjusted underlying surplus (or deficit),0.027797875,OP1,2021-22,Reported,Small Shire,West Wimmera Shire
+0.039380809,Adjusted underlying surplus (or deficit),0.144966507,OP1,2021-22,Reported,Small Shire,Yarriambiack Shire
+-0.00775418,Adjusted underlying surplus (or deficit),-0.001435138,OP1,2022-23,Reported,Interface,Cardinia Shire
+-0.00775418,Adjusted underlying surplus (or deficit),-0.057653074,OP1,2022-23,Reported,Interface,Casey City
+-0.00775418,Adjusted underlying surplus (or deficit),-0.023449783,OP1,2022-23,Reported,Interface,Hume City
+-0.00775418,Adjusted underlying surplus (or deficit),0.312723642,OP1,2022-23,Reported,Interface,Melton City
+-0.00775418,Adjusted underlying surplus (or deficit),-0.00775418,OP1,2022-23,Reported,Interface,Mornington Peninsula Shire
+-0.00775418,Adjusted underlying surplus (or deficit),-0.074110372,OP1,2022-23,Reported,Interface,Nillumbik Shire
+-0.00775418,Adjusted underlying surplus (or deficit),-0.002061865,OP1,2022-23,Reported,Interface,Whittlesea City
+-0.00775418,Adjusted underlying surplus (or deficit),-0.082623821,OP1,2022-23,Reported,Interface,Wyndham City
+-0.00775418,Adjusted underlying surplus (or deficit),0.034773761,OP1,2022-23,Reported,Interface,Yarra Ranges Shire
+0.000666007,Adjusted underlying surplus (or deficit),-0.023746057,OP1,2022-23,Reported,Large Shire,Bass Coast Shire
+0.000666007,Adjusted underlying surplus (or deficit),-0.027556071,OP1,2022-23,Reported,Large Shire,Baw Baw Shire
+0.000666007,Adjusted underlying surplus (or deficit),-0.032647108,OP1,2022-23,Reported,Large Shire,Campaspe Shire
+0.000666007,Adjusted underlying surplus (or deficit),0.018522115,OP1,2022-23,Reported,Large Shire,Colac Otway Shire
+0.000666007,Adjusted underlying surplus (or deficit),0.000666007,OP1,2022-23,Reported,Large Shire,Corangamite Shire
+0.000666007,Adjusted underlying surplus (or deficit),0.13916805,OP1,2022-23,Reported,Large Shire,East Gippsland Shire
+0.000666007,Adjusted underlying surplus (or deficit),-0.076334504,OP1,2022-23,Reported,Large Shire,Glenelg Shire
+0.000666007,Adjusted underlying surplus (or deficit),-0.111945508,OP1,2022-23,Reported,Large Shire,Golden Plains Shire
+0.000666007,Adjusted underlying surplus (or deficit),0.028213787,OP1,2022-23,Reported,Large Shire,Macedon Ranges Shire
+0.000666007,Adjusted underlying surplus (or deficit),-0.082284017,OP1,2022-23,Reported,Large Shire,Mitchell Shire
+0.000666007,Adjusted underlying surplus (or deficit),0.117466997,OP1,2022-23,Reported,Large Shire,Moira Shire
+0.000666007,Adjusted underlying surplus (or deficit),0.060285743,OP1,2022-23,Reported,Large Shire,Moorabool Shire
+0.000666007,Adjusted underlying surplus (or deficit),0.081056658,OP1,2022-23,Reported,Large Shire,Mount Alexander Shire
+0.000666007,Adjusted underlying surplus (or deficit),-0.057554628,OP1,2022-23,Reported,Large Shire,Moyne Shire
+0.000666007,Adjusted underlying surplus (or deficit),0.032227812,OP1,2022-23,Reported,Large Shire,South Gippsland Shire
+0.000666007,Adjusted underlying surplus (or deficit),-0.373386908,OP1,2022-23,Reported,Large Shire,Southern Grampians Shire
+0.000666007,Adjusted underlying surplus (or deficit),-0.123473057,OP1,2022-23,Reported,Large Shire,Surf Coast Shire
+0.000666007,Adjusted underlying surplus (or deficit),0.080477151,OP1,2022-23,Reported,Large Shire,Swan Hill Rural City
+0.000666007,Adjusted underlying surplus (or deficit),0.086615358,OP1,2022-23,Reported,Large Shire,Wellington Shire
+0.03044788,Adjusted underlying surplus (or deficit),-0.002811191,OP1,2022-23,Reported,Metropolitan,Banyule City
+0.03044788,Adjusted underlying surplus (or deficit),0.088266527,OP1,2022-23,Reported,Metropolitan,Bayside City
+0.03044788,Adjusted underlying surplus (or deficit),0.033549129,OP1,2022-23,Reported,Metropolitan,Boroondara City
+0.03044788,Adjusted underlying surplus (or deficit),0.048780589,OP1,2022-23,Reported,Metropolitan,Brimbank City
+0.03044788,Adjusted underlying surplus (or deficit),0.04032908,OP1,2022-23,Reported,Metropolitan,Darebin City
+0.03044788,Adjusted underlying surplus (or deficit),-0.035815363,OP1,2022-23,Reported,Metropolitan,Frankston City
+0.03044788,Adjusted underlying surplus (or deficit),0.056250379,OP1,2022-23,Reported,Metropolitan,Glen Eira City
+0.03044788,Adjusted underlying surplus (or deficit),0.03044788,OP1,2022-23,Reported,Metropolitan,Greater Dandenong City
+0.03044788,Adjusted underlying surplus (or deficit),0.083342914,OP1,2022-23,Reported,Metropolitan,Hobsons Bay City
+0.03044788,Adjusted underlying surplus (or deficit),0.060283402,OP1,2022-23,Reported,Metropolitan,Kingston City
+0.03044788,Adjusted underlying surplus (or deficit),-0.091335578,OP1,2022-23,Reported,Metropolitan,Knox City
+0.03044788,Adjusted underlying surplus (or deficit),-0.032516009,OP1,2022-23,Reported,Metropolitan,Manningham City
+0.03044788,Adjusted underlying surplus (or deficit),-0.056696596,OP1,2022-23,Reported,Metropolitan,Maribyrnong City
+0.03044788,Adjusted underlying surplus (or deficit),-0.025792561,OP1,2022-23,Reported,Metropolitan,Maroondah City
+0.03044788,Adjusted underlying surplus (or deficit),-0.011998828,OP1,2022-23,Reported,Metropolitan,Melbourne City
+0.03044788,Adjusted underlying surplus (or deficit),0.124124031,OP1,2022-23,Reported,Metropolitan,Merri-bek City
+0.03044788,Adjusted underlying surplus (or deficit),-0.004916895,OP1,2022-23,Reported,Metropolitan,Monash City
+0.03044788,Adjusted underlying surplus (or deficit),0.076430748,OP1,2022-23,Reported,Metropolitan,Moonee Valley City
+0.03044788,Adjusted underlying surplus (or deficit),0.066370211,OP1,2022-23,Reported,Metropolitan,Port Phillip City
+0.03044788,Adjusted underlying surplus (or deficit),-0.01341907,OP1,2022-23,Reported,Metropolitan,Stonnington City
+0.03044788,Adjusted underlying surplus (or deficit),-0.040609906,OP1,2022-23,Reported,Metropolitan,Whitehorse City
+0.03044788,Adjusted underlying surplus (or deficit),0.078712129,OP1,2022-23,Reported,Metropolitan,Yarra City
+-0.0255822,Adjusted underlying surplus (or deficit),-0.0255822,OP1,2022-23,Reported,Regional,Ballarat City
+-0.0255822,Adjusted underlying surplus (or deficit),-0.032671242,OP1,2022-23,Reported,Regional,Greater Bendigo City
+-0.0255822,Adjusted underlying surplus (or deficit),0.083346324,OP1,2022-23,Reported,Regional,Greater Geelong City
+-0.0255822,Adjusted underlying surplus (or deficit),0.046222973,OP1,2022-23,Reported,Regional,Greater Shepparton City
+-0.0255822,Adjusted underlying surplus (or deficit),-0.05005541,OP1,2022-23,Reported,Regional,Horsham Rural City
+-0.0255822,Adjusted underlying surplus (or deficit),-0.03728904,OP1,2022-23,Reported,Regional,Latrobe City
+-0.0255822,Adjusted underlying surplus (or deficit),0.078368242,OP1,2022-23,Reported,Regional,Mildura Rural City
+-0.0255822,Adjusted underlying surplus (or deficit),0.086220983,OP1,2022-23,Reported,Regional,Wangaratta Rural City
+-0.0255822,Adjusted underlying surplus (or deficit),0.040476924,OP1,2022-23,Reported,Regional,Warrnambool City
+-0.0255822,Adjusted underlying surplus (or deficit),-1.503600864,OP1,2022-23,Reported,Regional,Wodonga City
+0.026840064,Adjusted underlying surplus (or deficit),0.105878,OP1,2022-23,Reported,Small Shire,Alpine Shire
+0.026840064,Adjusted underlying surplus (or deficit),0.02058738,OP1,2022-23,Reported,Small Shire,Ararat Rural City
+0.026840064,Adjusted underlying surplus (or deficit),0.073991495,OP1,2022-23,Reported,Small Shire,Benalla Rural City
+0.026840064,Adjusted underlying surplus (or deficit),-0.049037064,OP1,2022-23,Reported,Small Shire,Borough of Queenscliffe
+0.026840064,Adjusted underlying surplus (or deficit),0.138675187,OP1,2022-23,Reported,Small Shire,Buloke Shire
+0.026840064,Adjusted underlying surplus (or deficit),-0.095127521,OP1,2022-23,Reported,Small Shire,Central Goldfields Shire
+0.026840064,Adjusted underlying surplus (or deficit),0.090922241,OP1,2022-23,Reported,Small Shire,Gannawarra Shire
+0.026840064,Adjusted underlying surplus (or deficit),-0.248126598,OP1,2022-23,Reported,Small Shire,Hepburn Shire
+0.026840064,Adjusted underlying surplus (or deficit),0.079905993,OP1,2022-23,Reported,Small Shire,Hindmarsh Shire
+0.026840064,Adjusted underlying surplus (or deficit),0.004279485,OP1,2022-23,Reported,Small Shire,Indigo Shire
+0.026840064,Adjusted underlying surplus (or deficit),0.070267978,OP1,2022-23,Reported,Small Shire,Loddon Shire
+0.026840064,Adjusted underlying surplus (or deficit),0.02706745,OP1,2022-23,Reported,Small Shire,Mansfield Shire
+0.026840064,Adjusted underlying surplus (or deficit),-0.077091812,OP1,2022-23,Reported,Small Shire,Murrindindi Shire
+0.026840064,Adjusted underlying surplus (or deficit),-0.156327783,OP1,2022-23,Reported,Small Shire,Northern Grampians Shire
+0.026840064,Adjusted underlying surplus (or deficit),0.061592868,OP1,2022-23,Reported,Small Shire,Pyrenees Shire
+0.026840064,Adjusted underlying surplus (or deficit),0.007710081,OP1,2022-23,Reported,Small Shire,Strathbogie Shire
+0.026840064,Adjusted underlying surplus (or deficit),0.026840064,OP1,2022-23,Reported,Small Shire,Towong Shire
+0.026840064,Adjusted underlying surplus (or deficit),0.034522403,OP1,2022-23,Reported,Small Shire,West Wimmera Shire
+0.026840064,Adjusted underlying surplus (or deficit),-0.056862462,OP1,2022-23,Reported,Small Shire,Yarriambiack Shire
+-0.054874459,Adjusted underlying surplus (or deficit),-0.041375221,OP1,2023-24,Reported,Interface,Cardinia Shire
+-0.054874459,Adjusted underlying surplus (or deficit),-0.054874459,OP1,2023-24,Reported,Interface,Casey City
+-0.054874459,Adjusted underlying surplus (or deficit),-0.105803402,OP1,2023-24,Reported,Interface,Hume City
+-0.054874459,Adjusted underlying surplus (or deficit),0.127568487,OP1,2023-24,Reported,Interface,Melton City
+-0.054874459,Adjusted underlying surplus (or deficit),0.009969979,OP1,2023-24,Reported,Interface,Mornington Peninsula Shire
+-0.054874459,Adjusted underlying surplus (or deficit),-0.179559889,OP1,2023-24,Reported,Interface,Nillumbik Shire
+-0.054874459,Adjusted underlying surplus (or deficit),-0.025768484,OP1,2023-24,Reported,Interface,Whittlesea City
+-0.054874459,Adjusted underlying surplus (or deficit),-0.10701802,OP1,2023-24,Reported,Interface,Wyndham City
+-0.054874459,Adjusted underlying surplus (or deficit),-0.11018629,OP1,2023-24,Reported,Interface,Yarra Ranges Shire
+-0.213587118,Adjusted underlying surplus (or deficit),-0.127053943,OP1,2023-24,Reported,Large Shire,Bass Coast Shire
+-0.213587118,Adjusted underlying surplus (or deficit),-0.195323966,OP1,2023-24,Reported,Large Shire,Baw Baw Shire
+-0.213587118,Adjusted underlying surplus (or deficit),-0.265096134,OP1,2023-24,Reported,Large Shire,Campaspe Shire
+-0.213587118,Adjusted underlying surplus (or deficit),-0.173604659,OP1,2023-24,Reported,Large Shire,Colac Otway Shire
+-0.213587118,Adjusted underlying surplus (or deficit),-0.223776992,OP1,2023-24,Reported,Large Shire,Corangamite Shire
+-0.213587118,Adjusted underlying surplus (or deficit),-0.233037214,OP1,2023-24,Reported,Large Shire,East Gippsland Shire
+-0.213587118,Adjusted underlying surplus (or deficit),-0.107434014,OP1,2023-24,Reported,Large Shire,Glenelg Shire
+-0.213587118,Adjusted underlying surplus (or deficit),-0.213587118,OP1,2023-24,Reported,Large Shire,Golden Plains Shire
+-0.213587118,Adjusted underlying surplus (or deficit),-0.082183539,OP1,2023-24,Reported,Large Shire,Macedon Ranges Shire
+-0.213587118,Adjusted underlying surplus (or deficit),-0.105800154,OP1,2023-24,Reported,Large Shire,Mitchell Shire
+-0.213587118,Adjusted underlying surplus (or deficit),-0.245937507,OP1,2023-24,Reported,Large Shire,Moira Shire
+-0.213587118,Adjusted underlying surplus (or deficit),-0.21876376,OP1,2023-24,Reported,Large Shire,Moorabool Shire
+-0.213587118,Adjusted underlying surplus (or deficit),-0.185553305,OP1,2023-24,Reported,Large Shire,Mount Alexander Shire
+-0.213587118,Adjusted underlying surplus (or deficit),-0.319031609,OP1,2023-24,Reported,Large Shire,Moyne Shire
+-0.213587118,Adjusted underlying surplus (or deficit),-0.30252247,OP1,2023-24,Reported,Large Shire,South Gippsland Shire
+-0.213587118,Adjusted underlying surplus (or deficit),-0.434387672,OP1,2023-24,Reported,Large Shire,Southern Grampians Shire
+-0.213587118,Adjusted underlying surplus (or deficit),-0.488965316,OP1,2023-24,Reported,Large Shire,Surf Coast Shire
+-0.213587118,Adjusted underlying surplus (or deficit),-0.16137074,OP1,2023-24,Reported,Large Shire,Swan Hill Rural City
+-0.213587118,Adjusted underlying surplus (or deficit),-0.16850995,OP1,2023-24,Reported,Large Shire,Wellington Shire
+0.00053256,Adjusted underlying surplus (or deficit),-0.032128296,OP1,2023-24,Reported,Metropolitan,Banyule City
+0.00053256,Adjusted underlying surplus (or deficit),0.07720019,OP1,2023-24,Reported,Metropolitan,Bayside City
+0.00053256,Adjusted underlying surplus (or deficit),0.086311535,OP1,2023-24,Reported,Metropolitan,Boroondara City
+0.00053256,Adjusted underlying surplus (or deficit),-0.015701977,OP1,2023-24,Reported,Metropolitan,Brimbank City
+0.00053256,Adjusted underlying surplus (or deficit),0.007496613,OP1,2023-24,Reported,Metropolitan,Darebin City
+0.00053256,Adjusted underlying surplus (or deficit),-0.103609492,OP1,2023-24,Reported,Metropolitan,Frankston City
+0.00053256,Adjusted underlying surplus (or deficit),0.00053256,OP1,2023-24,Reported,Metropolitan,Glen Eira City
+0.00053256,Adjusted underlying surplus (or deficit),-0.04504113,OP1,2023-24,Reported,Metropolitan,Greater Dandenong City
+0.00053256,Adjusted underlying surplus (or deficit),0.021256146,OP1,2023-24,Reported,Metropolitan,Hobsons Bay City
+0.00053256,Adjusted underlying surplus (or deficit),-0.019166004,OP1,2023-24,Reported,Metropolitan,Kingston City
+0.00053256,Adjusted underlying surplus (or deficit),0.002791872,OP1,2023-24,Reported,Metropolitan,Knox City
+0.00053256,Adjusted underlying surplus (or deficit),-0.037636051,OP1,2023-24,Reported,Metropolitan,Manningham City
+0.00053256,Adjusted underlying surplus (or deficit),0.06348398,OP1,2023-24,Reported,Metropolitan,Maribyrnong City
+0.00053256,Adjusted underlying surplus (or deficit),0.034739092,OP1,2023-24,Reported,Metropolitan,Maroondah City
+0.00053256,Adjusted underlying surplus (or deficit),-0.024153686,OP1,2023-24,Reported,Metropolitan,Melbourne City
+0.00053256,Adjusted underlying surplus (or deficit),0.079118847,OP1,2023-24,Reported,Metropolitan,Merri-bek City
+0.00053256,Adjusted underlying surplus (or deficit),-0.033665524,OP1,2023-24,Reported,Metropolitan,Monash City
+0.00053256,Adjusted underlying surplus (or deficit),0.020052217,OP1,2023-24,Reported,Metropolitan,Moonee Valley City
+0.00053256,Adjusted underlying surplus (or deficit),-0.004809596,OP1,2023-24,Reported,Metropolitan,Port Phillip City
+0.00053256,Adjusted underlying surplus (or deficit),-0.048876402,OP1,2023-24,Reported,Metropolitan,Stonnington City
+0.00053256,Adjusted underlying surplus (or deficit),0.035040884,OP1,2023-24,Reported,Metropolitan,Whitehorse City
+0.00053256,Adjusted underlying surplus (or deficit),0.09061279,OP1,2023-24,Reported,Metropolitan,Yarra City
+-0.121546484,Adjusted underlying surplus (or deficit),-0.007306116,OP1,2023-24,Reported,Regional,Ballarat City
+-0.121546484,Adjusted underlying surplus (or deficit),-0.21066966,OP1,2023-24,Reported,Regional,Greater Bendigo City
+-0.121546484,Adjusted underlying surplus (or deficit),-0.128528299,OP1,2023-24,Reported,Regional,Greater Geelong City
+-0.121546484,Adjusted underlying surplus (or deficit),-0.102817615,OP1,2023-24,Reported,Regional,Greater Shepparton City
+-0.121546484,Adjusted underlying surplus (or deficit),-0.347676185,OP1,2023-24,Reported,Regional,Horsham Rural City
+-0.121546484,Adjusted underlying surplus (or deficit),-0.231569131,OP1,2023-24,Reported,Regional,Latrobe City
+-0.121546484,Adjusted underlying surplus (or deficit),-0.082102704,OP1,2023-24,Reported,Regional,Mildura Rural City
+-0.121546484,Adjusted underlying surplus (or deficit),-0.059212842,OP1,2023-24,Reported,Regional,Wangaratta Rural City
+-0.121546484,Adjusted underlying surplus (or deficit),-0.103087242,OP1,2023-24,Reported,Regional,Warrnambool City
+-0.121546484,Adjusted underlying surplus (or deficit),-0.121546484,OP1,2023-24,Reported,Regional,Wodonga City
+-0.291400781,Adjusted underlying surplus (or deficit),-0.10707266,OP1,2023-24,Reported,Small Shire,Alpine Shire
+-0.291400781,Adjusted underlying surplus (or deficit),-0.40251806,OP1,2023-24,Reported,Small Shire,Ararat Rural City
+-0.291400781,Adjusted underlying surplus (or deficit),-0.085363504,OP1,2023-24,Reported,Small Shire,Benalla Rural City
+-0.291400781,Adjusted underlying surplus (or deficit),-0.061495838,OP1,2023-24,Reported,Small Shire,Borough of Queenscliffe
+-0.291400781,Adjusted underlying surplus (or deficit),-0.443347193,OP1,2023-24,Reported,Small Shire,Buloke Shire
+-0.291400781,Adjusted underlying surplus (or deficit),-0.308776653,OP1,2023-24,Reported,Small Shire,Central Goldfields Shire
+-0.291400781,Adjusted underlying surplus (or deficit),-0.193924032,OP1,2023-24,Reported,Small Shire,Gannawarra Shire
+-0.291400781,Adjusted underlying surplus (or deficit),-0.413943167,OP1,2023-24,Reported,Small Shire,Hepburn Shire
+-0.291400781,Adjusted underlying surplus (or deficit),-0.182781194,OP1,2023-24,Reported,Small Shire,Hindmarsh Shire
+-0.291400781,Adjusted underlying surplus (or deficit),-0.291400781,OP1,2023-24,Reported,Small Shire,Indigo Shire
+-0.291400781,Adjusted underlying surplus (or deficit),-0.538597596,OP1,2023-24,Reported,Small Shire,Loddon Shire
+-0.291400781,Adjusted underlying surplus (or deficit),-0.083121673,OP1,2023-24,Reported,Small Shire,Mansfield Shire
+-0.291400781,Adjusted underlying surplus (or deficit),-0.162759578,OP1,2023-24,Reported,Small Shire,Murrindindi Shire
+-0.291400781,Adjusted underlying surplus (or deficit),-0.949258783,OP1,2023-24,Reported,Small Shire,Northern Grampians Shire
+-0.291400781,Adjusted underlying surplus (or deficit),-0.389579543,OP1,2023-24,Reported,Small Shire,Pyrenees Shire
+-0.291400781,Adjusted underlying surplus (or deficit),-0.259351214,OP1,2023-24,Reported,Small Shire,Strathbogie Shire
+-0.291400781,Adjusted underlying surplus (or deficit),-0.241606899,OP1,2023-24,Reported,Small Shire,Towong Shire
+-0.291400781,Adjusted underlying surplus (or deficit),-0.609394796,OP1,2023-24,Reported,Small Shire,West Wimmera Shire
+-0.291400781,Adjusted underlying surplus (or deficit),-0.33725115,OP1,2023-24,Reported,Small Shire,Yarriambiack Shire
+0.006305743,Adjusted underlying surplus (or deficit),-0.0000501133,OP1,2024-25,Reported,Interface,Cardinia Shire
+0.006305743,Adjusted underlying surplus (or deficit),0.007626956,OP1,2024-25,Reported,Interface,Casey City
+0.006305743,Adjusted underlying surplus (or deficit),0.023406169,OP1,2024-25,Reported,Interface,Hume City
+0.006305743,Adjusted underlying surplus (or deficit),0.214585837,OP1,2024-25,Reported,Interface,Melton City
+0.006305743,Adjusted underlying surplus (or deficit),0.000885792,OP1,2024-25,Reported,Interface,Mornington Peninsula Shire
+0.006305743,Adjusted underlying surplus (or deficit),-0.064226156,OP1,2024-25,Reported,Interface,Nillumbik Shire
+0.006305743,Adjusted underlying surplus (or deficit),0.066117225,OP1,2024-25,Reported,Interface,Whittlesea City
+0.006305743,Adjusted underlying surplus (or deficit),0.006305743,OP1,2024-25,Reported,Interface,Wyndham City
+0.006305743,Adjusted underlying surplus (or deficit),-0.02231362,OP1,2024-25,Reported,Interface,Yarra Ranges Shire
+-0.013185847,Adjusted underlying surplus (or deficit),-0.063342758,OP1,2024-25,Reported,Large Shire,Bass Coast Shire
+-0.013185847,Adjusted underlying surplus (or deficit),-0.110615058,OP1,2024-25,Reported,Large Shire,Baw Baw Shire
+-0.013185847,Adjusted underlying surplus (or deficit),-0.054075323,OP1,2024-25,Reported,Large Shire,Campaspe Shire
+-0.013185847,Adjusted underlying surplus (or deficit),-0.080380174,OP1,2024-25,Reported,Large Shire,Colac Otway Shire
+-0.013185847,Adjusted underlying surplus (or deficit),-0.178364988,OP1,2024-25,Reported,Large Shire,Corangamite Shire
+-0.013185847,Adjusted underlying surplus (or deficit),-0.036382058,OP1,2024-25,Reported,Large Shire,East Gippsland Shire
+-0.013185847,Adjusted underlying surplus (or deficit),-0.013185847,OP1,2024-25,Reported,Large Shire,Glenelg Shire
+-0.013185847,Adjusted underlying surplus (or deficit),0.005236823,OP1,2024-25,Reported,Large Shire,Golden Plains Shire
+-0.013185847,Adjusted underlying surplus (or deficit),0.028007342,OP1,2024-25,Reported,Large Shire,Macedon Ranges Shire
+-0.013185847,Adjusted underlying surplus (or deficit),-0.006452065,OP1,2024-25,Reported,Large Shire,Mitchell Shire
+-0.013185847,Adjusted underlying surplus (or deficit),0.092363725,OP1,2024-25,Reported,Large Shire,Moira Shire
+-0.013185847,Adjusted underlying surplus (or deficit),0.004328472,OP1,2024-25,Reported,Large Shire,Moorabool Shire
+-0.013185847,Adjusted underlying surplus (or deficit),-0.032812094,OP1,2024-25,Reported,Large Shire,Mount Alexander Shire
+-0.013185847,Adjusted underlying surplus (or deficit),-0.039091913,OP1,2024-25,Reported,Large Shire,Moyne Shire
+-0.013185847,Adjusted underlying surplus (or deficit),0.058486188,OP1,2024-25,Reported,Large Shire,South Gippsland Shire
+-0.013185847,Adjusted underlying surplus (or deficit),-0.01015648,OP1,2024-25,Reported,Large Shire,Southern Grampians Shire
+-0.013185847,Adjusted underlying surplus (or deficit),-0.049989024,OP1,2024-25,Reported,Large Shire,Surf Coast Shire
+-0.013185847,Adjusted underlying surplus (or deficit),0.022467073,OP1,2024-25,Reported,Large Shire,Swan Hill Rural City
+-0.013185847,Adjusted underlying surplus (or deficit),0.08221101,OP1,2024-25,Reported,Large Shire,Wellington Shire
+0.048144701,Adjusted underlying surplus (or deficit),0.005091434,OP1,2024-25,Reported,Metropolitan,Banyule City
+0.048144701,Adjusted underlying surplus (or deficit),0.077140717,OP1,2024-25,Reported,Metropolitan,Bayside City
+0.048144701,Adjusted underlying surplus (or deficit),0.077276096,OP1,2024-25,Reported,Metropolitan,Boroondara City
+0.048144701,Adjusted underlying surplus (or deficit),0.047862031,OP1,2024-25,Reported,Metropolitan,Brimbank City
+0.048144701,Adjusted underlying surplus (or deficit),0.02882396,OP1,2024-25,Reported,Metropolitan,Darebin City
+0.048144701,Adjusted underlying surplus (or deficit),-0.046226308,OP1,2024-25,Reported,Metropolitan,Frankston City
+0.048144701,Adjusted underlying surplus (or deficit),0.048144701,OP1,2024-25,Reported,Metropolitan,Glen Eira City
+0.048144701,Adjusted underlying surplus (or deficit),0.037601596,OP1,2024-25,Reported,Metropolitan,Greater Dandenong City
+0.048144701,Adjusted underlying surplus (or deficit),0.048386681,OP1,2024-25,Reported,Metropolitan,Hobsons Bay City
+0.048144701,Adjusted underlying surplus (or deficit),0.015559213,OP1,2024-25,Reported,Metropolitan,Kingston City
+0.048144701,Adjusted underlying surplus (or deficit),0.023922761,OP1,2024-25,Reported,Metropolitan,Knox City
+0.048144701,Adjusted underlying surplus (or deficit),0.127192111,OP1,2024-25,Reported,Metropolitan,Manningham City
+0.048144701,Adjusted underlying surplus (or deficit),0.055127564,OP1,2024-25,Reported,Metropolitan,Maribyrnong City
+0.048144701,Adjusted underlying surplus (or deficit),0.048125028,OP1,2024-25,Reported,Metropolitan,Maroondah City
+0.048144701,Adjusted underlying surplus (or deficit),0.054849166,OP1,2024-25,Reported,Metropolitan,Melbourne City
+0.048144701,Adjusted underlying surplus (or deficit),0.088193457,OP1,2024-25,Reported,Metropolitan,Merri-bek City
+0.048144701,Adjusted underlying surplus (or deficit),0.124943271,OP1,2024-25,Reported,Metropolitan,Monash City
+0.048144701,Adjusted underlying surplus (or deficit),0.082641265,OP1,2024-25,Reported,Metropolitan,Moonee Valley City
+0.048144701,Adjusted underlying surplus (or deficit),0.060372038,OP1,2024-25,Reported,Metropolitan,Port Phillip City
+0.048144701,Adjusted underlying surplus (or deficit),0.00030021,OP1,2024-25,Reported,Metropolitan,Stonnington City
+0.048144701,Adjusted underlying surplus (or deficit),0.044051057,OP1,2024-25,Reported,Metropolitan,Whitehorse City
+0.048144701,Adjusted underlying surplus (or deficit),0.095407555,OP1,2024-25,Reported,Metropolitan,Yarra City
+-0.027757887,Adjusted underlying surplus (or deficit),-0.027757887,OP1,2024-25,Reported,Regional,Ballarat City
+-0.027757887,Adjusted underlying surplus (or deficit),-0.070445855,OP1,2024-25,Reported,Regional,Greater Bendigo City
+-0.027757887,Adjusted underlying surplus (or deficit),0.003566922,OP1,2024-25,Reported,Regional,Greater Geelong City
+-0.027757887,Adjusted underlying surplus (or deficit),0.04519254,OP1,2024-25,Reported,Regional,Greater Shepparton City
+-0.027757887,Adjusted underlying surplus (or deficit),0.005648836,OP1,2024-25,Reported,Regional,Horsham Rural City
+-0.027757887,Adjusted underlying surplus (or deficit),-0.059822026,OP1,2024-25,Reported,Regional,Latrobe City
+-0.027757887,Adjusted underlying surplus (or deficit),0.100288021,OP1,2024-25,Reported,Regional,Mildura Rural City
+-0.027757887,Adjusted underlying surplus (or deficit),-0.072709594,OP1,2024-25,Reported,Regional,Wangaratta Rural City
+-0.027757887,Adjusted underlying surplus (or deficit),-0.040963808,OP1,2024-25,Reported,Regional,Warrnambool City
+-0.027757887,Adjusted underlying surplus (or deficit),0.079591109,OP1,2024-25,Reported,Regional,Wodonga City
+-0.02438461,Adjusted underlying surplus (or deficit),-0.10519238,OP1,2024-25,Reported,Small Shire,Alpine Shire
+-0.02438461,Adjusted underlying surplus (or deficit),-0.003467103,OP1,2024-25,Reported,Small Shire,Ararat Rural City
+-0.02438461,Adjusted underlying surplus (or deficit),0.108348508,OP1,2024-25,Reported,Small Shire,Benalla Rural City
+-0.02438461,Adjusted underlying surplus (or deficit),0.04359243,OP1,2024-25,Reported,Small Shire,Borough of Queenscliffe
+-0.02438461,Adjusted underlying surplus (or deficit),-0.02438461,OP1,2024-25,Reported,Small Shire,Buloke Shire
+-0.02438461,Adjusted underlying surplus (or deficit),-0.070567376,OP1,2024-25,Reported,Small Shire,Central Goldfields Shire
+-0.02438461,Adjusted underlying surplus (or deficit),0.130167749,OP1,2024-25,Reported,Small Shire,Gannawarra Shire
+-0.02438461,Adjusted underlying surplus (or deficit),-0.060809357,OP1,2024-25,Reported,Small Shire,Hepburn Shire
+-0.02438461,Adjusted underlying surplus (or deficit),-0.12231628,OP1,2024-25,Reported,Small Shire,Hindmarsh Shire
+-0.02438461,Adjusted underlying surplus (or deficit),-0.125955037,OP1,2024-25,Reported,Small Shire,Indigo Shire
+-0.02438461,Adjusted underlying surplus (or deficit),0.056055092,OP1,2024-25,Reported,Small Shire,Loddon Shire
+-0.02438461,Adjusted underlying surplus (or deficit),0.1056913,OP1,2024-25,Reported,Small Shire,Mansfield Shire
+-0.02438461,Adjusted underlying surplus (or deficit),-0.004541657,OP1,2024-25,Reported,Small Shire,Murrindindi Shire
+-0.02438461,Adjusted underlying surplus (or deficit),-0.201077352,OP1,2024-25,Reported,Small Shire,Northern Grampians Shire
+-0.02438461,Adjusted underlying surplus (or deficit),0.126004699,OP1,2024-25,Reported,Small Shire,Pyrenees Shire
+-0.02438461,Adjusted underlying surplus (or deficit),0.051784851,OP1,2024-25,Reported,Small Shire,Strathbogie Shire
+-0.02438461,Adjusted underlying surplus (or deficit),-0.0341419,OP1,2024-25,Reported,Small Shire,Towong Shire
+-0.02438461,Adjusted underlying surplus (or deficit),-0.112484717,OP1,2024-25,Reported,Small Shire,West Wimmera Shire
+-0.02438461,Adjusted underlying surplus (or deficit),-0.100551274,OP1,2024-25,Reported,Small Shire,Yarriambiack Shire
+0.822104166,Asset renewal and upgrade compared to depreciation,1.060914864,O5,2020-21,Reported,Interface,Cardinia Shire
+0.822104166,Asset renewal and upgrade compared to depreciation,0.853992918,O5,2020-21,Reported,Interface,Casey City
+0.822104166,Asset renewal and upgrade compared to depreciation,0.746640553,O5,2020-21,Reported,Interface,Hume City
+0.822104166,Asset renewal and upgrade compared to depreciation,0.376179219,O5,2020-21,Reported,Interface,Melton City
+0.822104166,Asset renewal and upgrade compared to depreciation,0.700551615,O5,2020-21,Reported,Interface,Mornington Peninsula Shire
+0.822104166,Asset renewal and upgrade compared to depreciation,2.616269308,O5,2020-21,Reported,Interface,Nillumbik Shire
+0.822104166,Asset renewal and upgrade compared to depreciation,0.822104166,O5,2020-21,Reported,Interface,Whittlesea City
+0.822104166,Asset renewal and upgrade compared to depreciation,0.335732979,O5,2020-21,Reported,Interface,Wyndham City
+0.822104166,Asset renewal and upgrade compared to depreciation,1.313012366,O5,2020-21,Reported,Interface,Yarra Ranges Shire
+0.976084313,Asset renewal and upgrade compared to depreciation,0.675733236,O5,2020-21,Reported,Large Shire,Bass Coast Shire
+0.976084313,Asset renewal and upgrade compared to depreciation,0.913358627,O5,2020-21,Reported,Large Shire,Baw Baw Shire
+0.976084313,Asset renewal and upgrade compared to depreciation,0.953656174,O5,2020-21,Reported,Large Shire,Campaspe Shire
+0.976084313,Asset renewal and upgrade compared to depreciation,0.976084313,O5,2020-21,Reported,Large Shire,Colac Otway Shire
+0.976084313,Asset renewal and upgrade compared to depreciation,1.004051166,O5,2020-21,Reported,Large Shire,Corangamite Shire
+0.976084313,Asset renewal and upgrade compared to depreciation,1.476934489,O5,2020-21,Reported,Large Shire,East Gippsland Shire
+0.976084313,Asset renewal and upgrade compared to depreciation,0.659006211,O5,2020-21,Reported,Large Shire,Glenelg Shire
+0.976084313,Asset renewal and upgrade compared to depreciation,0.726662877,O5,2020-21,Reported,Large Shire,Golden Plains Shire
+0.976084313,Asset renewal and upgrade compared to depreciation,0.870603322,O5,2020-21,Reported,Large Shire,Macedon Ranges Shire
+0.976084313,Asset renewal and upgrade compared to depreciation,1.300369812,O5,2020-21,Reported,Large Shire,Mitchell Shire
+0.976084313,Asset renewal and upgrade compared to depreciation,1.004845222,O5,2020-21,Reported,Large Shire,Moira Shire
+0.976084313,Asset renewal and upgrade compared to depreciation,1.286094725,O5,2020-21,Reported,Large Shire,Moorabool Shire
+0.976084313,Asset renewal and upgrade compared to depreciation,0.677535823,O5,2020-21,Reported,Large Shire,Mount Alexander Shire
+0.976084313,Asset renewal and upgrade compared to depreciation,1.413881185,O5,2020-21,Reported,Large Shire,Moyne Shire
+0.976084313,Asset renewal and upgrade compared to depreciation,2.300797314,O5,2020-21,Reported,Large Shire,South Gippsland Shire
+0.976084313,Asset renewal and upgrade compared to depreciation,0.686514127,O5,2020-21,Reported,Large Shire,Southern Grampians Shire
+0.976084313,Asset renewal and upgrade compared to depreciation,0.758084733,O5,2020-21,Reported,Large Shire,Surf Coast Shire
+0.976084313,Asset renewal and upgrade compared to depreciation,1.015375154,O5,2020-21,Reported,Large Shire,Swan Hill Rural City
+0.976084313,Asset renewal and upgrade compared to depreciation,1.347219882,O5,2020-21,Reported,Large Shire,Wellington Shire
+1.124970986,Asset renewal and upgrade compared to depreciation,1.129839162,O5,2020-21,Reported,Metropolitan,Banyule City
+1.124970986,Asset renewal and upgrade compared to depreciation,1.124970986,O5,2020-21,Reported,Metropolitan,Bayside City
+1.124970986,Asset renewal and upgrade compared to depreciation,1.532491937,O5,2020-21,Reported,Metropolitan,Boroondara City
+1.124970986,Asset renewal and upgrade compared to depreciation,1.069868682,O5,2020-21,Reported,Metropolitan,Brimbank City
+1.124970986,Asset renewal and upgrade compared to depreciation,1.104318085,O5,2020-21,Reported,Metropolitan,Darebin City
+1.124970986,Asset renewal and upgrade compared to depreciation,0.888718134,O5,2020-21,Reported,Metropolitan,Frankston City
+1.124970986,Asset renewal and upgrade compared to depreciation,0.893349958,O5,2020-21,Reported,Metropolitan,Glen Eira City
+1.124970986,Asset renewal and upgrade compared to depreciation,0.903256587,O5,2020-21,Reported,Metropolitan,Greater Dandenong City
+1.124970986,Asset renewal and upgrade compared to depreciation,2.534287139,O5,2020-21,Reported,Metropolitan,Hobsons Bay City
+1.124970986,Asset renewal and upgrade compared to depreciation,1.012094763,O5,2020-21,Reported,Metropolitan,Kingston City
+1.124970986,Asset renewal and upgrade compared to depreciation,1.507516617,O5,2020-21,Reported,Metropolitan,Knox City
+1.124970986,Asset renewal and upgrade compared to depreciation,1.181686972,O5,2020-21,Reported,Metropolitan,Manningham City
+1.124970986,Asset renewal and upgrade compared to depreciation,0.731729205,O5,2020-21,Reported,Metropolitan,Maribyrnong City
+1.124970986,Asset renewal and upgrade compared to depreciation,1.18981137,O5,2020-21,Reported,Metropolitan,Maroondah City
+1.124970986,Asset renewal and upgrade compared to depreciation,1.52371713,O5,2020-21,Reported,Metropolitan,Melbourne City
+1.124970986,Asset renewal and upgrade compared to depreciation,0.955741941,O5,2020-21,Reported,Metropolitan,Merri-bek City
+1.124970986,Asset renewal and upgrade compared to depreciation,1.385924736,O5,2020-21,Reported,Metropolitan,Monash City
+1.124970986,Asset renewal and upgrade compared to depreciation,1.56161897,O5,2020-21,Reported,Metropolitan,Moonee Valley City
+1.124970986,Asset renewal and upgrade compared to depreciation,0.753700384,O5,2020-21,Reported,Metropolitan,Port Phillip City
+1.124970986,Asset renewal and upgrade compared to depreciation,1.502585011,O5,2020-21,Reported,Metropolitan,Stonnington City
+1.124970986,Asset renewal and upgrade compared to depreciation,1.515877608,O5,2020-21,Reported,Metropolitan,Whitehorse City
+1.124970986,Asset renewal and upgrade compared to depreciation,1.072569235,O5,2020-21,Reported,Metropolitan,Yarra City
+0.827060996,Asset renewal and upgrade compared to depreciation,0.947579141,O5,2020-21,Reported,Regional,Ballarat City
+0.827060996,Asset renewal and upgrade compared to depreciation,0.678773841,O5,2020-21,Reported,Regional,Greater Bendigo City
+0.827060996,Asset renewal and upgrade compared to depreciation,0.576542628,O5,2020-21,Reported,Regional,Greater Geelong City
+0.827060996,Asset renewal and upgrade compared to depreciation,0.796329171,O5,2020-21,Reported,Regional,Greater Shepparton City
+0.827060996,Asset renewal and upgrade compared to depreciation,1.080580452,O5,2020-21,Reported,Regional,Horsham Rural City
+0.827060996,Asset renewal and upgrade compared to depreciation,0.827060996,O5,2020-21,Reported,Regional,Latrobe City
+0.827060996,Asset renewal and upgrade compared to depreciation,1.868529783,O5,2020-21,Reported,Regional,Mildura Rural City
+0.827060996,Asset renewal and upgrade compared to depreciation,0.687808445,O5,2020-21,Reported,Regional,Wangaratta Rural City
+0.827060996,Asset renewal and upgrade compared to depreciation,1.151334821,O5,2020-21,Reported,Regional,Warrnambool City
+0.827060996,Asset renewal and upgrade compared to depreciation,1.846491228,O5,2020-21,Reported,Regional,Wodonga City
+1.09937557,Asset renewal and upgrade compared to depreciation,0.93107366,O5,2020-21,Reported,Small Shire,Alpine Shire
+1.09937557,Asset renewal and upgrade compared to depreciation,1.642983093,O5,2020-21,Reported,Small Shire,Ararat Rural City
+1.09937557,Asset renewal and upgrade compared to depreciation,0.40099704,O5,2020-21,Reported,Small Shire,Benalla Rural City
+1.09937557,Asset renewal and upgrade compared to depreciation,1.942067773,O5,2020-21,Reported,Small Shire,Borough of Queenscliffe
+1.09937557,Asset renewal and upgrade compared to depreciation,1.348273496,O5,2020-21,Reported,Small Shire,Buloke Shire
+1.09937557,Asset renewal and upgrade compared to depreciation,0.879542292,O5,2020-21,Reported,Small Shire,Central Goldfields Shire
+1.09937557,Asset renewal and upgrade compared to depreciation,1.115275591,O5,2020-21,Reported,Small Shire,Gannawarra Shire
+1.09937557,Asset renewal and upgrade compared to depreciation,1.232064311,O5,2020-21,Reported,Small Shire,Hepburn Shire
+1.09937557,Asset renewal and upgrade compared to depreciation,0.9307986,O5,2020-21,Reported,Small Shire,Hindmarsh Shire
+1.09937557,Asset renewal and upgrade compared to depreciation,0.867396921,O5,2020-21,Reported,Small Shire,Indigo Shire
+1.09937557,Asset renewal and upgrade compared to depreciation,0.792697693,O5,2020-21,Reported,Small Shire,Loddon Shire
+1.09937557,Asset renewal and upgrade compared to depreciation,1.164151925,O5,2020-21,Reported,Small Shire,Mansfield Shire
+1.09937557,Asset renewal and upgrade compared to depreciation,0.797406986,O5,2020-21,Reported,Small Shire,Murrindindi Shire
+1.09937557,Asset renewal and upgrade compared to depreciation,0.538181818,O5,2020-21,Reported,Small Shire,Northern Grampians Shire
+1.09937557,Asset renewal and upgrade compared to depreciation,1.09937557,O5,2020-21,Reported,Small Shire,Pyrenees Shire
+1.09937557,Asset renewal and upgrade compared to depreciation,1.281944667,O5,2020-21,Reported,Small Shire,Strathbogie Shire
+1.09937557,Asset renewal and upgrade compared to depreciation,1.29410349,O5,2020-21,Reported,Small Shire,Towong Shire
+1.09937557,Asset renewal and upgrade compared to depreciation,0.815415566,O5,2020-21,Reported,Small Shire,West Wimmera Shire
+1.09937557,Asset renewal and upgrade compared to depreciation,1.289675848,O5,2020-21,Reported,Small Shire,Yarriambiack Shire
+1.036605426,Asset renewal and upgrade compared to depreciation,,O5,2021-22,Missing,Small Shire,Towong Shire
+0.805770222,Asset renewal and upgrade compared to depreciation,0.715628782,O5,2021-22,Reported,Interface,Cardinia Shire
+0.805770222,Asset renewal and upgrade compared to depreciation,0.869283146,O5,2021-22,Reported,Interface,Casey City
+0.805770222,Asset renewal and upgrade compared to depreciation,0.668906359,O5,2021-22,Reported,Interface,Hume City
+0.805770222,Asset renewal and upgrade compared to depreciation,0.463988857,O5,2021-22,Reported,Interface,Melton City
+0.805770222,Asset renewal and upgrade compared to depreciation,0.805770222,O5,2021-22,Reported,Interface,Mornington Peninsula Shire
+0.805770222,Asset renewal and upgrade compared to depreciation,1.629237434,O5,2021-22,Reported,Interface,Nillumbik Shire
+0.805770222,Asset renewal and upgrade compared to depreciation,0.855590883,O5,2021-22,Reported,Interface,Whittlesea City
+0.805770222,Asset renewal and upgrade compared to depreciation,0.363688042,O5,2021-22,Reported,Interface,Wyndham City
+0.805770222,Asset renewal and upgrade compared to depreciation,1.551002586,O5,2021-22,Reported,Interface,Yarra Ranges Shire
+1.061474702,Asset renewal and upgrade compared to depreciation,1.381376323,O5,2021-22,Reported,Large Shire,Bass Coast Shire
+1.061474702,Asset renewal and upgrade compared to depreciation,1.031710139,O5,2021-22,Reported,Large Shire,Baw Baw Shire
+1.061474702,Asset renewal and upgrade compared to depreciation,1.1614952,O5,2021-22,Reported,Large Shire,Campaspe Shire
+1.061474702,Asset renewal and upgrade compared to depreciation,1.052724568,O5,2021-22,Reported,Large Shire,Colac Otway Shire
+1.061474702,Asset renewal and upgrade compared to depreciation,1.010587612,O5,2021-22,Reported,Large Shire,Corangamite Shire
+1.061474702,Asset renewal and upgrade compared to depreciation,1.127476966,O5,2021-22,Reported,Large Shire,East Gippsland Shire
+1.061474702,Asset renewal and upgrade compared to depreciation,0.509242364,O5,2021-22,Reported,Large Shire,Glenelg Shire
+1.061474702,Asset renewal and upgrade compared to depreciation,1.150706978,O5,2021-22,Reported,Large Shire,Golden Plains Shire
+1.061474702,Asset renewal and upgrade compared to depreciation,1.362974345,O5,2021-22,Reported,Large Shire,Macedon Ranges Shire
+1.061474702,Asset renewal and upgrade compared to depreciation,1.0854174,O5,2021-22,Reported,Large Shire,Mitchell Shire
+1.061474702,Asset renewal and upgrade compared to depreciation,1.061474702,O5,2021-22,Reported,Large Shire,Moira Shire
+1.061474702,Asset renewal and upgrade compared to depreciation,1.043136276,O5,2021-22,Reported,Large Shire,Moorabool Shire
+1.061474702,Asset renewal and upgrade compared to depreciation,0.819919188,O5,2021-22,Reported,Large Shire,Mount Alexander Shire
+1.061474702,Asset renewal and upgrade compared to depreciation,1.333866163,O5,2021-22,Reported,Large Shire,Moyne Shire
+1.061474702,Asset renewal and upgrade compared to depreciation,2.178299872,O5,2021-22,Reported,Large Shire,South Gippsland Shire
+1.061474702,Asset renewal and upgrade compared to depreciation,0.94347275,O5,2021-22,Reported,Large Shire,Southern Grampians Shire
+1.061474702,Asset renewal and upgrade compared to depreciation,0.673058959,O5,2021-22,Reported,Large Shire,Surf Coast Shire
+1.061474702,Asset renewal and upgrade compared to depreciation,0.951468066,O5,2021-22,Reported,Large Shire,Swan Hill Rural City
+1.061474702,Asset renewal and upgrade compared to depreciation,1.116701635,O5,2021-22,Reported,Large Shire,Wellington Shire
+1.179753981,Asset renewal and upgrade compared to depreciation,1.104660597,O5,2021-22,Reported,Metropolitan,Banyule City
+1.179753981,Asset renewal and upgrade compared to depreciation,1.433500253,O5,2021-22,Reported,Metropolitan,Bayside City
+1.179753981,Asset renewal and upgrade compared to depreciation,1.423009672,O5,2021-22,Reported,Metropolitan,Boroondara City
+1.179753981,Asset renewal and upgrade compared to depreciation,1.124962727,O5,2021-22,Reported,Metropolitan,Brimbank City
+1.179753981,Asset renewal and upgrade compared to depreciation,1.416378219,O5,2021-22,Reported,Metropolitan,Darebin City
+1.179753981,Asset renewal and upgrade compared to depreciation,1.299409817,O5,2021-22,Reported,Metropolitan,Frankston City
+1.179753981,Asset renewal and upgrade compared to depreciation,1.122872607,O5,2021-22,Reported,Metropolitan,Glen Eira City
+1.179753981,Asset renewal and upgrade compared to depreciation,1.102577558,O5,2021-22,Reported,Metropolitan,Greater Dandenong City
+1.179753981,Asset renewal and upgrade compared to depreciation,1.824556179,O5,2021-22,Reported,Metropolitan,Hobsons Bay City
+1.179753981,Asset renewal and upgrade compared to depreciation,1.14905497,O5,2021-22,Reported,Metropolitan,Kingston City
+1.179753981,Asset renewal and upgrade compared to depreciation,1.705334204,O5,2021-22,Reported,Metropolitan,Knox City
+1.179753981,Asset renewal and upgrade compared to depreciation,1.179753981,O5,2021-22,Reported,Metropolitan,Manningham City
+1.179753981,Asset renewal and upgrade compared to depreciation,0.959409396,O5,2021-22,Reported,Metropolitan,Maribyrnong City
+1.179753981,Asset renewal and upgrade compared to depreciation,1.353165876,O5,2021-22,Reported,Metropolitan,Maroondah City
+1.179753981,Asset renewal and upgrade compared to depreciation,1.032467042,O5,2021-22,Reported,Metropolitan,Melbourne City
+1.179753981,Asset renewal and upgrade compared to depreciation,0.949948783,O5,2021-22,Reported,Metropolitan,Merri-bek City
+1.179753981,Asset renewal and upgrade compared to depreciation,1.484133522,O5,2021-22,Reported,Metropolitan,Monash City
+1.179753981,Asset renewal and upgrade compared to depreciation,0.569219548,O5,2021-22,Reported,Metropolitan,Moonee Valley City
+1.179753981,Asset renewal and upgrade compared to depreciation,1.004404617,O5,2021-22,Reported,Metropolitan,Port Phillip City
+1.179753981,Asset renewal and upgrade compared to depreciation,1.538703317,O5,2021-22,Reported,Metropolitan,Stonnington City
+1.179753981,Asset renewal and upgrade compared to depreciation,1.246300636,O5,2021-22,Reported,Metropolitan,Whitehorse City
+1.179753981,Asset renewal and upgrade compared to depreciation,1.198789649,O5,2021-22,Reported,Metropolitan,Yarra City
+0.839451074,Asset renewal and upgrade compared to depreciation,1.123348433,O5,2021-22,Reported,Regional,Ballarat City
+0.839451074,Asset renewal and upgrade compared to depreciation,0.839451074,O5,2021-22,Reported,Regional,Greater Bendigo City
+0.839451074,Asset renewal and upgrade compared to depreciation,0.689442921,O5,2021-22,Reported,Regional,Greater Geelong City
+0.839451074,Asset renewal and upgrade compared to depreciation,1.197557013,O5,2021-22,Reported,Regional,Greater Shepparton City
+0.839451074,Asset renewal and upgrade compared to depreciation,0.792151958,O5,2021-22,Reported,Regional,Horsham Rural City
+0.839451074,Asset renewal and upgrade compared to depreciation,0.849726682,O5,2021-22,Reported,Regional,Latrobe City
+0.839451074,Asset renewal and upgrade compared to depreciation,1.068303683,O5,2021-22,Reported,Regional,Mildura Rural City
+0.839451074,Asset renewal and upgrade compared to depreciation,0.697877521,O5,2021-22,Reported,Regional,Wangaratta Rural City
+0.839451074,Asset renewal and upgrade compared to depreciation,1.311540008,O5,2021-22,Reported,Regional,Warrnambool City
+0.839451074,Asset renewal and upgrade compared to depreciation,0.796713942,O5,2021-22,Reported,Regional,Wodonga City
+1.036605426,Asset renewal and upgrade compared to depreciation,2.169256382,O5,2021-22,Reported,Small Shire,Alpine Shire
+1.036605426,Asset renewal and upgrade compared to depreciation,1.745036044,O5,2021-22,Reported,Small Shire,Ararat Rural City
+1.036605426,Asset renewal and upgrade compared to depreciation,0.465143236,O5,2021-22,Reported,Small Shire,Benalla Rural City
+1.036605426,Asset renewal and upgrade compared to depreciation,5.406213952,O5,2021-22,Reported,Small Shire,Borough of Queenscliffe
+1.036605426,Asset renewal and upgrade compared to depreciation,1.499557424,O5,2021-22,Reported,Small Shire,Buloke Shire
+1.036605426,Asset renewal and upgrade compared to depreciation,1.036605426,O5,2021-22,Reported,Small Shire,Central Goldfields Shire
+1.036605426,Asset renewal and upgrade compared to depreciation,0.943112365,O5,2021-22,Reported,Small Shire,Gannawarra Shire
+1.036605426,Asset renewal and upgrade compared to depreciation,1.034242532,O5,2021-22,Reported,Small Shire,Hepburn Shire
+1.036605426,Asset renewal and upgrade compared to depreciation,2.356100796,O5,2021-22,Reported,Small Shire,Hindmarsh Shire
+1.036605426,Asset renewal and upgrade compared to depreciation,0.846187959,O5,2021-22,Reported,Small Shire,Indigo Shire
+1.036605426,Asset renewal and upgrade compared to depreciation,0.601126163,O5,2021-22,Reported,Small Shire,Loddon Shire
+1.036605426,Asset renewal and upgrade compared to depreciation,1.620143529,O5,2021-22,Reported,Small Shire,Mansfield Shire
+1.036605426,Asset renewal and upgrade compared to depreciation,1.336607083,O5,2021-22,Reported,Small Shire,Murrindindi Shire
+1.036605426,Asset renewal and upgrade compared to depreciation,0.919724608,O5,2021-22,Reported,Small Shire,Northern Grampians Shire
+1.036605426,Asset renewal and upgrade compared to depreciation,1.105808036,O5,2021-22,Reported,Small Shire,Pyrenees Shire
+1.036605426,Asset renewal and upgrade compared to depreciation,0.756212837,O5,2021-22,Reported,Small Shire,Strathbogie Shire
+1.036605426,Asset renewal and upgrade compared to depreciation,0.885731782,O5,2021-22,Reported,Small Shire,West Wimmera Shire
+1.036605426,Asset renewal and upgrade compared to depreciation,1.372329603,O5,2021-22,Reported,Small Shire,Yarriambiack Shire
+0.818617151,Asset renewal and upgrade compared to depreciation,1.280185866,O5,2022-23,Reported,Interface,Cardinia Shire
+0.818617151,Asset renewal and upgrade compared to depreciation,0.818617151,O5,2022-23,Reported,Interface,Casey City
+0.818617151,Asset renewal and upgrade compared to depreciation,0.841468309,O5,2022-23,Reported,Interface,Hume City
+0.818617151,Asset renewal and upgrade compared to depreciation,0.355186205,O5,2022-23,Reported,Interface,Melton City
+0.818617151,Asset renewal and upgrade compared to depreciation,0.649145532,O5,2022-23,Reported,Interface,Mornington Peninsula Shire
+0.818617151,Asset renewal and upgrade compared to depreciation,0.884246685,O5,2022-23,Reported,Interface,Nillumbik Shire
+0.818617151,Asset renewal and upgrade compared to depreciation,0.62528021,O5,2022-23,Reported,Interface,Whittlesea City
+0.818617151,Asset renewal and upgrade compared to depreciation,0.413397142,O5,2022-23,Reported,Interface,Wyndham City
+0.818617151,Asset renewal and upgrade compared to depreciation,1.387773011,O5,2022-23,Reported,Interface,Yarra Ranges Shire
+0.973394271,Asset renewal and upgrade compared to depreciation,1.075883461,O5,2022-23,Reported,Large Shire,Bass Coast Shire
+0.973394271,Asset renewal and upgrade compared to depreciation,0.744082598,O5,2022-23,Reported,Large Shire,Baw Baw Shire
+0.973394271,Asset renewal and upgrade compared to depreciation,0.71756379,O5,2022-23,Reported,Large Shire,Campaspe Shire
+0.973394271,Asset renewal and upgrade compared to depreciation,0.741067582,O5,2022-23,Reported,Large Shire,Colac Otway Shire
+0.973394271,Asset renewal and upgrade compared to depreciation,1.078363267,O5,2022-23,Reported,Large Shire,Corangamite Shire
+0.973394271,Asset renewal and upgrade compared to depreciation,0.973394271,O5,2022-23,Reported,Large Shire,East Gippsland Shire
+0.973394271,Asset renewal and upgrade compared to depreciation,0.559704218,O5,2022-23,Reported,Large Shire,Glenelg Shire
+0.973394271,Asset renewal and upgrade compared to depreciation,1.077043696,O5,2022-23,Reported,Large Shire,Golden Plains Shire
+0.973394271,Asset renewal and upgrade compared to depreciation,1.234158543,O5,2022-23,Reported,Large Shire,Macedon Ranges Shire
+0.973394271,Asset renewal and upgrade compared to depreciation,1.005429557,O5,2022-23,Reported,Large Shire,Mitchell Shire
+0.973394271,Asset renewal and upgrade compared to depreciation,0.978944897,O5,2022-23,Reported,Large Shire,Moira Shire
+0.973394271,Asset renewal and upgrade compared to depreciation,1.560608527,O5,2022-23,Reported,Large Shire,Moorabool Shire
+0.973394271,Asset renewal and upgrade compared to depreciation,0.848639645,O5,2022-23,Reported,Large Shire,Mount Alexander Shire
+0.973394271,Asset renewal and upgrade compared to depreciation,1.344747955,O5,2022-23,Reported,Large Shire,Moyne Shire
+0.973394271,Asset renewal and upgrade compared to depreciation,2.558994197,O5,2022-23,Reported,Large Shire,South Gippsland Shire
+0.973394271,Asset renewal and upgrade compared to depreciation,0.62328538,O5,2022-23,Reported,Large Shire,Southern Grampians Shire
+0.973394271,Asset renewal and upgrade compared to depreciation,0.666847032,O5,2022-23,Reported,Large Shire,Surf Coast Shire
+0.973394271,Asset renewal and upgrade compared to depreciation,0.814354839,O5,2022-23,Reported,Large Shire,Swan Hill Rural City
+0.973394271,Asset renewal and upgrade compared to depreciation,0.970975868,O5,2022-23,Reported,Large Shire,Wellington Shire
+1.254753849,Asset renewal and upgrade compared to depreciation,1.235273825,O5,2022-23,Reported,Metropolitan,Banyule City
+1.254753849,Asset renewal and upgrade compared to depreciation,1.413615757,O5,2022-23,Reported,Metropolitan,Bayside City
+1.254753849,Asset renewal and upgrade compared to depreciation,1.254753849,O5,2022-23,Reported,Metropolitan,Boroondara City
+1.254753849,Asset renewal and upgrade compared to depreciation,0.722448807,O5,2022-23,Reported,Metropolitan,Brimbank City
+1.254753849,Asset renewal and upgrade compared to depreciation,1.282144082,O5,2022-23,Reported,Metropolitan,Darebin City
+1.254753849,Asset renewal and upgrade compared to depreciation,1.659970682,O5,2022-23,Reported,Metropolitan,Frankston City
+1.254753849,Asset renewal and upgrade compared to depreciation,1.666633005,O5,2022-23,Reported,Metropolitan,Glen Eira City
+1.254753849,Asset renewal and upgrade compared to depreciation,1.215049493,O5,2022-23,Reported,Metropolitan,Greater Dandenong City
+1.254753849,Asset renewal and upgrade compared to depreciation,1.361716766,O5,2022-23,Reported,Metropolitan,Hobsons Bay City
+1.254753849,Asset renewal and upgrade compared to depreciation,1.1109692,O5,2022-23,Reported,Metropolitan,Kingston City
+1.254753849,Asset renewal and upgrade compared to depreciation,1.862637133,O5,2022-23,Reported,Metropolitan,Knox City
+1.254753849,Asset renewal and upgrade compared to depreciation,1.143176649,O5,2022-23,Reported,Metropolitan,Manningham City
+1.254753849,Asset renewal and upgrade compared to depreciation,1.086148475,O5,2022-23,Reported,Metropolitan,Maribyrnong City
+1.254753849,Asset renewal and upgrade compared to depreciation,1.392406481,O5,2022-23,Reported,Metropolitan,Maroondah City
+1.254753849,Asset renewal and upgrade compared to depreciation,1.144016694,O5,2022-23,Reported,Metropolitan,Melbourne City
+1.254753849,Asset renewal and upgrade compared to depreciation,1.18355506,O5,2022-23,Reported,Metropolitan,Merri-bek City
+1.254753849,Asset renewal and upgrade compared to depreciation,2.011037576,O5,2022-23,Reported,Metropolitan,Monash City
+1.254753849,Asset renewal and upgrade compared to depreciation,0.734197575,O5,2022-23,Reported,Metropolitan,Moonee Valley City
+1.254753849,Asset renewal and upgrade compared to depreciation,0.962830451,O5,2022-23,Reported,Metropolitan,Port Phillip City
+1.254753849,Asset renewal and upgrade compared to depreciation,1.39469236,O5,2022-23,Reported,Metropolitan,Stonnington City
+1.254753849,Asset renewal and upgrade compared to depreciation,1.261290323,O5,2022-23,Reported,Metropolitan,Whitehorse City
+1.254753849,Asset renewal and upgrade compared to depreciation,1.322505064,O5,2022-23,Reported,Metropolitan,Yarra City
+0.948958491,Asset renewal and upgrade compared to depreciation,0.997798123,O5,2022-23,Reported,Regional,Ballarat City
+0.948958491,Asset renewal and upgrade compared to depreciation,0.770344828,O5,2022-23,Reported,Regional,Greater Bendigo City
+0.948958491,Asset renewal and upgrade compared to depreciation,0.657228037,O5,2022-23,Reported,Regional,Greater Geelong City
+0.948958491,Asset renewal and upgrade compared to depreciation,1.008875391,O5,2022-23,Reported,Regional,Greater Shepparton City
+0.948958491,Asset renewal and upgrade compared to depreciation,0.711497721,O5,2022-23,Reported,Regional,Horsham Rural City
+0.948958491,Asset renewal and upgrade compared to depreciation,1.040313772,O5,2022-23,Reported,Regional,Latrobe City
+0.948958491,Asset renewal and upgrade compared to depreciation,0.948958491,O5,2022-23,Reported,Regional,Mildura Rural City
+0.948958491,Asset renewal and upgrade compared to depreciation,1.326977959,O5,2022-23,Reported,Regional,Wangaratta Rural City
+0.948958491,Asset renewal and upgrade compared to depreciation,1.146691589,O5,2022-23,Reported,Regional,Warrnambool City
+0.948958491,Asset renewal and upgrade compared to depreciation,0.782278088,O5,2022-23,Reported,Regional,Wodonga City
+1.160571809,Asset renewal and upgrade compared to depreciation,1.58546169,O5,2022-23,Reported,Small Shire,Alpine Shire
+1.160571809,Asset renewal and upgrade compared to depreciation,0.909349995,O5,2022-23,Reported,Small Shire,Ararat Rural City
+1.160571809,Asset renewal and upgrade compared to depreciation,0.901582591,O5,2022-23,Reported,Small Shire,Benalla Rural City
+1.160571809,Asset renewal and upgrade compared to depreciation,1.947901516,O5,2022-23,Reported,Small Shire,Borough of Queenscliffe
+1.160571809,Asset renewal and upgrade compared to depreciation,0.810655912,O5,2022-23,Reported,Small Shire,Buloke Shire
+1.160571809,Asset renewal and upgrade compared to depreciation,1.483916913,O5,2022-23,Reported,Small Shire,Central Goldfields Shire
+1.160571809,Asset renewal and upgrade compared to depreciation,0.711519435,O5,2022-23,Reported,Small Shire,Gannawarra Shire
+1.160571809,Asset renewal and upgrade compared to depreciation,0.965485714,O5,2022-23,Reported,Small Shire,Hepburn Shire
+1.160571809,Asset renewal and upgrade compared to depreciation,1.407804286,O5,2022-23,Reported,Small Shire,Hindmarsh Shire
+1.160571809,Asset renewal and upgrade compared to depreciation,0.677242366,O5,2022-23,Reported,Small Shire,Indigo Shire
+1.160571809,Asset renewal and upgrade compared to depreciation,0.475754623,O5,2022-23,Reported,Small Shire,Loddon Shire
+1.160571809,Asset renewal and upgrade compared to depreciation,1.830720235,O5,2022-23,Reported,Small Shire,Mansfield Shire
+1.160571809,Asset renewal and upgrade compared to depreciation,1.249449474,O5,2022-23,Reported,Small Shire,Murrindindi Shire
+1.160571809,Asset renewal and upgrade compared to depreciation,0.872917099,O5,2022-23,Reported,Small Shire,Northern Grampians Shire
+1.160571809,Asset renewal and upgrade compared to depreciation,1.160571809,O5,2022-23,Reported,Small Shire,Pyrenees Shire
+1.160571809,Asset renewal and upgrade compared to depreciation,1.354262077,O5,2022-23,Reported,Small Shire,Strathbogie Shire
+1.160571809,Asset renewal and upgrade compared to depreciation,1.587855491,O5,2022-23,Reported,Small Shire,Towong Shire
+1.160571809,Asset renewal and upgrade compared to depreciation,0.807129456,O5,2022-23,Reported,Small Shire,West Wimmera Shire
+1.160571809,Asset renewal and upgrade compared to depreciation,1.989801809,O5,2022-23,Reported,Small Shire,Yarriambiack Shire
+0.941221913,Asset renewal and upgrade compared to depreciation,1.693048561,O5,2023-24,Reported,Interface,Cardinia Shire
+0.941221913,Asset renewal and upgrade compared to depreciation,0.941221913,O5,2023-24,Reported,Interface,Casey City
+0.941221913,Asset renewal and upgrade compared to depreciation,0.852681593,O5,2023-24,Reported,Interface,Hume City
+0.941221913,Asset renewal and upgrade compared to depreciation,0.917744604,O5,2023-24,Reported,Interface,Melton City
+0.941221913,Asset renewal and upgrade compared to depreciation,1.156926779,O5,2023-24,Reported,Interface,Mornington Peninsula Shire
+0.941221913,Asset renewal and upgrade compared to depreciation,1.003136679,O5,2023-24,Reported,Interface,Nillumbik Shire
+0.941221913,Asset renewal and upgrade compared to depreciation,0.821899039,O5,2023-24,Reported,Interface,Whittlesea City
+0.941221913,Asset renewal and upgrade compared to depreciation,0.560754582,O5,2023-24,Reported,Interface,Wyndham City
+0.941221913,Asset renewal and upgrade compared to depreciation,1.303620141,O5,2023-24,Reported,Interface,Yarra Ranges Shire
+1.078055599,Asset renewal and upgrade compared to depreciation,1.205058444,O5,2023-24,Reported,Large Shire,Bass Coast Shire
+1.078055599,Asset renewal and upgrade compared to depreciation,1.03293266,O5,2023-24,Reported,Large Shire,Baw Baw Shire
+1.078055599,Asset renewal and upgrade compared to depreciation,1.414035526,O5,2023-24,Reported,Large Shire,Campaspe Shire
+1.078055599,Asset renewal and upgrade compared to depreciation,0.750808877,O5,2023-24,Reported,Large Shire,Colac Otway Shire
+1.078055599,Asset renewal and upgrade compared to depreciation,1.13083609,O5,2023-24,Reported,Large Shire,Corangamite Shire
+1.078055599,Asset renewal and upgrade compared to depreciation,1.265003072,O5,2023-24,Reported,Large Shire,East Gippsland Shire
+1.078055599,Asset renewal and upgrade compared to depreciation,0.579578401,O5,2023-24,Reported,Large Shire,Glenelg Shire
+1.078055599,Asset renewal and upgrade compared to depreciation,1.25406646,O5,2023-24,Reported,Large Shire,Golden Plains Shire
+1.078055599,Asset renewal and upgrade compared to depreciation,1.312327965,O5,2023-24,Reported,Large Shire,Macedon Ranges Shire
+1.078055599,Asset renewal and upgrade compared to depreciation,0.893474427,O5,2023-24,Reported,Large Shire,Mitchell Shire
+1.078055599,Asset renewal and upgrade compared to depreciation,0.706521739,O5,2023-24,Reported,Large Shire,Moira Shire
+1.078055599,Asset renewal and upgrade compared to depreciation,1.27029065,O5,2023-24,Reported,Large Shire,Moorabool Shire
+1.078055599,Asset renewal and upgrade compared to depreciation,0.977587612,O5,2023-24,Reported,Large Shire,Mount Alexander Shire
+1.078055599,Asset renewal and upgrade compared to depreciation,1.484316789,O5,2023-24,Reported,Large Shire,Moyne Shire
+1.078055599,Asset renewal and upgrade compared to depreciation,2.001970145,O5,2023-24,Reported,Large Shire,South Gippsland Shire
+1.078055599,Asset renewal and upgrade compared to depreciation,1.052372607,O5,2023-24,Reported,Large Shire,Southern Grampians Shire
+1.078055599,Asset renewal and upgrade compared to depreciation,0.744893307,O5,2023-24,Reported,Large Shire,Surf Coast Shire
+1.078055599,Asset renewal and upgrade compared to depreciation,0.843110107,O5,2023-24,Reported,Large Shire,Swan Hill Rural City
+1.078055599,Asset renewal and upgrade compared to depreciation,1.078055599,O5,2023-24,Reported,Large Shire,Wellington Shire
+1.178822818,Asset renewal and upgrade compared to depreciation,1.53051048,O5,2023-24,Reported,Metropolitan,Banyule City
+1.178822818,Asset renewal and upgrade compared to depreciation,1.623109405,O5,2023-24,Reported,Metropolitan,Bayside City
+1.178822818,Asset renewal and upgrade compared to depreciation,1.344611999,O5,2023-24,Reported,Metropolitan,Boroondara City
+1.178822818,Asset renewal and upgrade compared to depreciation,0.672589245,O5,2023-24,Reported,Metropolitan,Brimbank City
+1.178822818,Asset renewal and upgrade compared to depreciation,0.677388979,O5,2023-24,Reported,Metropolitan,Darebin City
+1.178822818,Asset renewal and upgrade compared to depreciation,1.403637329,O5,2023-24,Reported,Metropolitan,Frankston City
+1.178822818,Asset renewal and upgrade compared to depreciation,2.148127107,O5,2023-24,Reported,Metropolitan,Glen Eira City
+1.178822818,Asset renewal and upgrade compared to depreciation,1.025017509,O5,2023-24,Reported,Metropolitan,Greater Dandenong City
+1.178822818,Asset renewal and upgrade compared to depreciation,1.012545436,O5,2023-24,Reported,Metropolitan,Hobsons Bay City
+1.178822818,Asset renewal and upgrade compared to depreciation,1.26863105,O5,2023-24,Reported,Metropolitan,Kingston City
+1.178822818,Asset renewal and upgrade compared to depreciation,1.656754358,O5,2023-24,Reported,Metropolitan,Knox City
+1.178822818,Asset renewal and upgrade compared to depreciation,1.104648101,O5,2023-24,Reported,Metropolitan,Manningham City
+1.178822818,Asset renewal and upgrade compared to depreciation,2.778117299,O5,2023-24,Reported,Metropolitan,Maribyrnong City
+1.178822818,Asset renewal and upgrade compared to depreciation,0.953892783,O5,2023-24,Reported,Metropolitan,Maroondah City
+1.178822818,Asset renewal and upgrade compared to depreciation,1.125924383,O5,2023-24,Reported,Metropolitan,Melbourne City
+1.178822818,Asset renewal and upgrade compared to depreciation,1.858297191,O5,2023-24,Reported,Metropolitan,Merri-bek City
+1.178822818,Asset renewal and upgrade compared to depreciation,2.072956685,O5,2023-24,Reported,Metropolitan,Monash City
+1.178822818,Asset renewal and upgrade compared to depreciation,0.983707898,O5,2023-24,Reported,Metropolitan,Moonee Valley City
+1.178822818,Asset renewal and upgrade compared to depreciation,1.178822818,O5,2023-24,Reported,Metropolitan,Port Phillip City
+1.178822818,Asset renewal and upgrade compared to depreciation,2.013588973,O5,2023-24,Reported,Metropolitan,Stonnington City
+1.178822818,Asset renewal and upgrade compared to depreciation,0.901123305,O5,2023-24,Reported,Metropolitan,Whitehorse City
+1.178822818,Asset renewal and upgrade compared to depreciation,0.724969614,O5,2023-24,Reported,Metropolitan,Yarra City
+0.795562677,Asset renewal and upgrade compared to depreciation,1.708995677,O5,2023-24,Reported,Regional,Ballarat City
+0.795562677,Asset renewal and upgrade compared to depreciation,0.752218079,O5,2023-24,Reported,Regional,Greater Bendigo City
+0.795562677,Asset renewal and upgrade compared to depreciation,0.710039594,O5,2023-24,Reported,Regional,Greater Geelong City
+0.795562677,Asset renewal and upgrade compared to depreciation,0.795562677,O5,2023-24,Reported,Regional,Greater Shepparton City
+0.795562677,Asset renewal and upgrade compared to depreciation,0.928663357,O5,2023-24,Reported,Regional,Horsham Rural City
+0.795562677,Asset renewal and upgrade compared to depreciation,1.081616779,O5,2023-24,Reported,Regional,Latrobe City
+0.795562677,Asset renewal and upgrade compared to depreciation,0.912166199,O5,2023-24,Reported,Regional,Mildura Rural City
+0.795562677,Asset renewal and upgrade compared to depreciation,1.053707224,O5,2023-24,Reported,Regional,Wangaratta Rural City
+0.795562677,Asset renewal and upgrade compared to depreciation,0.748958013,O5,2023-24,Reported,Regional,Warrnambool City
+0.795562677,Asset renewal and upgrade compared to depreciation,0.668419208,O5,2023-24,Reported,Regional,Wodonga City
+0.961271912,Asset renewal and upgrade compared to depreciation,1.560893226,O5,2023-24,Reported,Small Shire,Alpine Shire
+0.961271912,Asset renewal and upgrade compared to depreciation,1.24626713,O5,2023-24,Reported,Small Shire,Ararat Rural City
+0.961271912,Asset renewal and upgrade compared to depreciation,0.730983582,O5,2023-24,Reported,Small Shire,Benalla Rural City
+0.961271912,Asset renewal and upgrade compared to depreciation,0.668242711,O5,2023-24,Reported,Small Shire,Borough of Queenscliffe
+0.961271912,Asset renewal and upgrade compared to depreciation,0.74574182,O5,2023-24,Reported,Small Shire,Buloke Shire
+0.961271912,Asset renewal and upgrade compared to depreciation,1.543060185,O5,2023-24,Reported,Small Shire,Central Goldfields Shire
+0.961271912,Asset renewal and upgrade compared to depreciation,0.924280666,O5,2023-24,Reported,Small Shire,Gannawarra Shire
+0.961271912,Asset renewal and upgrade compared to depreciation,0.753371869,O5,2023-24,Reported,Small Shire,Hepburn Shire
+0.961271912,Asset renewal and upgrade compared to depreciation,0.932739221,O5,2023-24,Reported,Small Shire,Hindmarsh Shire
+0.961271912,Asset renewal and upgrade compared to depreciation,0.961271912,O5,2023-24,Reported,Small Shire,Indigo Shire
+0.961271912,Asset renewal and upgrade compared to depreciation,0.922303372,O5,2023-24,Reported,Small Shire,Loddon Shire
+0.961271912,Asset renewal and upgrade compared to depreciation,2.279157895,O5,2023-24,Reported,Small Shire,Mansfield Shire
+0.961271912,Asset renewal and upgrade compared to depreciation,0.959599295,O5,2023-24,Reported,Small Shire,Murrindindi Shire
+0.961271912,Asset renewal and upgrade compared to depreciation,0.762617697,O5,2023-24,Reported,Small Shire,Northern Grampians Shire
+0.961271912,Asset renewal and upgrade compared to depreciation,1.007327126,O5,2023-24,Reported,Small Shire,Pyrenees Shire
+0.961271912,Asset renewal and upgrade compared to depreciation,1.445304801,O5,2023-24,Reported,Small Shire,Strathbogie Shire
+0.961271912,Asset renewal and upgrade compared to depreciation,1.621633489,O5,2023-24,Reported,Small Shire,Towong Shire
+0.961271912,Asset renewal and upgrade compared to depreciation,1.284898162,O5,2023-24,Reported,Small Shire,West Wimmera Shire
+0.961271912,Asset renewal and upgrade compared to depreciation,1.948216448,O5,2023-24,Reported,Small Shire,Yarriambiack Shire
+0.772214753,Asset renewal and upgrade compared to depreciation,1.294097853,O5,2024-25,Reported,Interface,Cardinia Shire
+0.772214753,Asset renewal and upgrade compared to depreciation,0.685327431,O5,2024-25,Reported,Interface,Casey City
+0.772214753,Asset renewal and upgrade compared to depreciation,0.729602913,O5,2024-25,Reported,Interface,Hume City
+0.772214753,Asset renewal and upgrade compared to depreciation,1.073337013,O5,2024-25,Reported,Interface,Melton City
+0.772214753,Asset renewal and upgrade compared to depreciation,0.772214753,O5,2024-25,Reported,Interface,Mornington Peninsula Shire
+0.772214753,Asset renewal and upgrade compared to depreciation,0.950307473,O5,2024-25,Reported,Interface,Nillumbik Shire
+0.772214753,Asset renewal and upgrade compared to depreciation,0.578423959,O5,2024-25,Reported,Interface,Whittlesea City
+0.772214753,Asset renewal and upgrade compared to depreciation,0.667272431,O5,2024-25,Reported,Interface,Wyndham City
+0.772214753,Asset renewal and upgrade compared to depreciation,1.226682765,O5,2024-25,Reported,Interface,Yarra Ranges Shire
+0.980900582,Asset renewal and upgrade compared to depreciation,0.658577216,O5,2024-25,Reported,Large Shire,Bass Coast Shire
+0.980900582,Asset renewal and upgrade compared to depreciation,0.782944284,O5,2024-25,Reported,Large Shire,Baw Baw Shire
+0.980900582,Asset renewal and upgrade compared to depreciation,0.953018808,O5,2024-25,Reported,Large Shire,Campaspe Shire
+0.980900582,Asset renewal and upgrade compared to depreciation,0.895275591,O5,2024-25,Reported,Large Shire,Colac Otway Shire
+0.980900582,Asset renewal and upgrade compared to depreciation,0.980900582,O5,2024-25,Reported,Large Shire,Corangamite Shire
+0.980900582,Asset renewal and upgrade compared to depreciation,1.077876609,O5,2024-25,Reported,Large Shire,East Gippsland Shire
+0.980900582,Asset renewal and upgrade compared to depreciation,0.878939956,O5,2024-25,Reported,Large Shire,Glenelg Shire
+0.980900582,Asset renewal and upgrade compared to depreciation,1.729397177,O5,2024-25,Reported,Large Shire,Golden Plains Shire
+0.980900582,Asset renewal and upgrade compared to depreciation,1.093840807,O5,2024-25,Reported,Large Shire,Macedon Ranges Shire
+0.980900582,Asset renewal and upgrade compared to depreciation,0.731436651,O5,2024-25,Reported,Large Shire,Mitchell Shire
+0.980900582,Asset renewal and upgrade compared to depreciation,0.734414206,O5,2024-25,Reported,Large Shire,Moira Shire
+0.980900582,Asset renewal and upgrade compared to depreciation,1.185691417,O5,2024-25,Reported,Large Shire,Moorabool Shire
+0.980900582,Asset renewal and upgrade compared to depreciation,0.747716026,O5,2024-25,Reported,Large Shire,Mount Alexander Shire
+0.980900582,Asset renewal and upgrade compared to depreciation,1.564146486,O5,2024-25,Reported,Large Shire,Moyne Shire
+0.980900582,Asset renewal and upgrade compared to depreciation,2.414486628,O5,2024-25,Reported,Large Shire,South Gippsland Shire
+0.980900582,Asset renewal and upgrade compared to depreciation,1.309134709,O5,2024-25,Reported,Large Shire,Southern Grampians Shire
+0.980900582,Asset renewal and upgrade compared to depreciation,0.936514964,O5,2024-25,Reported,Large Shire,Surf Coast Shire
+0.980900582,Asset renewal and upgrade compared to depreciation,1.429598396,O5,2024-25,Reported,Large Shire,Swan Hill Rural City
+0.980900582,Asset renewal and upgrade compared to depreciation,1.049093634,O5,2024-25,Reported,Large Shire,Wellington Shire
+1.197543985,Asset renewal and upgrade compared to depreciation,1.676568149,O5,2024-25,Reported,Metropolitan,Banyule City
+1.197543985,Asset renewal and upgrade compared to depreciation,1.224772671,O5,2024-25,Reported,Metropolitan,Bayside City
+1.197543985,Asset renewal and upgrade compared to depreciation,1.246809139,O5,2024-25,Reported,Metropolitan,Boroondara City
+1.197543985,Asset renewal and upgrade compared to depreciation,0.825050369,O5,2024-25,Reported,Metropolitan,Brimbank City
+1.197543985,Asset renewal and upgrade compared to depreciation,0.722328074,O5,2024-25,Reported,Metropolitan,Darebin City
+1.197543985,Asset renewal and upgrade compared to depreciation,0.798838958,O5,2024-25,Reported,Metropolitan,Frankston City
+1.197543985,Asset renewal and upgrade compared to depreciation,1.015824262,O5,2024-25,Reported,Metropolitan,Glen Eira City
+1.197543985,Asset renewal and upgrade compared to depreciation,0.669939943,O5,2024-25,Reported,Metropolitan,Greater Dandenong City
+1.197543985,Asset renewal and upgrade compared to depreciation,1.306695911,O5,2024-25,Reported,Metropolitan,Hobsons Bay City
+1.197543985,Asset renewal and upgrade compared to depreciation,0.8646115,O5,2024-25,Reported,Metropolitan,Kingston City
+1.197543985,Asset renewal and upgrade compared to depreciation,1.837834678,O5,2024-25,Reported,Metropolitan,Knox City
+1.197543985,Asset renewal and upgrade compared to depreciation,1.077674768,O5,2024-25,Reported,Metropolitan,Manningham City
+1.197543985,Asset renewal and upgrade compared to depreciation,2.130856806,O5,2024-25,Reported,Metropolitan,Maribyrnong City
+1.197543985,Asset renewal and upgrade compared to depreciation,0.921077422,O5,2024-25,Reported,Metropolitan,Maroondah City
+1.197543985,Asset renewal and upgrade compared to depreciation,1.288163954,O5,2024-25,Reported,Metropolitan,Melbourne City
+1.197543985,Asset renewal and upgrade compared to depreciation,1.828805454,O5,2024-25,Reported,Metropolitan,Merri-bek City
+1.197543985,Asset renewal and upgrade compared to depreciation,1.893805202,O5,2024-25,Reported,Metropolitan,Monash City
+1.197543985,Asset renewal and upgrade compared to depreciation,1.252437574,O5,2024-25,Reported,Metropolitan,Moonee Valley City
+1.197543985,Asset renewal and upgrade compared to depreciation,1.687102347,O5,2024-25,Reported,Metropolitan,Port Phillip City
+1.197543985,Asset renewal and upgrade compared to depreciation,1.197543985,O5,2024-25,Reported,Metropolitan,Stonnington City
+1.197543985,Asset renewal and upgrade compared to depreciation,0.941444867,O5,2024-25,Reported,Metropolitan,Whitehorse City
+1.197543985,Asset renewal and upgrade compared to depreciation,0.978663288,O5,2024-25,Reported,Metropolitan,Yarra City
+0.739227836,Asset renewal and upgrade compared to depreciation,1.201875544,O5,2024-25,Reported,Regional,Ballarat City
+0.739227836,Asset renewal and upgrade compared to depreciation,0.679665146,O5,2024-25,Reported,Regional,Greater Bendigo City
+0.739227836,Asset renewal and upgrade compared to depreciation,0.62979163,O5,2024-25,Reported,Regional,Greater Geelong City
+0.739227836,Asset renewal and upgrade compared to depreciation,0.863186091,O5,2024-25,Reported,Regional,Greater Shepparton City
+0.739227836,Asset renewal and upgrade compared to depreciation,0.632417648,O5,2024-25,Reported,Regional,Horsham Rural City
+0.739227836,Asset renewal and upgrade compared to depreciation,0.937745576,O5,2024-25,Reported,Regional,Latrobe City
+0.739227836,Asset renewal and upgrade compared to depreciation,1.028990011,O5,2024-25,Reported,Regional,Mildura Rural City
+0.739227836,Asset renewal and upgrade compared to depreciation,0.628927257,O5,2024-25,Reported,Regional,Wangaratta Rural City
+0.739227836,Asset renewal and upgrade compared to depreciation,0.739227836,O5,2024-25,Reported,Regional,Warrnambool City
+0.739227836,Asset renewal and upgrade compared to depreciation,0.866994066,O5,2024-25,Reported,Regional,Wodonga City
+0.84060969,Asset renewal and upgrade compared to depreciation,1.43192102,O5,2024-25,Reported,Small Shire,Alpine Shire
+0.84060969,Asset renewal and upgrade compared to depreciation,1.007484895,O5,2024-25,Reported,Small Shire,Ararat Rural City
+0.84060969,Asset renewal and upgrade compared to depreciation,0.667811513,O5,2024-25,Reported,Small Shire,Benalla Rural City
+0.84060969,Asset renewal and upgrade compared to depreciation,0.973543571,O5,2024-25,Reported,Small Shire,Borough of Queenscliffe
+0.84060969,Asset renewal and upgrade compared to depreciation,0.84060969,O5,2024-25,Reported,Small Shire,Buloke Shire
+0.84060969,Asset renewal and upgrade compared to depreciation,0.660276389,O5,2024-25,Reported,Small Shire,Central Goldfields Shire
+0.84060969,Asset renewal and upgrade compared to depreciation,1.52213667,O5,2024-25,Reported,Small Shire,Gannawarra Shire
+0.84060969,Asset renewal and upgrade compared to depreciation,0.788469647,O5,2024-25,Reported,Small Shire,Hepburn Shire
+0.84060969,Asset renewal and upgrade compared to depreciation,0.712462731,O5,2024-25,Reported,Small Shire,Hindmarsh Shire
+0.84060969,Asset renewal and upgrade compared to depreciation,0.594555874,O5,2024-25,Reported,Small Shire,Indigo Shire
+0.84060969,Asset renewal and upgrade compared to depreciation,0.673321349,O5,2024-25,Reported,Small Shire,Loddon Shire
+0.84060969,Asset renewal and upgrade compared to depreciation,2.401427469,O5,2024-25,Reported,Small Shire,Mansfield Shire
+0.84060969,Asset renewal and upgrade compared to depreciation,0.85147801,O5,2024-25,Reported,Small Shire,Murrindindi Shire
+0.84060969,Asset renewal and upgrade compared to depreciation,0.686880502,O5,2024-25,Reported,Small Shire,Northern Grampians Shire
+0.84060969,Asset renewal and upgrade compared to depreciation,0.949226096,O5,2024-25,Reported,Small Shire,Pyrenees Shire
+0.84060969,Asset renewal and upgrade compared to depreciation,1.083276293,O5,2024-25,Reported,Small Shire,Strathbogie Shire
+0.84060969,Asset renewal and upgrade compared to depreciation,1.543421053,O5,2024-25,Reported,Small Shire,Towong Shire
+0.84060969,Asset renewal and upgrade compared to depreciation,0.608165527,O5,2024-25,Reported,Small Shire,West Wimmera Shire
+0.84060969,Asset renewal and upgrade compared to depreciation,0.658135039,O5,2024-25,Reported,Small Shire,Yarriambiack Shire
+2.982629848,Current assets compared to current liabilities,1.89214195,L1,2020-21,Reported,Interface,Cardinia Shire
+2.982629848,Current assets compared to current liabilities,2.982629848,L1,2020-21,Reported,Interface,Casey City
+2.982629848,Current assets compared to current liabilities,4.260327258,L1,2020-21,Reported,Interface,Hume City
+2.982629848,Current assets compared to current liabilities,3.755300475,L1,2020-21,Reported,Interface,Melton City
+2.982629848,Current assets compared to current liabilities,2.163340988,L1,2020-21,Reported,Interface,Mornington Peninsula Shire
+2.982629848,Current assets compared to current liabilities,1.450931956,L1,2020-21,Reported,Interface,Nillumbik Shire
+2.982629848,Current assets compared to current liabilities,3.058422542,L1,2020-21,Reported,Interface,Whittlesea City
+2.982629848,Current assets compared to current liabilities,4.077598303,L1,2020-21,Reported,Interface,Wyndham City
+2.982629848,Current assets compared to current liabilities,1.321643877,L1,2020-21,Reported,Interface,Yarra Ranges Shire
+2.448969148,Current assets compared to current liabilities,1.57463583,L1,2020-21,Reported,Large Shire,Bass Coast Shire
+2.448969148,Current assets compared to current liabilities,1.744338575,L1,2020-21,Reported,Large Shire,Baw Baw Shire
+2.448969148,Current assets compared to current liabilities,3.832387772,L1,2020-21,Reported,Large Shire,Campaspe Shire
+2.448969148,Current assets compared to current liabilities,1.897334444,L1,2020-21,Reported,Large Shire,Colac Otway Shire
+2.448969148,Current assets compared to current liabilities,2.466946755,L1,2020-21,Reported,Large Shire,Corangamite Shire
+2.448969148,Current assets compared to current liabilities,2.485869249,L1,2020-21,Reported,Large Shire,East Gippsland Shire
+2.448969148,Current assets compared to current liabilities,1.188724773,L1,2020-21,Reported,Large Shire,Glenelg Shire
+2.448969148,Current assets compared to current liabilities,2.284272902,L1,2020-21,Reported,Large Shire,Golden Plains Shire
+2.448969148,Current assets compared to current liabilities,1.940716708,L1,2020-21,Reported,Large Shire,Macedon Ranges Shire
+2.448969148,Current assets compared to current liabilities,2.025444181,L1,2020-21,Reported,Large Shire,Mitchell Shire
+2.448969148,Current assets compared to current liabilities,2.598753188,L1,2020-21,Reported,Large Shire,Moira Shire
+2.448969148,Current assets compared to current liabilities,1.358431557,L1,2020-21,Reported,Large Shire,Moorabool Shire
+2.448969148,Current assets compared to current liabilities,2.448969148,L1,2020-21,Reported,Large Shire,Mount Alexander Shire
+2.448969148,Current assets compared to current liabilities,2.984942746,L1,2020-21,Reported,Large Shire,Moyne Shire
+2.448969148,Current assets compared to current liabilities,2.983921854,L1,2020-21,Reported,Large Shire,South Gippsland Shire
+2.448969148,Current assets compared to current liabilities,2.505821475,L1,2020-21,Reported,Large Shire,Southern Grampians Shire
+2.448969148,Current assets compared to current liabilities,2.310415915,L1,2020-21,Reported,Large Shire,Surf Coast Shire
+2.448969148,Current assets compared to current liabilities,3.883758521,L1,2020-21,Reported,Large Shire,Swan Hill Rural City
+2.448969148,Current assets compared to current liabilities,2.905332954,L1,2020-21,Reported,Large Shire,Wellington Shire
+1.772505493,Current assets compared to current liabilities,2.265865947,L1,2020-21,Reported,Metropolitan,Banyule City
+1.772505493,Current assets compared to current liabilities,4.52203008,L1,2020-21,Reported,Metropolitan,Bayside City
+1.772505493,Current assets compared to current liabilities,1.773229238,L1,2020-21,Reported,Metropolitan,Boroondara City
+1.772505493,Current assets compared to current liabilities,1.742328514,L1,2020-21,Reported,Metropolitan,Brimbank City
+1.772505493,Current assets compared to current liabilities,1.719541915,L1,2020-21,Reported,Metropolitan,Darebin City
+1.772505493,Current assets compared to current liabilities,2.236854279,L1,2020-21,Reported,Metropolitan,Frankston City
+1.772505493,Current assets compared to current liabilities,1.206840046,L1,2020-21,Reported,Metropolitan,Glen Eira City
+1.772505493,Current assets compared to current liabilities,1.900520511,L1,2020-21,Reported,Metropolitan,Greater Dandenong City
+1.772505493,Current assets compared to current liabilities,1.230205252,L1,2020-21,Reported,Metropolitan,Hobsons Bay City
+1.772505493,Current assets compared to current liabilities,2.380265148,L1,2020-21,Reported,Metropolitan,Kingston City
+1.772505493,Current assets compared to current liabilities,1.44584415,L1,2020-21,Reported,Metropolitan,Knox City
+1.772505493,Current assets compared to current liabilities,1.747236782,L1,2020-21,Reported,Metropolitan,Manningham City
+1.772505493,Current assets compared to current liabilities,3.583186642,L1,2020-21,Reported,Metropolitan,Maribyrnong City
+1.772505493,Current assets compared to current liabilities,1.617533788,L1,2020-21,Reported,Metropolitan,Maroondah City
+1.772505493,Current assets compared to current liabilities,1.28260479,L1,2020-21,Reported,Metropolitan,Melbourne City
+1.772505493,Current assets compared to current liabilities,2.414390914,L1,2020-21,Reported,Metropolitan,Merri-bek City
+1.772505493,Current assets compared to current liabilities,1.772505493,L1,2020-21,Reported,Metropolitan,Monash City
+1.772505493,Current assets compared to current liabilities,1.323415044,L1,2020-21,Reported,Metropolitan,Moonee Valley City
+1.772505493,Current assets compared to current liabilities,3.094897453,L1,2020-21,Reported,Metropolitan,Port Phillip City
+1.772505493,Current assets compared to current liabilities,2.355151962,L1,2020-21,Reported,Metropolitan,Stonnington City
+1.772505493,Current assets compared to current liabilities,3.908437509,L1,2020-21,Reported,Metropolitan,Whitehorse City
+1.772505493,Current assets compared to current liabilities,1.266101094,L1,2020-21,Reported,Metropolitan,Yarra City
+1.730853251,Current assets compared to current liabilities,2.173071682,L1,2020-21,Reported,Regional,Ballarat City
+1.730853251,Current assets compared to current liabilities,1.600900236,L1,2020-21,Reported,Regional,Greater Bendigo City
+1.730853251,Current assets compared to current liabilities,1.402872789,L1,2020-21,Reported,Regional,Greater Geelong City
+1.730853251,Current assets compared to current liabilities,1.555446173,L1,2020-21,Reported,Regional,Greater Shepparton City
+1.730853251,Current assets compared to current liabilities,2.203191777,L1,2020-21,Reported,Regional,Horsham Rural City
+1.730853251,Current assets compared to current liabilities,2.530097127,L1,2020-21,Reported,Regional,Latrobe City
+1.730853251,Current assets compared to current liabilities,4.058484453,L1,2020-21,Reported,Regional,Mildura Rural City
+1.730853251,Current assets compared to current liabilities,1.730853251,L1,2020-21,Reported,Regional,Wangaratta Rural City
+1.730853251,Current assets compared to current liabilities,1.589251263,L1,2020-21,Reported,Regional,Warrnambool City
+1.730853251,Current assets compared to current liabilities,3.296861983,L1,2020-21,Reported,Regional,Wodonga City
+2.488286873,Current assets compared to current liabilities,2.93099631,L1,2020-21,Reported,Small Shire,Alpine Shire
+2.488286873,Current assets compared to current liabilities,2.020793393,L1,2020-21,Reported,Small Shire,Ararat Rural City
+2.488286873,Current assets compared to current liabilities,2.026069922,L1,2020-21,Reported,Small Shire,Benalla Rural City
+2.488286873,Current assets compared to current liabilities,2.940493317,L1,2020-21,Reported,Small Shire,Borough of Queenscliffe
+2.488286873,Current assets compared to current liabilities,2.671875,L1,2020-21,Reported,Small Shire,Buloke Shire
+2.488286873,Current assets compared to current liabilities,1.35384729,L1,2020-21,Reported,Small Shire,Central Goldfields Shire
+2.488286873,Current assets compared to current liabilities,1.973159427,L1,2020-21,Reported,Small Shire,Gannawarra Shire
+2.488286873,Current assets compared to current liabilities,2.237484135,L1,2020-21,Reported,Small Shire,Hepburn Shire
+2.488286873,Current assets compared to current liabilities,2.488286873,L1,2020-21,Reported,Small Shire,Hindmarsh Shire
+2.488286873,Current assets compared to current liabilities,1.753413231,L1,2020-21,Reported,Small Shire,Indigo Shire
+2.488286873,Current assets compared to current liabilities,5.065444776,L1,2020-21,Reported,Small Shire,Loddon Shire
+2.488286873,Current assets compared to current liabilities,2.965673201,L1,2020-21,Reported,Small Shire,Mansfield Shire
+2.488286873,Current assets compared to current liabilities,3.821818879,L1,2020-21,Reported,Small Shire,Murrindindi Shire
+2.488286873,Current assets compared to current liabilities,2.544482026,L1,2020-21,Reported,Small Shire,Northern Grampians Shire
+2.488286873,Current assets compared to current liabilities,1.795599084,L1,2020-21,Reported,Small Shire,Pyrenees Shire
+2.488286873,Current assets compared to current liabilities,2.164624183,L1,2020-21,Reported,Small Shire,Strathbogie Shire
+2.488286873,Current assets compared to current liabilities,3.882312859,L1,2020-21,Reported,Small Shire,Towong Shire
+2.488286873,Current assets compared to current liabilities,3.655433699,L1,2020-21,Reported,Small Shire,West Wimmera Shire
+2.488286873,Current assets compared to current liabilities,2.052906308,L1,2020-21,Reported,Small Shire,Yarriambiack Shire
+2.405041779,Current assets compared to current liabilities,,L1,2021-22,Missing,Small Shire,Towong Shire
+2.764615118,Current assets compared to current liabilities,2.210767925,L1,2021-22,Reported,Interface,Cardinia Shire
+2.764615118,Current assets compared to current liabilities,2.764615118,L1,2021-22,Reported,Interface,Casey City
+2.764615118,Current assets compared to current liabilities,4.850509471,L1,2021-22,Reported,Interface,Hume City
+2.764615118,Current assets compared to current liabilities,3.114103541,L1,2021-22,Reported,Interface,Melton City
+2.764615118,Current assets compared to current liabilities,1.930118355,L1,2021-22,Reported,Interface,Mornington Peninsula Shire
+2.764615118,Current assets compared to current liabilities,1.718855446,L1,2021-22,Reported,Interface,Nillumbik Shire
+2.764615118,Current assets compared to current liabilities,3.0142164,L1,2021-22,Reported,Interface,Whittlesea City
+2.764615118,Current assets compared to current liabilities,4.317849649,L1,2021-22,Reported,Interface,Wyndham City
+2.764615118,Current assets compared to current liabilities,1.223718109,L1,2021-22,Reported,Interface,Yarra Ranges Shire
+2.274044266,Current assets compared to current liabilities,1.478762845,L1,2021-22,Reported,Large Shire,Bass Coast Shire
+2.274044266,Current assets compared to current liabilities,1.784898464,L1,2021-22,Reported,Large Shire,Baw Baw Shire
+2.274044266,Current assets compared to current liabilities,3.194222983,L1,2021-22,Reported,Large Shire,Campaspe Shire
+2.274044266,Current assets compared to current liabilities,1.871374978,L1,2021-22,Reported,Large Shire,Colac Otway Shire
+2.274044266,Current assets compared to current liabilities,2.469281424,L1,2021-22,Reported,Large Shire,Corangamite Shire
+2.274044266,Current assets compared to current liabilities,2.567961725,L1,2021-22,Reported,Large Shire,East Gippsland Shire
+2.274044266,Current assets compared to current liabilities,0.849960961,L1,2021-22,Reported,Large Shire,Glenelg Shire
+2.274044266,Current assets compared to current liabilities,1.816071915,L1,2021-22,Reported,Large Shire,Golden Plains Shire
+2.274044266,Current assets compared to current liabilities,1.678073476,L1,2021-22,Reported,Large Shire,Macedon Ranges Shire
+2.274044266,Current assets compared to current liabilities,2.199360448,L1,2021-22,Reported,Large Shire,Mitchell Shire
+2.274044266,Current assets compared to current liabilities,3.460363636,L1,2021-22,Reported,Large Shire,Moira Shire
+2.274044266,Current assets compared to current liabilities,1.263101732,L1,2021-22,Reported,Large Shire,Moorabool Shire
+2.274044266,Current assets compared to current liabilities,1.861953949,L1,2021-22,Reported,Large Shire,Mount Alexander Shire
+2.274044266,Current assets compared to current liabilities,2.948481657,L1,2021-22,Reported,Large Shire,Moyne Shire
+2.274044266,Current assets compared to current liabilities,2.63152887,L1,2021-22,Reported,Large Shire,South Gippsland Shire
+2.274044266,Current assets compared to current liabilities,2.52964972,L1,2021-22,Reported,Large Shire,Southern Grampians Shire
+2.274044266,Current assets compared to current liabilities,2.274044266,L1,2021-22,Reported,Large Shire,Surf Coast Shire
+2.274044266,Current assets compared to current liabilities,4.177367275,L1,2021-22,Reported,Large Shire,Swan Hill Rural City
+2.274044266,Current assets compared to current liabilities,3.248925334,L1,2021-22,Reported,Large Shire,Wellington Shire
+1.952155031,Current assets compared to current liabilities,2.421429705,L1,2021-22,Reported,Metropolitan,Banyule City
+1.952155031,Current assets compared to current liabilities,3.072025688,L1,2021-22,Reported,Metropolitan,Bayside City
+1.952155031,Current assets compared to current liabilities,2.138851675,L1,2021-22,Reported,Metropolitan,Boroondara City
+1.952155031,Current assets compared to current liabilities,1.75651146,L1,2021-22,Reported,Metropolitan,Brimbank City
+1.952155031,Current assets compared to current liabilities,1.40195545,L1,2021-22,Reported,Metropolitan,Darebin City
+1.952155031,Current assets compared to current liabilities,1.94277152,L1,2021-22,Reported,Metropolitan,Frankston City
+1.952155031,Current assets compared to current liabilities,1.024846251,L1,2021-22,Reported,Metropolitan,Glen Eira City
+1.952155031,Current assets compared to current liabilities,2.000318764,L1,2021-22,Reported,Metropolitan,Greater Dandenong City
+1.952155031,Current assets compared to current liabilities,1.354602806,L1,2021-22,Reported,Metropolitan,Hobsons Bay City
+1.952155031,Current assets compared to current liabilities,1.952155031,L1,2021-22,Reported,Metropolitan,Kingston City
+1.952155031,Current assets compared to current liabilities,1.484396401,L1,2021-22,Reported,Metropolitan,Knox City
+1.952155031,Current assets compared to current liabilities,2.112198353,L1,2021-22,Reported,Metropolitan,Manningham City
+1.952155031,Current assets compared to current liabilities,3.793149869,L1,2021-22,Reported,Metropolitan,Maribyrnong City
+1.952155031,Current assets compared to current liabilities,2.013358048,L1,2021-22,Reported,Metropolitan,Maroondah City
+1.952155031,Current assets compared to current liabilities,0.586671863,L1,2021-22,Reported,Metropolitan,Melbourne City
+1.952155031,Current assets compared to current liabilities,3.619364188,L1,2021-22,Reported,Metropolitan,Merri-bek City
+1.952155031,Current assets compared to current liabilities,1.796750178,L1,2021-22,Reported,Metropolitan,Monash City
+1.952155031,Current assets compared to current liabilities,1.468421829,L1,2021-22,Reported,Metropolitan,Moonee Valley City
+1.952155031,Current assets compared to current liabilities,3.901123434,L1,2021-22,Reported,Metropolitan,Port Phillip City
+1.952155031,Current assets compared to current liabilities,1.997400581,L1,2021-22,Reported,Metropolitan,Stonnington City
+1.952155031,Current assets compared to current liabilities,3.845869584,L1,2021-22,Reported,Metropolitan,Whitehorse City
+1.952155031,Current assets compared to current liabilities,1.704892171,L1,2021-22,Reported,Metropolitan,Yarra City
+1.961672942,Current assets compared to current liabilities,2.347482862,L1,2021-22,Reported,Regional,Ballarat City
+1.961672942,Current assets compared to current liabilities,1.956756957,L1,2021-22,Reported,Regional,Greater Bendigo City
+1.961672942,Current assets compared to current liabilities,1.480391971,L1,2021-22,Reported,Regional,Greater Geelong City
+1.961672942,Current assets compared to current liabilities,1.613220219,L1,2021-22,Reported,Regional,Greater Shepparton City
+1.961672942,Current assets compared to current liabilities,2.289647291,L1,2021-22,Reported,Regional,Horsham Rural City
+1.961672942,Current assets compared to current liabilities,2.594700476,L1,2021-22,Reported,Regional,Latrobe City
+1.961672942,Current assets compared to current liabilities,5.046350315,L1,2021-22,Reported,Regional,Mildura Rural City
+1.961672942,Current assets compared to current liabilities,1.741153881,L1,2021-22,Reported,Regional,Wangaratta Rural City
+1.961672942,Current assets compared to current liabilities,1.961672942,L1,2021-22,Reported,Regional,Warrnambool City
+1.961672942,Current assets compared to current liabilities,4.391810081,L1,2021-22,Reported,Regional,Wodonga City
+2.405041779,Current assets compared to current liabilities,2.350263482,L1,2021-22,Reported,Small Shire,Alpine Shire
+2.405041779,Current assets compared to current liabilities,2.246543982,L1,2021-22,Reported,Small Shire,Ararat Rural City
+2.405041779,Current assets compared to current liabilities,1.98005498,L1,2021-22,Reported,Small Shire,Benalla Rural City
+2.405041779,Current assets compared to current liabilities,3.101659676,L1,2021-22,Reported,Small Shire,Borough of Queenscliffe
+2.405041779,Current assets compared to current liabilities,3.03183613,L1,2021-22,Reported,Small Shire,Buloke Shire
+2.405041779,Current assets compared to current liabilities,1.314239656,L1,2021-22,Reported,Small Shire,Central Goldfields Shire
+2.405041779,Current assets compared to current liabilities,1.999910858,L1,2021-22,Reported,Small Shire,Gannawarra Shire
+2.405041779,Current assets compared to current liabilities,1.94618352,L1,2021-22,Reported,Small Shire,Hepburn Shire
+2.405041779,Current assets compared to current liabilities,3.479001135,L1,2021-22,Reported,Small Shire,Hindmarsh Shire
+2.405041779,Current assets compared to current liabilities,2.160169912,L1,2021-22,Reported,Small Shire,Indigo Shire
+2.405041779,Current assets compared to current liabilities,6.044664262,L1,2021-22,Reported,Small Shire,Loddon Shire
+2.405041779,Current assets compared to current liabilities,2.52730398,L1,2021-22,Reported,Small Shire,Mansfield Shire
+2.405041779,Current assets compared to current liabilities,3.30893563,L1,2021-22,Reported,Small Shire,Murrindindi Shire
+2.405041779,Current assets compared to current liabilities,2.794835728,L1,2021-22,Reported,Small Shire,Northern Grampians Shire
+2.405041779,Current assets compared to current liabilities,2.405041779,L1,2021-22,Reported,Small Shire,Pyrenees Shire
+2.405041779,Current assets compared to current liabilities,2.320834389,L1,2021-22,Reported,Small Shire,Strathbogie Shire
+2.405041779,Current assets compared to current liabilities,5.067963903,L1,2021-22,Reported,Small Shire,West Wimmera Shire
+2.405041779,Current assets compared to current liabilities,2.426466947,L1,2021-22,Reported,Small Shire,Yarriambiack Shire
+3.019525636,Current assets compared to current liabilities,2.368296584,L1,2022-23,Reported,Interface,Cardinia Shire
+3.019525636,Current assets compared to current liabilities,3.019525636,L1,2022-23,Reported,Interface,Casey City
+3.019525636,Current assets compared to current liabilities,4.618479611,L1,2022-23,Reported,Interface,Hume City
+3.019525636,Current assets compared to current liabilities,3.893375453,L1,2022-23,Reported,Interface,Melton City
+3.019525636,Current assets compared to current liabilities,2.327191768,L1,2022-23,Reported,Interface,Mornington Peninsula Shire
+3.019525636,Current assets compared to current liabilities,1.711645719,L1,2022-23,Reported,Interface,Nillumbik Shire
+3.019525636,Current assets compared to current liabilities,3.268698191,L1,2022-23,Reported,Interface,Whittlesea City
+3.019525636,Current assets compared to current liabilities,3.749293021,L1,2022-23,Reported,Interface,Wyndham City
+3.019525636,Current assets compared to current liabilities,1.233050239,L1,2022-23,Reported,Interface,Yarra Ranges Shire
+2.843298318,Current assets compared to current liabilities,1.492605143,L1,2022-23,Reported,Large Shire,Bass Coast Shire
+2.843298318,Current assets compared to current liabilities,1.774671412,L1,2022-23,Reported,Large Shire,Baw Baw Shire
+2.843298318,Current assets compared to current liabilities,4.547543899,L1,2022-23,Reported,Large Shire,Campaspe Shire
+2.843298318,Current assets compared to current liabilities,2.43908301,L1,2022-23,Reported,Large Shire,Colac Otway Shire
+2.843298318,Current assets compared to current liabilities,3.11650349,L1,2022-23,Reported,Large Shire,Corangamite Shire
+2.843298318,Current assets compared to current liabilities,3.074610843,L1,2022-23,Reported,Large Shire,East Gippsland Shire
+2.843298318,Current assets compared to current liabilities,0.941369894,L1,2022-23,Reported,Large Shire,Glenelg Shire
+2.843298318,Current assets compared to current liabilities,1.532718447,L1,2022-23,Reported,Large Shire,Golden Plains Shire
+2.843298318,Current assets compared to current liabilities,1.678124227,L1,2022-23,Reported,Large Shire,Macedon Ranges Shire
+2.843298318,Current assets compared to current liabilities,2.241772806,L1,2022-23,Reported,Large Shire,Mitchell Shire
+2.843298318,Current assets compared to current liabilities,3.304286158,L1,2022-23,Reported,Large Shire,Moira Shire
+2.843298318,Current assets compared to current liabilities,1.020512155,L1,2022-23,Reported,Large Shire,Moorabool Shire
+2.843298318,Current assets compared to current liabilities,2.843298318,L1,2022-23,Reported,Large Shire,Mount Alexander Shire
+2.843298318,Current assets compared to current liabilities,3.001116647,L1,2022-23,Reported,Large Shire,Moyne Shire
+2.843298318,Current assets compared to current liabilities,2.915659539,L1,2022-23,Reported,Large Shire,South Gippsland Shire
+2.843298318,Current assets compared to current liabilities,3.112671934,L1,2022-23,Reported,Large Shire,Southern Grampians Shire
+2.843298318,Current assets compared to current liabilities,2.191848011,L1,2022-23,Reported,Large Shire,Surf Coast Shire
+2.843298318,Current assets compared to current liabilities,3.911601866,L1,2022-23,Reported,Large Shire,Swan Hill Rural City
+2.843298318,Current assets compared to current liabilities,4.708182893,L1,2022-23,Reported,Large Shire,Wellington Shire
+1.929942821,Current assets compared to current liabilities,2.691871334,L1,2022-23,Reported,Metropolitan,Banyule City
+1.929942821,Current assets compared to current liabilities,3.666575824,L1,2022-23,Reported,Metropolitan,Bayside City
+1.929942821,Current assets compared to current liabilities,2.240765844,L1,2022-23,Reported,Metropolitan,Boroondara City
+1.929942821,Current assets compared to current liabilities,2.061394207,L1,2022-23,Reported,Metropolitan,Brimbank City
+1.929942821,Current assets compared to current liabilities,1.833682881,L1,2022-23,Reported,Metropolitan,Darebin City
+1.929942821,Current assets compared to current liabilities,1.840575545,L1,2022-23,Reported,Metropolitan,Frankston City
+1.929942821,Current assets compared to current liabilities,1.241823195,L1,2022-23,Reported,Metropolitan,Glen Eira City
+1.929942821,Current assets compared to current liabilities,2.055692041,L1,2022-23,Reported,Metropolitan,Greater Dandenong City
+1.929942821,Current assets compared to current liabilities,1.55102799,L1,2022-23,Reported,Metropolitan,Hobsons Bay City
+1.929942821,Current assets compared to current liabilities,2.353543904,L1,2022-23,Reported,Metropolitan,Kingston City
+1.929942821,Current assets compared to current liabilities,1.633541724,L1,2022-23,Reported,Metropolitan,Knox City
+1.929942821,Current assets compared to current liabilities,2.050699685,L1,2022-23,Reported,Metropolitan,Manningham City
+1.929942821,Current assets compared to current liabilities,3.835251418,L1,2022-23,Reported,Metropolitan,Maribyrnong City
+1.929942821,Current assets compared to current liabilities,1.504132231,L1,2022-23,Reported,Metropolitan,Maroondah City
+1.929942821,Current assets compared to current liabilities,1.096166218,L1,2022-23,Reported,Metropolitan,Melbourne City
+1.929942821,Current assets compared to current liabilities,3.572371783,L1,2022-23,Reported,Metropolitan,Merri-bek City
+1.929942821,Current assets compared to current liabilities,1.37560737,L1,2022-23,Reported,Metropolitan,Monash City
+1.929942821,Current assets compared to current liabilities,1.612772807,L1,2022-23,Reported,Metropolitan,Moonee Valley City
+1.929942821,Current assets compared to current liabilities,4.515043268,L1,2022-23,Reported,Metropolitan,Port Phillip City
+1.929942821,Current assets compared to current liabilities,1.929942821,L1,2022-23,Reported,Metropolitan,Stonnington City
+1.929942821,Current assets compared to current liabilities,3.27828574,L1,2022-23,Reported,Metropolitan,Whitehorse City
+1.929942821,Current assets compared to current liabilities,1.865634909,L1,2022-23,Reported,Metropolitan,Yarra City
+2.372057697,Current assets compared to current liabilities,2.372057697,L1,2022-23,Reported,Regional,Ballarat City
+2.372057697,Current assets compared to current liabilities,2.26142687,L1,2022-23,Reported,Regional,Greater Bendigo City
+2.372057697,Current assets compared to current liabilities,1.348495287,L1,2022-23,Reported,Regional,Greater Geelong City
+2.372057697,Current assets compared to current liabilities,1.991765076,L1,2022-23,Reported,Regional,Greater Shepparton City
+2.372057697,Current assets compared to current liabilities,2.707077724,L1,2022-23,Reported,Regional,Horsham Rural City
+2.372057697,Current assets compared to current liabilities,2.54732111,L1,2022-23,Reported,Regional,Latrobe City
+2.372057697,Current assets compared to current liabilities,5.309691364,L1,2022-23,Reported,Regional,Mildura Rural City
+2.372057697,Current assets compared to current liabilities,1.923051354,L1,2022-23,Reported,Regional,Wangaratta Rural City
+2.372057697,Current assets compared to current liabilities,2.403384926,L1,2022-23,Reported,Regional,Warrnambool City
+2.372057697,Current assets compared to current liabilities,3.421329694,L1,2022-23,Reported,Regional,Wodonga City
+2.678004352,Current assets compared to current liabilities,2.201677504,L1,2022-23,Reported,Small Shire,Alpine Shire
+2.678004352,Current assets compared to current liabilities,3.218327759,L1,2022-23,Reported,Small Shire,Ararat Rural City
+2.678004352,Current assets compared to current liabilities,2.678004352,L1,2022-23,Reported,Small Shire,Benalla Rural City
+2.678004352,Current assets compared to current liabilities,4.580145059,L1,2022-23,Reported,Small Shire,Borough of Queenscliffe
+2.678004352,Current assets compared to current liabilities,3.549363657,L1,2022-23,Reported,Small Shire,Buloke Shire
+2.678004352,Current assets compared to current liabilities,1.250001572,L1,2022-23,Reported,Small Shire,Central Goldfields Shire
+2.678004352,Current assets compared to current liabilities,2.2437773,L1,2022-23,Reported,Small Shire,Gannawarra Shire
+2.678004352,Current assets compared to current liabilities,2.381870962,L1,2022-23,Reported,Small Shire,Hepburn Shire
+2.678004352,Current assets compared to current liabilities,3.566308969,L1,2022-23,Reported,Small Shire,Hindmarsh Shire
+2.678004352,Current assets compared to current liabilities,1.782776801,L1,2022-23,Reported,Small Shire,Indigo Shire
+2.678004352,Current assets compared to current liabilities,5.965782937,L1,2022-23,Reported,Small Shire,Loddon Shire
+2.678004352,Current assets compared to current liabilities,1.921982795,L1,2022-23,Reported,Small Shire,Mansfield Shire
+2.678004352,Current assets compared to current liabilities,3.195443103,L1,2022-23,Reported,Small Shire,Murrindindi Shire
+2.678004352,Current assets compared to current liabilities,2.834562299,L1,2022-23,Reported,Small Shire,Northern Grampians Shire
+2.678004352,Current assets compared to current liabilities,2.566437779,L1,2022-23,Reported,Small Shire,Pyrenees Shire
+2.678004352,Current assets compared to current liabilities,2.307980798,L1,2022-23,Reported,Small Shire,Strathbogie Shire
+2.678004352,Current assets compared to current liabilities,3.642030801,L1,2022-23,Reported,Small Shire,Towong Shire
+2.678004352,Current assets compared to current liabilities,4.706176599,L1,2022-23,Reported,Small Shire,West Wimmera Shire
+2.678004352,Current assets compared to current liabilities,1.936188999,L1,2022-23,Reported,Small Shire,Yarriambiack Shire
+2.780204509,Current assets compared to current liabilities,2.780204509,L1,2023-24,Reported,Interface,Cardinia Shire
+2.780204509,Current assets compared to current liabilities,2.924626998,L1,2023-24,Reported,Interface,Casey City
+2.780204509,Current assets compared to current liabilities,4.235807489,L1,2023-24,Reported,Interface,Hume City
+2.780204509,Current assets compared to current liabilities,3.373576126,L1,2023-24,Reported,Interface,Melton City
+2.780204509,Current assets compared to current liabilities,2.576447847,L1,2023-24,Reported,Interface,Mornington Peninsula Shire
+2.780204509,Current assets compared to current liabilities,1.845581574,L1,2023-24,Reported,Interface,Nillumbik Shire
+2.780204509,Current assets compared to current liabilities,2.68647347,L1,2023-24,Reported,Interface,Whittlesea City
+2.780204509,Current assets compared to current liabilities,4.873405817,L1,2023-24,Reported,Interface,Wyndham City
+2.780204509,Current assets compared to current liabilities,1.045416859,L1,2023-24,Reported,Interface,Yarra Ranges Shire
+2.070694688,Current assets compared to current liabilities,1.324013456,L1,2023-24,Reported,Large Shire,Bass Coast Shire
+2.070694688,Current assets compared to current liabilities,1.198125888,L1,2023-24,Reported,Large Shire,Baw Baw Shire
+2.070694688,Current assets compared to current liabilities,3.898758474,L1,2023-24,Reported,Large Shire,Campaspe Shire
+2.070694688,Current assets compared to current liabilities,2.293244392,L1,2023-24,Reported,Large Shire,Colac Otway Shire
+2.070694688,Current assets compared to current liabilities,3.582497133,L1,2023-24,Reported,Large Shire,Corangamite Shire
+2.070694688,Current assets compared to current liabilities,2.826987931,L1,2023-24,Reported,Large Shire,East Gippsland Shire
+2.070694688,Current assets compared to current liabilities,0.511585339,L1,2023-24,Reported,Large Shire,Glenelg Shire
+2.070694688,Current assets compared to current liabilities,1.128398385,L1,2023-24,Reported,Large Shire,Golden Plains Shire
+2.070694688,Current assets compared to current liabilities,1.649648005,L1,2023-24,Reported,Large Shire,Macedon Ranges Shire
+2.070694688,Current assets compared to current liabilities,1.982987993,L1,2023-24,Reported,Large Shire,Mitchell Shire
+2.070694688,Current assets compared to current liabilities,2.883589364,L1,2023-24,Reported,Large Shire,Moira Shire
+2.070694688,Current assets compared to current liabilities,0.741183021,L1,2023-24,Reported,Large Shire,Moorabool Shire
+2.070694688,Current assets compared to current liabilities,2.551561428,L1,2023-24,Reported,Large Shire,Mount Alexander Shire
+2.070694688,Current assets compared to current liabilities,2.225924286,L1,2023-24,Reported,Large Shire,Moyne Shire
+2.070694688,Current assets compared to current liabilities,1.876930826,L1,2023-24,Reported,Large Shire,South Gippsland Shire
+2.070694688,Current assets compared to current liabilities,1.520992366,L1,2023-24,Reported,Large Shire,Southern Grampians Shire
+2.070694688,Current assets compared to current liabilities,2.070694688,L1,2023-24,Reported,Large Shire,Surf Coast Shire
+2.070694688,Current assets compared to current liabilities,4.282292442,L1,2023-24,Reported,Large Shire,Swan Hill Rural City
+2.070694688,Current assets compared to current liabilities,4.54198705,L1,2023-24,Reported,Large Shire,Wellington Shire
+1.826843573,Current assets compared to current liabilities,2.480137046,L1,2023-24,Reported,Metropolitan,Banyule City
+1.826843573,Current assets compared to current liabilities,3.509762598,L1,2023-24,Reported,Metropolitan,Bayside City
+1.826843573,Current assets compared to current liabilities,2.891060318,L1,2023-24,Reported,Metropolitan,Boroondara City
+1.826843573,Current assets compared to current liabilities,2.161045212,L1,2023-24,Reported,Metropolitan,Brimbank City
+1.826843573,Current assets compared to current liabilities,1.810522643,L1,2023-24,Reported,Metropolitan,Darebin City
+1.826843573,Current assets compared to current liabilities,1.49434631,L1,2023-24,Reported,Metropolitan,Frankston City
+1.826843573,Current assets compared to current liabilities,1.471028006,L1,2023-24,Reported,Metropolitan,Glen Eira City
+1.826843573,Current assets compared to current liabilities,2.0666762,L1,2023-24,Reported,Metropolitan,Greater Dandenong City
+1.826843573,Current assets compared to current liabilities,1.535210447,L1,2023-24,Reported,Metropolitan,Hobsons Bay City
+1.826843573,Current assets compared to current liabilities,2.090053611,L1,2023-24,Reported,Metropolitan,Kingston City
+1.826843573,Current assets compared to current liabilities,1.673330094,L1,2023-24,Reported,Metropolitan,Knox City
+1.826843573,Current assets compared to current liabilities,1.826843573,L1,2023-24,Reported,Metropolitan,Manningham City
+1.826843573,Current assets compared to current liabilities,3.601455419,L1,2023-24,Reported,Metropolitan,Maribyrnong City
+1.826843573,Current assets compared to current liabilities,1.39509172,L1,2023-24,Reported,Metropolitan,Maroondah City
+1.826843573,Current assets compared to current liabilities,0.655489828,L1,2023-24,Reported,Metropolitan,Melbourne City
+1.826843573,Current assets compared to current liabilities,2.978819457,L1,2023-24,Reported,Metropolitan,Merri-bek City
+1.826843573,Current assets compared to current liabilities,1.062152399,L1,2023-24,Reported,Metropolitan,Monash City
+1.826843573,Current assets compared to current liabilities,1.510587457,L1,2023-24,Reported,Metropolitan,Moonee Valley City
+1.826843573,Current assets compared to current liabilities,4.613998597,L1,2023-24,Reported,Metropolitan,Port Phillip City
+1.826843573,Current assets compared to current liabilities,0.897553532,L1,2023-24,Reported,Metropolitan,Stonnington City
+1.826843573,Current assets compared to current liabilities,4.491992012,L1,2023-24,Reported,Metropolitan,Whitehorse City
+1.826843573,Current assets compared to current liabilities,2.142901897,L1,2023-24,Reported,Metropolitan,Yarra City
+1.944138505,Current assets compared to current liabilities,1.944138505,L1,2023-24,Reported,Regional,Ballarat City
+1.944138505,Current assets compared to current liabilities,1.719820283,L1,2023-24,Reported,Regional,Greater Bendigo City
+1.944138505,Current assets compared to current liabilities,1.627843137,L1,2023-24,Reported,Regional,Greater Geelong City
+1.944138505,Current assets compared to current liabilities,1.719311663,L1,2023-24,Reported,Regional,Greater Shepparton City
+1.944138505,Current assets compared to current liabilities,2.382800312,L1,2023-24,Reported,Regional,Horsham Rural City
+1.944138505,Current assets compared to current liabilities,2.290800383,L1,2023-24,Reported,Regional,Latrobe City
+1.944138505,Current assets compared to current liabilities,5.243198091,L1,2023-24,Reported,Regional,Mildura Rural City
+1.944138505,Current assets compared to current liabilities,1.697185085,L1,2023-24,Reported,Regional,Wangaratta Rural City
+1.944138505,Current assets compared to current liabilities,2.559528302,L1,2023-24,Reported,Regional,Warrnambool City
+1.944138505,Current assets compared to current liabilities,3.004898921,L1,2023-24,Reported,Regional,Wodonga City
+2.020288495,Current assets compared to current liabilities,2.691727858,L1,2023-24,Reported,Small Shire,Alpine Shire
+2.020288495,Current assets compared to current liabilities,1.623132263,L1,2023-24,Reported,Small Shire,Ararat Rural City
+2.020288495,Current assets compared to current liabilities,3.095215538,L1,2023-24,Reported,Small Shire,Benalla Rural City
+2.020288495,Current assets compared to current liabilities,3.851602024,L1,2023-24,Reported,Small Shire,Borough of Queenscliffe
+2.020288495,Current assets compared to current liabilities,3.769789474,L1,2023-24,Reported,Small Shire,Buloke Shire
+2.020288495,Current assets compared to current liabilities,0.35037821,L1,2023-24,Reported,Small Shire,Central Goldfields Shire
+2.020288495,Current assets compared to current liabilities,2.070500197,L1,2023-24,Reported,Small Shire,Gannawarra Shire
+2.020288495,Current assets compared to current liabilities,1.410383747,L1,2023-24,Reported,Small Shire,Hepburn Shire
+2.020288495,Current assets compared to current liabilities,3.684845781,L1,2023-24,Reported,Small Shire,Hindmarsh Shire
+2.020288495,Current assets compared to current liabilities,0.97103193,L1,2023-24,Reported,Small Shire,Indigo Shire
+2.020288495,Current assets compared to current liabilities,6.092953173,L1,2023-24,Reported,Small Shire,Loddon Shire
+2.020288495,Current assets compared to current liabilities,1.137282092,L1,2023-24,Reported,Small Shire,Mansfield Shire
+2.020288495,Current assets compared to current liabilities,3.013488426,L1,2023-24,Reported,Small Shire,Murrindindi Shire
+2.020288495,Current assets compared to current liabilities,1.471752251,L1,2023-24,Reported,Small Shire,Northern Grampians Shire
+2.020288495,Current assets compared to current liabilities,1.931275386,L1,2023-24,Reported,Small Shire,Pyrenees Shire
+2.020288495,Current assets compared to current liabilities,2.020288495,L1,2023-24,Reported,Small Shire,Strathbogie Shire
+2.020288495,Current assets compared to current liabilities,3.606283751,L1,2023-24,Reported,Small Shire,Towong Shire
+2.020288495,Current assets compared to current liabilities,1.599382267,L1,2023-24,Reported,Small Shire,West Wimmera Shire
+2.020288495,Current assets compared to current liabilities,1.340070817,L1,2023-24,Reported,Small Shire,Yarriambiack Shire
+3.03609972,Current assets compared to current liabilities,3.220730679,L1,2024-25,Reported,Interface,Cardinia Shire
+3.03609972,Current assets compared to current liabilities,3.26146789,L1,2024-25,Reported,Interface,Casey City
+3.03609972,Current assets compared to current liabilities,4.460044857,L1,2024-25,Reported,Interface,Hume City
+3.03609972,Current assets compared to current liabilities,3.03609972,L1,2024-25,Reported,Interface,Melton City
+3.03609972,Current assets compared to current liabilities,2.494453696,L1,2024-25,Reported,Interface,Mornington Peninsula Shire
+3.03609972,Current assets compared to current liabilities,1.685797439,L1,2024-25,Reported,Interface,Nillumbik Shire
+3.03609972,Current assets compared to current liabilities,2.825233738,L1,2024-25,Reported,Interface,Whittlesea City
+3.03609972,Current assets compared to current liabilities,3.605254201,L1,2024-25,Reported,Interface,Wyndham City
+3.03609972,Current assets compared to current liabilities,1.347248474,L1,2024-25,Reported,Interface,Yarra Ranges Shire
+2.228290269,Current assets compared to current liabilities,1.712192431,L1,2024-25,Reported,Large Shire,Bass Coast Shire
+2.228290269,Current assets compared to current liabilities,1.773375291,L1,2024-25,Reported,Large Shire,Baw Baw Shire
+2.228290269,Current assets compared to current liabilities,4.947389538,L1,2024-25,Reported,Large Shire,Campaspe Shire
+2.228290269,Current assets compared to current liabilities,3.202067517,L1,2024-25,Reported,Large Shire,Colac Otway Shire
+2.228290269,Current assets compared to current liabilities,4.385521583,L1,2024-25,Reported,Large Shire,Corangamite Shire
+2.228290269,Current assets compared to current liabilities,3.333718023,L1,2024-25,Reported,Large Shire,East Gippsland Shire
+2.228290269,Current assets compared to current liabilities,1.173586078,L1,2024-25,Reported,Large Shire,Glenelg Shire
+2.228290269,Current assets compared to current liabilities,0.986485633,L1,2024-25,Reported,Large Shire,Golden Plains Shire
+2.228290269,Current assets compared to current liabilities,1.735806618,L1,2024-25,Reported,Large Shire,Macedon Ranges Shire
+2.228290269,Current assets compared to current liabilities,2.283156918,L1,2024-25,Reported,Large Shire,Mitchell Shire
+2.228290269,Current assets compared to current liabilities,2.644783609,L1,2024-25,Reported,Large Shire,Moira Shire
+2.228290269,Current assets compared to current liabilities,0.711888429,L1,2024-25,Reported,Large Shire,Moorabool Shire
+2.228290269,Current assets compared to current liabilities,2.228290269,L1,2024-25,Reported,Large Shire,Mount Alexander Shire
+2.228290269,Current assets compared to current liabilities,2.356094448,L1,2024-25,Reported,Large Shire,Moyne Shire
+2.228290269,Current assets compared to current liabilities,1.95916453,L1,2024-25,Reported,Large Shire,South Gippsland Shire
+2.228290269,Current assets compared to current liabilities,1.553273543,L1,2024-25,Reported,Large Shire,Southern Grampians Shire
+2.228290269,Current assets compared to current liabilities,1.944477327,L1,2024-25,Reported,Large Shire,Surf Coast Shire
+2.228290269,Current assets compared to current liabilities,4.003910758,L1,2024-25,Reported,Large Shire,Swan Hill Rural City
+2.228290269,Current assets compared to current liabilities,5.529668473,L1,2024-25,Reported,Large Shire,Wellington Shire
+1.993236627,Current assets compared to current liabilities,2.761721752,L1,2024-25,Reported,Metropolitan,Banyule City
+1.993236627,Current assets compared to current liabilities,4.025981403,L1,2024-25,Reported,Metropolitan,Bayside City
+1.993236627,Current assets compared to current liabilities,3.320164794,L1,2024-25,Reported,Metropolitan,Boroondara City
+1.993236627,Current assets compared to current liabilities,1.993236627,L1,2024-25,Reported,Metropolitan,Brimbank City
+1.993236627,Current assets compared to current liabilities,1.878632392,L1,2024-25,Reported,Metropolitan,Darebin City
+1.993236627,Current assets compared to current liabilities,1.406929334,L1,2024-25,Reported,Metropolitan,Frankston City
+1.993236627,Current assets compared to current liabilities,1.630448686,L1,2024-25,Reported,Metropolitan,Glen Eira City
+1.993236627,Current assets compared to current liabilities,2.293464836,L1,2024-25,Reported,Metropolitan,Greater Dandenong City
+1.993236627,Current assets compared to current liabilities,1.416498961,L1,2024-25,Reported,Metropolitan,Hobsons Bay City
+1.993236627,Current assets compared to current liabilities,2.101657531,L1,2024-25,Reported,Metropolitan,Kingston City
+1.993236627,Current assets compared to current liabilities,1.514483604,L1,2024-25,Reported,Metropolitan,Knox City
+1.993236627,Current assets compared to current liabilities,2.174793683,L1,2024-25,Reported,Metropolitan,Manningham City
+1.993236627,Current assets compared to current liabilities,3.583756095,L1,2024-25,Reported,Metropolitan,Maribyrnong City
+1.993236627,Current assets compared to current liabilities,1.62063666,L1,2024-25,Reported,Metropolitan,Maroondah City
+1.993236627,Current assets compared to current liabilities,0.751117263,L1,2024-25,Reported,Metropolitan,Melbourne City
+1.993236627,Current assets compared to current liabilities,2.640476861,L1,2024-25,Reported,Metropolitan,Merri-bek City
+1.993236627,Current assets compared to current liabilities,1.473903256,L1,2024-25,Reported,Metropolitan,Monash City
+1.993236627,Current assets compared to current liabilities,1.54505312,L1,2024-25,Reported,Metropolitan,Moonee Valley City
+1.993236627,Current assets compared to current liabilities,2.829471733,L1,2024-25,Reported,Metropolitan,Port Phillip City
+1.993236627,Current assets compared to current liabilities,1.364499728,L1,2024-25,Reported,Metropolitan,Stonnington City
+1.993236627,Current assets compared to current liabilities,4.5886879,L1,2024-25,Reported,Metropolitan,Whitehorse City
+1.993236627,Current assets compared to current liabilities,2.441304995,L1,2024-25,Reported,Metropolitan,Yarra City
+1.970798997,Current assets compared to current liabilities,1.463280755,L1,2024-25,Reported,Regional,Ballarat City
+1.970798997,Current assets compared to current liabilities,1.884344147,L1,2024-25,Reported,Regional,Greater Bendigo City
+1.970798997,Current assets compared to current liabilities,1.6820302,L1,2024-25,Reported,Regional,Greater Geelong City
+1.970798997,Current assets compared to current liabilities,2.041332483,L1,2024-25,Reported,Regional,Greater Shepparton City
+1.970798997,Current assets compared to current liabilities,2.541977973,L1,2024-25,Reported,Regional,Horsham Rural City
+1.970798997,Current assets compared to current liabilities,1.970798997,L1,2024-25,Reported,Regional,Latrobe City
+1.970798997,Current assets compared to current liabilities,4.879698822,L1,2024-25,Reported,Regional,Mildura Rural City
+1.970798997,Current assets compared to current liabilities,1.352023052,L1,2024-25,Reported,Regional,Wangaratta Rural City
+1.970798997,Current assets compared to current liabilities,2.738482975,L1,2024-25,Reported,Regional,Warrnambool City
+1.970798997,Current assets compared to current liabilities,3.747571791,L1,2024-25,Reported,Regional,Wodonga City
+2.13548444,Current assets compared to current liabilities,3.763446368,L1,2024-25,Reported,Small Shire,Alpine Shire
+2.13548444,Current assets compared to current liabilities,1.217526751,L1,2024-25,Reported,Small Shire,Ararat Rural City
+2.13548444,Current assets compared to current liabilities,3.297120193,L1,2024-25,Reported,Small Shire,Benalla Rural City
+2.13548444,Current assets compared to current liabilities,2.13548444,L1,2024-25,Reported,Small Shire,Borough of Queenscliffe
+2.13548444,Current assets compared to current liabilities,4.400268064,L1,2024-25,Reported,Small Shire,Buloke Shire
+2.13548444,Current assets compared to current liabilities,0.595349152,L1,2024-25,Reported,Small Shire,Central Goldfields Shire
+2.13548444,Current assets compared to current liabilities,2.818573738,L1,2024-25,Reported,Small Shire,Gannawarra Shire
+2.13548444,Current assets compared to current liabilities,1.732829871,L1,2024-25,Reported,Small Shire,Hepburn Shire
+2.13548444,Current assets compared to current liabilities,4.609130341,L1,2024-25,Reported,Small Shire,Hindmarsh Shire
+2.13548444,Current assets compared to current liabilities,1.114635905,L1,2024-25,Reported,Small Shire,Indigo Shire
+2.13548444,Current assets compared to current liabilities,11.17145131,L1,2024-25,Reported,Small Shire,Loddon Shire
+2.13548444,Current assets compared to current liabilities,1.321611035,L1,2024-25,Reported,Small Shire,Mansfield Shire
+2.13548444,Current assets compared to current liabilities,2.58511403,L1,2024-25,Reported,Small Shire,Murrindindi Shire
+2.13548444,Current assets compared to current liabilities,2.062987215,L1,2024-25,Reported,Small Shire,Northern Grampians Shire
+2.13548444,Current assets compared to current liabilities,2.028519196,L1,2024-25,Reported,Small Shire,Pyrenees Shire
+2.13548444,Current assets compared to current liabilities,2.647980953,L1,2024-25,Reported,Small Shire,Strathbogie Shire
+2.13548444,Current assets compared to current liabilities,3.876086957,L1,2024-25,Reported,Small Shire,Towong Shire
+2.13548444,Current assets compared to current liabilities,1.45848419,L1,2024-25,Reported,Small Shire,West Wimmera Shire
+2.13548444,Current assets compared to current liabilities,1.44686015,L1,2024-25,Reported,Small Shire,Yarriambiack Shire
+0.225286818,Non-current liabilities compared to own source revenue,0.311106686,O4,2020-21,Reported,Interface,Cardinia Shire
+0.225286818,Non-current liabilities compared to own source revenue,0.225286818,O4,2020-21,Reported,Interface,Casey City
+0.225286818,Non-current liabilities compared to own source revenue,0.168150751,O4,2020-21,Reported,Interface,Hume City
+0.225286818,Non-current liabilities compared to own source revenue,0.113125214,O4,2020-21,Reported,Interface,Melton City
+0.225286818,Non-current liabilities compared to own source revenue,0.255128419,O4,2020-21,Reported,Interface,Mornington Peninsula Shire
+0.225286818,Non-current liabilities compared to own source revenue,0.348281917,O4,2020-21,Reported,Interface,Nillumbik Shire
+0.225286818,Non-current liabilities compared to own source revenue,0.020747095,O4,2020-21,Reported,Interface,Whittlesea City
+0.225286818,Non-current liabilities compared to own source revenue,0.242694356,O4,2020-21,Reported,Interface,Wyndham City
+0.225286818,Non-current liabilities compared to own source revenue,0.085146833,O4,2020-21,Reported,Interface,Yarra Ranges Shire
+0.211977956,Non-current liabilities compared to own source revenue,0.211977956,O4,2020-21,Reported,Large Shire,Bass Coast Shire
+0.211977956,Non-current liabilities compared to own source revenue,0.280087799,O4,2020-21,Reported,Large Shire,Baw Baw Shire
+0.211977956,Non-current liabilities compared to own source revenue,0.070301693,O4,2020-21,Reported,Large Shire,Campaspe Shire
+0.211977956,Non-current liabilities compared to own source revenue,0.161158347,O4,2020-21,Reported,Large Shire,Colac Otway Shire
+0.211977956,Non-current liabilities compared to own source revenue,0.365462102,O4,2020-21,Reported,Large Shire,Corangamite Shire
+0.211977956,Non-current liabilities compared to own source revenue,0.134194328,O4,2020-21,Reported,Large Shire,East Gippsland Shire
+0.211977956,Non-current liabilities compared to own source revenue,0.552775308,O4,2020-21,Reported,Large Shire,Glenelg Shire
+0.211977956,Non-current liabilities compared to own source revenue,0.513502837,O4,2020-21,Reported,Large Shire,Golden Plains Shire
+0.211977956,Non-current liabilities compared to own source revenue,0.133358278,O4,2020-21,Reported,Large Shire,Macedon Ranges Shire
+0.211977956,Non-current liabilities compared to own source revenue,0.318130297,O4,2020-21,Reported,Large Shire,Mitchell Shire
+0.211977956,Non-current liabilities compared to own source revenue,0.302974901,O4,2020-21,Reported,Large Shire,Moira Shire
+0.211977956,Non-current liabilities compared to own source revenue,0.299917219,O4,2020-21,Reported,Large Shire,Moorabool Shire
+0.211977956,Non-current liabilities compared to own source revenue,0.249941485,O4,2020-21,Reported,Large Shire,Mount Alexander Shire
+0.211977956,Non-current liabilities compared to own source revenue,0.211184576,O4,2020-21,Reported,Large Shire,Moyne Shire
+0.211977956,Non-current liabilities compared to own source revenue,0.152049326,O4,2020-21,Reported,Large Shire,South Gippsland Shire
+0.211977956,Non-current liabilities compared to own source revenue,0.142188602,O4,2020-21,Reported,Large Shire,Southern Grampians Shire
+0.211977956,Non-current liabilities compared to own source revenue,0.432917866,O4,2020-21,Reported,Large Shire,Surf Coast Shire
+0.211977956,Non-current liabilities compared to own source revenue,0.115409232,O4,2020-21,Reported,Large Shire,Swan Hill Rural City
+0.211977956,Non-current liabilities compared to own source revenue,0.193354604,O4,2020-21,Reported,Large Shire,Wellington Shire
+0.074329632,Non-current liabilities compared to own source revenue,0.173522713,O4,2020-21,Reported,Metropolitan,Banyule City
+0.074329632,Non-current liabilities compared to own source revenue,0.012916155,O4,2020-21,Reported,Metropolitan,Bayside City
+0.074329632,Non-current liabilities compared to own source revenue,0.176787265,O4,2020-21,Reported,Metropolitan,Boroondara City
+0.074329632,Non-current liabilities compared to own source revenue,0.521118144,O4,2020-21,Reported,Metropolitan,Brimbank City
+0.074329632,Non-current liabilities compared to own source revenue,0.013834085,O4,2020-21,Reported,Metropolitan,Darebin City
+0.074329632,Non-current liabilities compared to own source revenue,0.18953857,O4,2020-21,Reported,Metropolitan,Frankston City
+0.074329632,Non-current liabilities compared to own source revenue,0.085559603,O4,2020-21,Reported,Metropolitan,Glen Eira City
+0.074329632,Non-current liabilities compared to own source revenue,0.330615163,O4,2020-21,Reported,Metropolitan,Greater Dandenong City
+0.074329632,Non-current liabilities compared to own source revenue,0.049442641,O4,2020-21,Reported,Metropolitan,Hobsons Bay City
+0.074329632,Non-current liabilities compared to own source revenue,0.068533259,O4,2020-21,Reported,Metropolitan,Kingston City
+0.074329632,Non-current liabilities compared to own source revenue,0.032498802,O4,2020-21,Reported,Metropolitan,Knox City
+0.074329632,Non-current liabilities compared to own source revenue,0.028422945,O4,2020-21,Reported,Metropolitan,Manningham City
+0.074329632,Non-current liabilities compared to own source revenue,0.014812781,O4,2020-21,Reported,Metropolitan,Maribyrnong City
+0.074329632,Non-current liabilities compared to own source revenue,0.151227875,O4,2020-21,Reported,Metropolitan,Maroondah City
+0.074329632,Non-current liabilities compared to own source revenue,0.022497885,O4,2020-21,Reported,Metropolitan,Melbourne City
+0.074329632,Non-current liabilities compared to own source revenue,0.141420342,O4,2020-21,Reported,Metropolitan,Merri-bek City
+0.074329632,Non-current liabilities compared to own source revenue,0.074329632,O4,2020-21,Reported,Metropolitan,Monash City
+0.074329632,Non-current liabilities compared to own source revenue,0.079330047,O4,2020-21,Reported,Metropolitan,Moonee Valley City
+0.074329632,Non-current liabilities compared to own source revenue,0.014615251,O4,2020-21,Reported,Metropolitan,Port Phillip City
+0.074329632,Non-current liabilities compared to own source revenue,0.17117319,O4,2020-21,Reported,Metropolitan,Stonnington City
+0.074329632,Non-current liabilities compared to own source revenue,0.033550725,O4,2020-21,Reported,Metropolitan,Whitehorse City
+0.074329632,Non-current liabilities compared to own source revenue,0.079251056,O4,2020-21,Reported,Metropolitan,Yarra City
+0.323411657,Non-current liabilities compared to own source revenue,0.312820547,O4,2020-21,Reported,Regional,Ballarat City
+0.323411657,Non-current liabilities compared to own source revenue,0.288592636,O4,2020-21,Reported,Regional,Greater Bendigo City
+0.323411657,Non-current liabilities compared to own source revenue,0.394589693,O4,2020-21,Reported,Regional,Greater Geelong City
+0.323411657,Non-current liabilities compared to own source revenue,0.39450658,O4,2020-21,Reported,Regional,Greater Shepparton City
+0.323411657,Non-current liabilities compared to own source revenue,0.230124282,O4,2020-21,Reported,Regional,Horsham Rural City
+0.323411657,Non-current liabilities compared to own source revenue,0.323411657,O4,2020-21,Reported,Regional,Latrobe City
+0.323411657,Non-current liabilities compared to own source revenue,0.526431366,O4,2020-21,Reported,Regional,Mildura Rural City
+0.323411657,Non-current liabilities compared to own source revenue,0.994017204,O4,2020-21,Reported,Regional,Wangaratta Rural City
+0.323411657,Non-current liabilities compared to own source revenue,0.154223661,O4,2020-21,Reported,Regional,Warrnambool City
+0.323411657,Non-current liabilities compared to own source revenue,0.411782191,O4,2020-21,Reported,Regional,Wodonga City
+0.097525473,Non-current liabilities compared to own source revenue,0.175971636,O4,2020-21,Reported,Small Shire,Alpine Shire
+0.097525473,Non-current liabilities compared to own source revenue,0.042943831,O4,2020-21,Reported,Small Shire,Ararat Rural City
+0.097525473,Non-current liabilities compared to own source revenue,0.500209118,O4,2020-21,Reported,Small Shire,Benalla Rural City
+0.097525473,Non-current liabilities compared to own source revenue,0.01062105,O4,2020-21,Reported,Small Shire,Borough of Queenscliffe
+0.097525473,Non-current liabilities compared to own source revenue,0.079934439,O4,2020-21,Reported,Small Shire,Buloke Shire
+0.097525473,Non-current liabilities compared to own source revenue,0.133958696,O4,2020-21,Reported,Small Shire,Central Goldfields Shire
+0.097525473,Non-current liabilities compared to own source revenue,0.083573341,O4,2020-21,Reported,Small Shire,Gannawarra Shire
+0.097525473,Non-current liabilities compared to own source revenue,0.234201787,O4,2020-21,Reported,Small Shire,Hepburn Shire
+0.097525473,Non-current liabilities compared to own source revenue,0.012760188,O4,2020-21,Reported,Small Shire,Hindmarsh Shire
+0.097525473,Non-current liabilities compared to own source revenue,0.260109737,O4,2020-21,Reported,Small Shire,Indigo Shire
+0.097525473,Non-current liabilities compared to own source revenue,0.101678221,O4,2020-21,Reported,Small Shire,Loddon Shire
+0.097525473,Non-current liabilities compared to own source revenue,0.139802748,O4,2020-21,Reported,Small Shire,Mansfield Shire
+0.097525473,Non-current liabilities compared to own source revenue,0.299807591,O4,2020-21,Reported,Small Shire,Murrindindi Shire
+0.097525473,Non-current liabilities compared to own source revenue,0.097525473,O4,2020-21,Reported,Small Shire,Northern Grampians Shire
+0.097525473,Non-current liabilities compared to own source revenue,0.011635171,O4,2020-21,Reported,Small Shire,Pyrenees Shire
+0.097525473,Non-current liabilities compared to own source revenue,0.250614323,O4,2020-21,Reported,Small Shire,Strathbogie Shire
+0.097525473,Non-current liabilities compared to own source revenue,0.07131907,O4,2020-21,Reported,Small Shire,Towong Shire
+0.097525473,Non-current liabilities compared to own source revenue,0.046499657,O4,2020-21,Reported,Small Shire,West Wimmera Shire
+0.097525473,Non-current liabilities compared to own source revenue,0.061292066,O4,2020-21,Reported,Small Shire,Yarriambiack Shire
+0.080688009,Non-current liabilities compared to own source revenue,,O4,2021-22,Missing,Small Shire,Towong Shire
+0.194600239,Non-current liabilities compared to own source revenue,0.250250846,O4,2021-22,Reported,Interface,Cardinia Shire
+0.194600239,Non-current liabilities compared to own source revenue,0.175765395,O4,2021-22,Reported,Interface,Casey City
+0.194600239,Non-current liabilities compared to own source revenue,0.21071608,O4,2021-22,Reported,Interface,Hume City
+0.194600239,Non-current liabilities compared to own source revenue,0.122874311,O4,2021-22,Reported,Interface,Melton City
+0.194600239,Non-current liabilities compared to own source revenue,0.212963973,O4,2021-22,Reported,Interface,Mornington Peninsula Shire
+0.194600239,Non-current liabilities compared to own source revenue,0.3416231,O4,2021-22,Reported,Interface,Nillumbik Shire
+0.194600239,Non-current liabilities compared to own source revenue,0.065310781,O4,2021-22,Reported,Interface,Whittlesea City
+0.194600239,Non-current liabilities compared to own source revenue,0.194600239,O4,2021-22,Reported,Interface,Wyndham City
+0.194600239,Non-current liabilities compared to own source revenue,0.060424425,O4,2021-22,Reported,Interface,Yarra Ranges Shire
+0.205892022,Non-current liabilities compared to own source revenue,0.205892022,O4,2021-22,Reported,Large Shire,Bass Coast Shire
+0.205892022,Non-current liabilities compared to own source revenue,0.219549709,O4,2021-22,Reported,Large Shire,Baw Baw Shire
+0.205892022,Non-current liabilities compared to own source revenue,0.111154957,O4,2021-22,Reported,Large Shire,Campaspe Shire
+0.205892022,Non-current liabilities compared to own source revenue,0.118562439,O4,2021-22,Reported,Large Shire,Colac Otway Shire
+0.205892022,Non-current liabilities compared to own source revenue,0.36416296,O4,2021-22,Reported,Large Shire,Corangamite Shire
+0.205892022,Non-current liabilities compared to own source revenue,0.097862469,O4,2021-22,Reported,Large Shire,East Gippsland Shire
+0.205892022,Non-current liabilities compared to own source revenue,0.332615899,O4,2021-22,Reported,Large Shire,Glenelg Shire
+0.205892022,Non-current liabilities compared to own source revenue,0.434568327,O4,2021-22,Reported,Large Shire,Golden Plains Shire
+0.205892022,Non-current liabilities compared to own source revenue,0.099088966,O4,2021-22,Reported,Large Shire,Macedon Ranges Shire
+0.205892022,Non-current liabilities compared to own source revenue,0.345860408,O4,2021-22,Reported,Large Shire,Mitchell Shire
+0.205892022,Non-current liabilities compared to own source revenue,0.289376562,O4,2021-22,Reported,Large Shire,Moira Shire
+0.205892022,Non-current liabilities compared to own source revenue,0.262633614,O4,2021-22,Reported,Large Shire,Moorabool Shire
+0.205892022,Non-current liabilities compared to own source revenue,0.148208077,O4,2021-22,Reported,Large Shire,Mount Alexander Shire
+0.205892022,Non-current liabilities compared to own source revenue,0.174456634,O4,2021-22,Reported,Large Shire,Moyne Shire
+0.205892022,Non-current liabilities compared to own source revenue,0.201105813,O4,2021-22,Reported,Large Shire,South Gippsland Shire
+0.205892022,Non-current liabilities compared to own source revenue,0.106860247,O4,2021-22,Reported,Large Shire,Southern Grampians Shire
+0.205892022,Non-current liabilities compared to own source revenue,0.448629797,O4,2021-22,Reported,Large Shire,Surf Coast Shire
+0.205892022,Non-current liabilities compared to own source revenue,0.147003171,O4,2021-22,Reported,Large Shire,Swan Hill Rural City
+0.205892022,Non-current liabilities compared to own source revenue,0.220017311,O4,2021-22,Reported,Large Shire,Wellington Shire
+0.071647477,Non-current liabilities compared to own source revenue,0.155567183,O4,2021-22,Reported,Metropolitan,Banyule City
+0.071647477,Non-current liabilities compared to own source revenue,0.011506977,O4,2021-22,Reported,Metropolitan,Bayside City
+0.071647477,Non-current liabilities compared to own source revenue,0.428899884,O4,2021-22,Reported,Metropolitan,Boroondara City
+0.071647477,Non-current liabilities compared to own source revenue,0.509307817,O4,2021-22,Reported,Metropolitan,Brimbank City
+0.071647477,Non-current liabilities compared to own source revenue,0.071647477,O4,2021-22,Reported,Metropolitan,Darebin City
+0.071647477,Non-current liabilities compared to own source revenue,0.170520073,O4,2021-22,Reported,Metropolitan,Frankston City
+0.071647477,Non-current liabilities compared to own source revenue,0.06381126,O4,2021-22,Reported,Metropolitan,Glen Eira City
+0.071647477,Non-current liabilities compared to own source revenue,0.305385974,O4,2021-22,Reported,Metropolitan,Greater Dandenong City
+0.071647477,Non-current liabilities compared to own source revenue,0.095252691,O4,2021-22,Reported,Metropolitan,Hobsons Bay City
+0.071647477,Non-current liabilities compared to own source revenue,0.05763583,O4,2021-22,Reported,Metropolitan,Kingston City
+0.071647477,Non-current liabilities compared to own source revenue,0.33085341,O4,2021-22,Reported,Metropolitan,Knox City
+0.071647477,Non-current liabilities compared to own source revenue,0.026139087,O4,2021-22,Reported,Metropolitan,Manningham City
+0.071647477,Non-current liabilities compared to own source revenue,0.029042019,O4,2021-22,Reported,Metropolitan,Maribyrnong City
+0.071647477,Non-current liabilities compared to own source revenue,0.401432353,O4,2021-22,Reported,Metropolitan,Maroondah City
+0.071647477,Non-current liabilities compared to own source revenue,0.022928762,O4,2021-22,Reported,Metropolitan,Melbourne City
+0.071647477,Non-current liabilities compared to own source revenue,0.126884219,O4,2021-22,Reported,Metropolitan,Merri-bek City
+0.071647477,Non-current liabilities compared to own source revenue,0.056175239,O4,2021-22,Reported,Metropolitan,Monash City
+0.071647477,Non-current liabilities compared to own source revenue,0.065141289,O4,2021-22,Reported,Metropolitan,Moonee Valley City
+0.071647477,Non-current liabilities compared to own source revenue,0.011147743,O4,2021-22,Reported,Metropolitan,Port Phillip City
+0.071647477,Non-current liabilities compared to own source revenue,0.150053393,O4,2021-22,Reported,Metropolitan,Stonnington City
+0.071647477,Non-current liabilities compared to own source revenue,0.029697283,O4,2021-22,Reported,Metropolitan,Whitehorse City
+0.071647477,Non-current liabilities compared to own source revenue,0.225561156,O4,2021-22,Reported,Metropolitan,Yarra City
+0.280000237,Non-current liabilities compared to own source revenue,0.280000237,O4,2021-22,Reported,Regional,Ballarat City
+0.280000237,Non-current liabilities compared to own source revenue,0.198059536,O4,2021-22,Reported,Regional,Greater Bendigo City
+0.280000237,Non-current liabilities compared to own source revenue,0.418071766,O4,2021-22,Reported,Regional,Greater Geelong City
+0.280000237,Non-current liabilities compared to own source revenue,0.387581836,O4,2021-22,Reported,Regional,Greater Shepparton City
+0.280000237,Non-current liabilities compared to own source revenue,0.268005432,O4,2021-22,Reported,Regional,Horsham Rural City
+0.280000237,Non-current liabilities compared to own source revenue,0.259672539,O4,2021-22,Reported,Regional,Latrobe City
+0.280000237,Non-current liabilities compared to own source revenue,0.419398452,O4,2021-22,Reported,Regional,Mildura Rural City
+0.280000237,Non-current liabilities compared to own source revenue,1.027548318,O4,2021-22,Reported,Regional,Wangaratta Rural City
+0.280000237,Non-current liabilities compared to own source revenue,0.170264829,O4,2021-22,Reported,Regional,Warrnambool City
+0.280000237,Non-current liabilities compared to own source revenue,0.35799488,O4,2021-22,Reported,Regional,Wodonga City
+0.080688009,Non-current liabilities compared to own source revenue,0.111274575,O4,2021-22,Reported,Small Shire,Alpine Shire
+0.080688009,Non-current liabilities compared to own source revenue,0.032963059,O4,2021-22,Reported,Small Shire,Ararat Rural City
+0.080688009,Non-current liabilities compared to own source revenue,0.585743844,O4,2021-22,Reported,Small Shire,Benalla Rural City
+0.080688009,Non-current liabilities compared to own source revenue,0.010858042,O4,2021-22,Reported,Small Shire,Borough of Queenscliffe
+0.080688009,Non-current liabilities compared to own source revenue,0.064143401,O4,2021-22,Reported,Small Shire,Buloke Shire
+0.080688009,Non-current liabilities compared to own source revenue,0.098679639,O4,2021-22,Reported,Small Shire,Central Goldfields Shire
+0.080688009,Non-current liabilities compared to own source revenue,0.074798149,O4,2021-22,Reported,Small Shire,Gannawarra Shire
+0.080688009,Non-current liabilities compared to own source revenue,0.166703952,O4,2021-22,Reported,Small Shire,Hepburn Shire
+0.080688009,Non-current liabilities compared to own source revenue,0.017200938,O4,2021-22,Reported,Small Shire,Hindmarsh Shire
+0.080688009,Non-current liabilities compared to own source revenue,0.344859465,O4,2021-22,Reported,Small Shire,Indigo Shire
+0.080688009,Non-current liabilities compared to own source revenue,0.083169524,O4,2021-22,Reported,Small Shire,Loddon Shire
+0.080688009,Non-current liabilities compared to own source revenue,0.287045612,O4,2021-22,Reported,Small Shire,Mansfield Shire
+0.080688009,Non-current liabilities compared to own source revenue,0.298276388,O4,2021-22,Reported,Small Shire,Murrindindi Shire
+0.080688009,Non-current liabilities compared to own source revenue,0.080688009,O4,2021-22,Reported,Small Shire,Northern Grampians Shire
+0.080688009,Non-current liabilities compared to own source revenue,0.008735201,O4,2021-22,Reported,Small Shire,Pyrenees Shire
+0.080688009,Non-current liabilities compared to own source revenue,0.101532651,O4,2021-22,Reported,Small Shire,Strathbogie Shire
+0.080688009,Non-current liabilities compared to own source revenue,0.017483846,O4,2021-22,Reported,Small Shire,West Wimmera Shire
+0.080688009,Non-current liabilities compared to own source revenue,0.050626758,O4,2021-22,Reported,Small Shire,Yarriambiack Shire
+0.161101937,Non-current liabilities compared to own source revenue,0.161101937,O4,2022-23,Reported,Interface,Cardinia Shire
+0.161101937,Non-current liabilities compared to own source revenue,0.13476693,O4,2022-23,Reported,Interface,Casey City
+0.161101937,Non-current liabilities compared to own source revenue,0.310950577,O4,2022-23,Reported,Interface,Hume City
+0.161101937,Non-current liabilities compared to own source revenue,0.138388083,O4,2022-23,Reported,Interface,Melton City
+0.161101937,Non-current liabilities compared to own source revenue,0.200587523,O4,2022-23,Reported,Interface,Mornington Peninsula Shire
+0.161101937,Non-current liabilities compared to own source revenue,0.242688806,O4,2022-23,Reported,Interface,Nillumbik Shire
+0.161101937,Non-current liabilities compared to own source revenue,0.054810219,O4,2022-23,Reported,Interface,Whittlesea City
+0.161101937,Non-current liabilities compared to own source revenue,0.19415003,O4,2022-23,Reported,Interface,Wyndham City
+0.161101937,Non-current liabilities compared to own source revenue,0.057708175,O4,2022-23,Reported,Interface,Yarra Ranges Shire
+0.219886382,Non-current liabilities compared to own source revenue,0.313153806,O4,2022-23,Reported,Large Shire,Bass Coast Shire
+0.219886382,Non-current liabilities compared to own source revenue,0.289999613,O4,2022-23,Reported,Large Shire,Baw Baw Shire
+0.219886382,Non-current liabilities compared to own source revenue,0.077225498,O4,2022-23,Reported,Large Shire,Campaspe Shire
+0.219886382,Non-current liabilities compared to own source revenue,0.109765449,O4,2022-23,Reported,Large Shire,Colac Otway Shire
+0.219886382,Non-current liabilities compared to own source revenue,0.323256401,O4,2022-23,Reported,Large Shire,Corangamite Shire
+0.219886382,Non-current liabilities compared to own source revenue,0.0795747,O4,2022-23,Reported,Large Shire,East Gippsland Shire
+0.219886382,Non-current liabilities compared to own source revenue,0.297133521,O4,2022-23,Reported,Large Shire,Glenelg Shire
+0.219886382,Non-current liabilities compared to own source revenue,0.372337654,O4,2022-23,Reported,Large Shire,Golden Plains Shire
+0.219886382,Non-current liabilities compared to own source revenue,0.119609525,O4,2022-23,Reported,Large Shire,Macedon Ranges Shire
+0.219886382,Non-current liabilities compared to own source revenue,0.334598013,O4,2022-23,Reported,Large Shire,Mitchell Shire
+0.219886382,Non-current liabilities compared to own source revenue,0.219886382,O4,2022-23,Reported,Large Shire,Moira Shire
+0.219886382,Non-current liabilities compared to own source revenue,0.22048147,O4,2022-23,Reported,Large Shire,Moorabool Shire
+0.219886382,Non-current liabilities compared to own source revenue,0.124191421,O4,2022-23,Reported,Large Shire,Mount Alexander Shire
+0.219886382,Non-current liabilities compared to own source revenue,0.185371927,O4,2022-23,Reported,Large Shire,Moyne Shire
+0.219886382,Non-current liabilities compared to own source revenue,0.2390105,O4,2022-23,Reported,Large Shire,South Gippsland Shire
+0.219886382,Non-current liabilities compared to own source revenue,0.082786057,O4,2022-23,Reported,Large Shire,Southern Grampians Shire
+0.219886382,Non-current liabilities compared to own source revenue,0.441455204,O4,2022-23,Reported,Large Shire,Surf Coast Shire
+0.219886382,Non-current liabilities compared to own source revenue,0.084744926,O4,2022-23,Reported,Large Shire,Swan Hill Rural City
+0.219886382,Non-current liabilities compared to own source revenue,0.2102537,O4,2022-23,Reported,Large Shire,Wellington Shire
+0.143925246,Non-current liabilities compared to own source revenue,0.143925246,O4,2022-23,Reported,Metropolitan,Banyule City
+0.143925246,Non-current liabilities compared to own source revenue,0.013298679,O4,2022-23,Reported,Metropolitan,Bayside City
+0.143925246,Non-current liabilities compared to own source revenue,0.36419529,O4,2022-23,Reported,Metropolitan,Boroondara City
+0.143925246,Non-current liabilities compared to own source revenue,0.449677373,O4,2022-23,Reported,Metropolitan,Brimbank City
+0.143925246,Non-current liabilities compared to own source revenue,0.261791403,O4,2022-23,Reported,Metropolitan,Darebin City
+0.143925246,Non-current liabilities compared to own source revenue,0.163819359,O4,2022-23,Reported,Metropolitan,Frankston City
+0.143925246,Non-current liabilities compared to own source revenue,0.20854854,O4,2022-23,Reported,Metropolitan,Glen Eira City
+0.143925246,Non-current liabilities compared to own source revenue,0.260531466,O4,2022-23,Reported,Metropolitan,Greater Dandenong City
+0.143925246,Non-current liabilities compared to own source revenue,0.135983608,O4,2022-23,Reported,Metropolitan,Hobsons Bay City
+0.143925246,Non-current liabilities compared to own source revenue,0.053770184,O4,2022-23,Reported,Metropolitan,Kingston City
+0.143925246,Non-current liabilities compared to own source revenue,0.455621834,O4,2022-23,Reported,Metropolitan,Knox City
+0.143925246,Non-current liabilities compared to own source revenue,0.026301348,O4,2022-23,Reported,Metropolitan,Manningham City
+0.143925246,Non-current liabilities compared to own source revenue,0.043734885,O4,2022-23,Reported,Metropolitan,Maribyrnong City
+0.143925246,Non-current liabilities compared to own source revenue,0.270152475,O4,2022-23,Reported,Metropolitan,Maroondah City
+0.143925246,Non-current liabilities compared to own source revenue,0.245755151,O4,2022-23,Reported,Metropolitan,Melbourne City
+0.143925246,Non-current liabilities compared to own source revenue,0.114566291,O4,2022-23,Reported,Metropolitan,Merri-bek City
+0.143925246,Non-current liabilities compared to own source revenue,0.057105276,O4,2022-23,Reported,Metropolitan,Monash City
+0.143925246,Non-current liabilities compared to own source revenue,0.055705034,O4,2022-23,Reported,Metropolitan,Moonee Valley City
+0.143925246,Non-current liabilities compared to own source revenue,0.010798958,O4,2022-23,Reported,Metropolitan,Port Phillip City
+0.143925246,Non-current liabilities compared to own source revenue,0.338305679,O4,2022-23,Reported,Metropolitan,Stonnington City
+0.143925246,Non-current liabilities compared to own source revenue,0.069725771,O4,2022-23,Reported,Metropolitan,Whitehorse City
+0.143925246,Non-current liabilities compared to own source revenue,0.169376448,O4,2022-23,Reported,Metropolitan,Yarra City
+0.270752114,Non-current liabilities compared to own source revenue,0.259718409,O4,2022-23,Reported,Regional,Ballarat City
+0.270752114,Non-current liabilities compared to own source revenue,0.393801148,O4,2022-23,Reported,Regional,Greater Bendigo City
+0.270752114,Non-current liabilities compared to own source revenue,0.357188245,O4,2022-23,Reported,Regional,Greater Geelong City
+0.270752114,Non-current liabilities compared to own source revenue,0.312707529,O4,2022-23,Reported,Regional,Greater Shepparton City
+0.270752114,Non-current liabilities compared to own source revenue,0.222921409,O4,2022-23,Reported,Regional,Horsham Rural City
+0.270752114,Non-current liabilities compared to own source revenue,0.270752114,O4,2022-23,Reported,Regional,Latrobe City
+0.270752114,Non-current liabilities compared to own source revenue,0.406586634,O4,2022-23,Reported,Regional,Mildura Rural City
+0.270752114,Non-current liabilities compared to own source revenue,0.683544932,O4,2022-23,Reported,Regional,Wangaratta Rural City
+0.270752114,Non-current liabilities compared to own source revenue,0.147293364,O4,2022-23,Reported,Regional,Warrnambool City
+0.270752114,Non-current liabilities compared to own source revenue,0.253221337,O4,2022-23,Reported,Regional,Wodonga City
+0.096806097,Non-current liabilities compared to own source revenue,0.160618857,O4,2022-23,Reported,Small Shire,Alpine Shire
+0.096806097,Non-current liabilities compared to own source revenue,0.054749695,O4,2022-23,Reported,Small Shire,Ararat Rural City
+0.096806097,Non-current liabilities compared to own source revenue,0.54895541,O4,2022-23,Reported,Small Shire,Benalla Rural City
+0.096806097,Non-current liabilities compared to own source revenue,0.008869616,O4,2022-23,Reported,Small Shire,Borough of Queenscliffe
+0.096806097,Non-current liabilities compared to own source revenue,0.096806097,O4,2022-23,Reported,Small Shire,Buloke Shire
+0.096806097,Non-current liabilities compared to own source revenue,0.146605924,O4,2022-23,Reported,Small Shire,Central Goldfields Shire
+0.096806097,Non-current liabilities compared to own source revenue,0.033453017,O4,2022-23,Reported,Small Shire,Gannawarra Shire
+0.096806097,Non-current liabilities compared to own source revenue,0.137504297,O4,2022-23,Reported,Small Shire,Hepburn Shire
+0.096806097,Non-current liabilities compared to own source revenue,0.016763848,O4,2022-23,Reported,Small Shire,Hindmarsh Shire
+0.096806097,Non-current liabilities compared to own source revenue,0.236925088,O4,2022-23,Reported,Small Shire,Indigo Shire
+0.096806097,Non-current liabilities compared to own source revenue,0.107883709,O4,2022-23,Reported,Small Shire,Loddon Shire
+0.096806097,Non-current liabilities compared to own source revenue,0.311857932,O4,2022-23,Reported,Small Shire,Mansfield Shire
+0.096806097,Non-current liabilities compared to own source revenue,0.278221209,O4,2022-23,Reported,Small Shire,Murrindindi Shire
+0.096806097,Non-current liabilities compared to own source revenue,0.079021396,O4,2022-23,Reported,Small Shire,Northern Grampians Shire
+0.096806097,Non-current liabilities compared to own source revenue,0.041847826,O4,2022-23,Reported,Small Shire,Pyrenees Shire
+0.096806097,Non-current liabilities compared to own source revenue,0.21875881,O4,2022-23,Reported,Small Shire,Strathbogie Shire
+0.096806097,Non-current liabilities compared to own source revenue,0.065193394,O4,2022-23,Reported,Small Shire,Towong Shire
+0.096806097,Non-current liabilities compared to own source revenue,0.016394807,O4,2022-23,Reported,Small Shire,West Wimmera Shire
+0.096806097,Non-current liabilities compared to own source revenue,0.049214111,O4,2022-23,Reported,Small Shire,Yarriambiack Shire
+0.168214825,Non-current liabilities compared to own source revenue,0.130854164,O4,2023-24,Reported,Interface,Cardinia Shire
+0.168214825,Non-current liabilities compared to own source revenue,0.09785381,O4,2023-24,Reported,Interface,Casey City
+0.168214825,Non-current liabilities compared to own source revenue,0.323904853,O4,2023-24,Reported,Interface,Hume City
+0.168214825,Non-current liabilities compared to own source revenue,0.168214825,O4,2023-24,Reported,Interface,Melton City
+0.168214825,Non-current liabilities compared to own source revenue,0.204419588,O4,2023-24,Reported,Interface,Mornington Peninsula Shire
+0.168214825,Non-current liabilities compared to own source revenue,0.351376411,O4,2023-24,Reported,Interface,Nillumbik Shire
+0.168214825,Non-current liabilities compared to own source revenue,0.046973834,O4,2023-24,Reported,Interface,Whittlesea City
+0.168214825,Non-current liabilities compared to own source revenue,0.178045607,O4,2023-24,Reported,Interface,Wyndham City
+0.168214825,Non-current liabilities compared to own source revenue,0.127548421,O4,2023-24,Reported,Interface,Yarra Ranges Shire
+0.202803688,Non-current liabilities compared to own source revenue,0.274380184,O4,2023-24,Reported,Large Shire,Bass Coast Shire
+0.202803688,Non-current liabilities compared to own source revenue,0.215051743,O4,2023-24,Reported,Large Shire,Baw Baw Shire
+0.202803688,Non-current liabilities compared to own source revenue,0.052093823,O4,2023-24,Reported,Large Shire,Campaspe Shire
+0.202803688,Non-current liabilities compared to own source revenue,0.101120207,O4,2023-24,Reported,Large Shire,Colac Otway Shire
+0.202803688,Non-current liabilities compared to own source revenue,0.369397301,O4,2023-24,Reported,Large Shire,Corangamite Shire
+0.202803688,Non-current liabilities compared to own source revenue,0.181683854,O4,2023-24,Reported,Large Shire,East Gippsland Shire
+0.202803688,Non-current liabilities compared to own source revenue,0.163849544,O4,2023-24,Reported,Large Shire,Glenelg Shire
+0.202803688,Non-current liabilities compared to own source revenue,0.29551459,O4,2023-24,Reported,Large Shire,Golden Plains Shire
+0.202803688,Non-current liabilities compared to own source revenue,0.27640196,O4,2023-24,Reported,Large Shire,Macedon Ranges Shire
+0.202803688,Non-current liabilities compared to own source revenue,0.327871302,O4,2023-24,Reported,Large Shire,Mitchell Shire
+0.202803688,Non-current liabilities compared to own source revenue,0.202803688,O4,2023-24,Reported,Large Shire,Moira Shire
+0.202803688,Non-current liabilities compared to own source revenue,0.194237629,O4,2023-24,Reported,Large Shire,Moorabool Shire
+0.202803688,Non-current liabilities compared to own source revenue,0.11103681,O4,2023-24,Reported,Large Shire,Mount Alexander Shire
+0.202803688,Non-current liabilities compared to own source revenue,0.107249186,O4,2023-24,Reported,Large Shire,Moyne Shire
+0.202803688,Non-current liabilities compared to own source revenue,0.240138214,O4,2023-24,Reported,Large Shire,South Gippsland Shire
+0.202803688,Non-current liabilities compared to own source revenue,0.080112482,O4,2023-24,Reported,Large Shire,Southern Grampians Shire
+0.202803688,Non-current liabilities compared to own source revenue,0.35504351,O4,2023-24,Reported,Large Shire,Surf Coast Shire
+0.202803688,Non-current liabilities compared to own source revenue,0.111437281,O4,2023-24,Reported,Large Shire,Swan Hill Rural City
+0.202803688,Non-current liabilities compared to own source revenue,0.214292023,O4,2023-24,Reported,Large Shire,Wellington Shire
+0.144193156,Non-current liabilities compared to own source revenue,0.127223768,O4,2023-24,Reported,Metropolitan,Banyule City
+0.144193156,Non-current liabilities compared to own source revenue,0.033222705,O4,2023-24,Reported,Metropolitan,Bayside City
+0.144193156,Non-current liabilities compared to own source revenue,0.302666794,O4,2023-24,Reported,Metropolitan,Boroondara City
+0.144193156,Non-current liabilities compared to own source revenue,0.408371618,O4,2023-24,Reported,Metropolitan,Brimbank City
+0.144193156,Non-current liabilities compared to own source revenue,0.230411325,O4,2023-24,Reported,Metropolitan,Darebin City
+0.144193156,Non-current liabilities compared to own source revenue,0.216067708,O4,2023-24,Reported,Metropolitan,Frankston City
+0.144193156,Non-current liabilities compared to own source revenue,0.377172807,O4,2023-24,Reported,Metropolitan,Glen Eira City
+0.144193156,Non-current liabilities compared to own source revenue,0.232850265,O4,2023-24,Reported,Metropolitan,Greater Dandenong City
+0.144193156,Non-current liabilities compared to own source revenue,0.159251189,O4,2023-24,Reported,Metropolitan,Hobsons Bay City
+0.144193156,Non-current liabilities compared to own source revenue,0.051419551,O4,2023-24,Reported,Metropolitan,Kingston City
+0.144193156,Non-current liabilities compared to own source revenue,0.499113545,O4,2023-24,Reported,Metropolitan,Knox City
+0.144193156,Non-current liabilities compared to own source revenue,0.022508776,O4,2023-24,Reported,Metropolitan,Manningham City
+0.144193156,Non-current liabilities compared to own source revenue,0.076785839,O4,2023-24,Reported,Metropolitan,Maribyrnong City
+0.144193156,Non-current liabilities compared to own source revenue,0.156121979,O4,2023-24,Reported,Metropolitan,Maroondah City
+0.144193156,Non-current liabilities compared to own source revenue,0.243867431,O4,2023-24,Reported,Metropolitan,Melbourne City
+0.144193156,Non-current liabilities compared to own source revenue,0.138550094,O4,2023-24,Reported,Metropolitan,Merri-bek City
+0.144193156,Non-current liabilities compared to own source revenue,0.048849031,O4,2023-24,Reported,Metropolitan,Monash City
+0.144193156,Non-current liabilities compared to own source revenue,0.050425715,O4,2023-24,Reported,Metropolitan,Moonee Valley City
+0.144193156,Non-current liabilities compared to own source revenue,0.035707249,O4,2023-24,Reported,Metropolitan,Port Phillip City
+0.144193156,Non-current liabilities compared to own source revenue,0.175466709,O4,2023-24,Reported,Metropolitan,Stonnington City
+0.144193156,Non-current liabilities compared to own source revenue,0.056856868,O4,2023-24,Reported,Metropolitan,Whitehorse City
+0.144193156,Non-current liabilities compared to own source revenue,0.144193156,O4,2023-24,Reported,Metropolitan,Yarra City
+0.273777406,Non-current liabilities compared to own source revenue,0.185022791,O4,2023-24,Reported,Regional,Ballarat City
+0.273777406,Non-current liabilities compared to own source revenue,0.376902456,O4,2023-24,Reported,Regional,Greater Bendigo City
+0.273777406,Non-current liabilities compared to own source revenue,0.512266542,O4,2023-24,Reported,Regional,Greater Geelong City
+0.273777406,Non-current liabilities compared to own source revenue,0.282054988,O4,2023-24,Reported,Regional,Greater Shepparton City
+0.273777406,Non-current liabilities compared to own source revenue,0.202517315,O4,2023-24,Reported,Regional,Horsham Rural City
+0.273777406,Non-current liabilities compared to own source revenue,0.273777406,O4,2023-24,Reported,Regional,Latrobe City
+0.273777406,Non-current liabilities compared to own source revenue,0.314520965,O4,2023-24,Reported,Regional,Mildura Rural City
+0.273777406,Non-current liabilities compared to own source revenue,0.540224993,O4,2023-24,Reported,Regional,Wangaratta Rural City
+0.273777406,Non-current liabilities compared to own source revenue,0.122854033,O4,2023-24,Reported,Regional,Warrnambool City
+0.273777406,Non-current liabilities compared to own source revenue,0.211951295,O4,2023-24,Reported,Regional,Wodonga City
+0.09112395,Non-current liabilities compared to own source revenue,0.157900902,O4,2023-24,Reported,Small Shire,Alpine Shire
+0.09112395,Non-current liabilities compared to own source revenue,0.074885182,O4,2023-24,Reported,Small Shire,Ararat Rural City
+0.09112395,Non-current liabilities compared to own source revenue,0.46014889,O4,2023-24,Reported,Small Shire,Benalla Rural City
+0.09112395,Non-current liabilities compared to own source revenue,0.012181511,O4,2023-24,Reported,Small Shire,Borough of Queenscliffe
+0.09112395,Non-current liabilities compared to own source revenue,0.074834071,O4,2023-24,Reported,Small Shire,Buloke Shire
+0.09112395,Non-current liabilities compared to own source revenue,0.024066454,O4,2023-24,Reported,Small Shire,Central Goldfields Shire
+0.09112395,Non-current liabilities compared to own source revenue,0.049311767,O4,2023-24,Reported,Small Shire,Gannawarra Shire
+0.09112395,Non-current liabilities compared to own source revenue,0.307132658,O4,2023-24,Reported,Small Shire,Hepburn Shire
+0.09112395,Non-current liabilities compared to own source revenue,0.038218056,O4,2023-24,Reported,Small Shire,Hindmarsh Shire
+0.09112395,Non-current liabilities compared to own source revenue,0.264709221,O4,2023-24,Reported,Small Shire,Indigo Shire
+0.09112395,Non-current liabilities compared to own source revenue,0.099444291,O4,2023-24,Reported,Small Shire,Loddon Shire
+0.09112395,Non-current liabilities compared to own source revenue,0.26204878,O4,2023-24,Reported,Small Shire,Mansfield Shire
+0.09112395,Non-current liabilities compared to own source revenue,0.231927492,O4,2023-24,Reported,Small Shire,Murrindindi Shire
+0.09112395,Non-current liabilities compared to own source revenue,0.06856863,O4,2023-24,Reported,Small Shire,Northern Grampians Shire
+0.09112395,Non-current liabilities compared to own source revenue,0.09112395,O4,2023-24,Reported,Small Shire,Pyrenees Shire
+0.09112395,Non-current liabilities compared to own source revenue,0.18617251,O4,2023-24,Reported,Small Shire,Strathbogie Shire
+0.09112395,Non-current liabilities compared to own source revenue,0.048018648,O4,2023-24,Reported,Small Shire,Towong Shire
+0.09112395,Non-current liabilities compared to own source revenue,0.020258863,O4,2023-24,Reported,Small Shire,West Wimmera Shire
+0.09112395,Non-current liabilities compared to own source revenue,0.105190019,O4,2023-24,Reported,Small Shire,Yarriambiack Shire
+0.169468638,Non-current liabilities compared to own source revenue,0.169468638,O4,2024-25,Reported,Interface,Cardinia Shire
+0.169468638,Non-current liabilities compared to own source revenue,0.061967422,O4,2024-25,Reported,Interface,Casey City
+0.169468638,Non-current liabilities compared to own source revenue,0.274461266,O4,2024-25,Reported,Interface,Hume City
+0.169468638,Non-current liabilities compared to own source revenue,0.11358566,O4,2024-25,Reported,Interface,Melton City
+0.169468638,Non-current liabilities compared to own source revenue,0.207633615,O4,2024-25,Reported,Interface,Mornington Peninsula Shire
+0.169468638,Non-current liabilities compared to own source revenue,0.267572793,O4,2024-25,Reported,Interface,Nillumbik Shire
+0.169468638,Non-current liabilities compared to own source revenue,0.037662342,O4,2024-25,Reported,Interface,Whittlesea City
+0.169468638,Non-current liabilities compared to own source revenue,0.125903863,O4,2024-25,Reported,Interface,Wyndham City
+0.169468638,Non-current liabilities compared to own source revenue,0.284917166,O4,2024-25,Reported,Interface,Yarra Ranges Shire
+0.228824881,Non-current liabilities compared to own source revenue,0.387620856,O4,2024-25,Reported,Large Shire,Bass Coast Shire
+0.228824881,Non-current liabilities compared to own source revenue,0.327780331,O4,2024-25,Reported,Large Shire,Baw Baw Shire
+0.228824881,Non-current liabilities compared to own source revenue,0.039864856,O4,2024-25,Reported,Large Shire,Campaspe Shire
+0.228824881,Non-current liabilities compared to own source revenue,0.201554327,O4,2024-25,Reported,Large Shire,Colac Otway Shire
+0.228824881,Non-current liabilities compared to own source revenue,0.421201799,O4,2024-25,Reported,Large Shire,Corangamite Shire
+0.228824881,Non-current liabilities compared to own source revenue,0.169670227,O4,2024-25,Reported,Large Shire,East Gippsland Shire
+0.228824881,Non-current liabilities compared to own source revenue,0.239022316,O4,2024-25,Reported,Large Shire,Glenelg Shire
+0.228824881,Non-current liabilities compared to own source revenue,0.250655022,O4,2024-25,Reported,Large Shire,Golden Plains Shire
+0.228824881,Non-current liabilities compared to own source revenue,0.250670915,O4,2024-25,Reported,Large Shire,Macedon Ranges Shire
+0.228824881,Non-current liabilities compared to own source revenue,0.384202293,O4,2024-25,Reported,Large Shire,Mitchell Shire
+0.228824881,Non-current liabilities compared to own source revenue,0.190211294,O4,2024-25,Reported,Large Shire,Moira Shire
+0.228824881,Non-current liabilities compared to own source revenue,0.105765672,O4,2024-25,Reported,Large Shire,Moorabool Shire
+0.228824881,Non-current liabilities compared to own source revenue,0.070165566,O4,2024-25,Reported,Large Shire,Mount Alexander Shire
+0.228824881,Non-current liabilities compared to own source revenue,0.105181481,O4,2024-25,Reported,Large Shire,Moyne Shire
+0.228824881,Non-current liabilities compared to own source revenue,0.257869872,O4,2024-25,Reported,Large Shire,South Gippsland Shire
+0.228824881,Non-current liabilities compared to own source revenue,0.225312852,O4,2024-25,Reported,Large Shire,Southern Grampians Shire
+0.228824881,Non-current liabilities compared to own source revenue,0.316196241,O4,2024-25,Reported,Large Shire,Surf Coast Shire
+0.228824881,Non-current liabilities compared to own source revenue,0.095262558,O4,2024-25,Reported,Large Shire,Swan Hill Rural City
+0.228824881,Non-current liabilities compared to own source revenue,0.228824881,O4,2024-25,Reported,Large Shire,Wellington Shire
+0.118886773,Non-current liabilities compared to own source revenue,0.113694591,O4,2024-25,Reported,Metropolitan,Banyule City
+0.118886773,Non-current liabilities compared to own source revenue,0.030900473,O4,2024-25,Reported,Metropolitan,Bayside City
+0.118886773,Non-current liabilities compared to own source revenue,0.260181517,O4,2024-25,Reported,Metropolitan,Boroondara City
+0.118886773,Non-current liabilities compared to own source revenue,0.3236248,O4,2024-25,Reported,Metropolitan,Brimbank City
+0.118886773,Non-current liabilities compared to own source revenue,0.199142559,O4,2024-25,Reported,Metropolitan,Darebin City
+0.118886773,Non-current liabilities compared to own source revenue,0.156123816,O4,2024-25,Reported,Metropolitan,Frankston City
+0.118886773,Non-current liabilities compared to own source revenue,0.329248421,O4,2024-25,Reported,Metropolitan,Glen Eira City
+0.118886773,Non-current liabilities compared to own source revenue,0.226421968,O4,2024-25,Reported,Metropolitan,Greater Dandenong City
+0.118886773,Non-current liabilities compared to own source revenue,0.10387662,O4,2024-25,Reported,Metropolitan,Hobsons Bay City
+0.118886773,Non-current liabilities compared to own source revenue,0.123887864,O4,2024-25,Reported,Metropolitan,Kingston City
+0.118886773,Non-current liabilities compared to own source revenue,0.470513269,O4,2024-25,Reported,Metropolitan,Knox City
+0.118886773,Non-current liabilities compared to own source revenue,0.018499563,O4,2024-25,Reported,Metropolitan,Manningham City
+0.118886773,Non-current liabilities compared to own source revenue,0.061768229,O4,2024-25,Reported,Metropolitan,Maribyrnong City
+0.118886773,Non-current liabilities compared to own source revenue,0.127286277,O4,2024-25,Reported,Metropolitan,Maroondah City
+0.118886773,Non-current liabilities compared to own source revenue,0.214768093,O4,2024-25,Reported,Metropolitan,Melbourne City
+0.118886773,Non-current liabilities compared to own source revenue,0.070788702,O4,2024-25,Reported,Metropolitan,Merri-bek City
+0.118886773,Non-current liabilities compared to own source revenue,0.037686778,O4,2024-25,Reported,Metropolitan,Monash City
+0.118886773,Non-current liabilities compared to own source revenue,0.041833237,O4,2024-25,Reported,Metropolitan,Moonee Valley City
+0.118886773,Non-current liabilities compared to own source revenue,0.035215148,O4,2024-25,Reported,Metropolitan,Port Phillip City
+0.118886773,Non-current liabilities compared to own source revenue,0.336537484,O4,2024-25,Reported,Metropolitan,Stonnington City
+0.118886773,Non-current liabilities compared to own source revenue,0.04320079,O4,2024-25,Reported,Metropolitan,Whitehorse City
+0.118886773,Non-current liabilities compared to own source revenue,0.118886773,O4,2024-25,Reported,Metropolitan,Yarra City
+0.251954701,Non-current liabilities compared to own source revenue,0.107956285,O4,2024-25,Reported,Regional,Ballarat City
+0.251954701,Non-current liabilities compared to own source revenue,0.329392674,O4,2024-25,Reported,Regional,Greater Bendigo City
+0.251954701,Non-current liabilities compared to own source revenue,0.45911294,O4,2024-25,Reported,Regional,Greater Geelong City
+0.251954701,Non-current liabilities compared to own source revenue,0.261628092,O4,2024-25,Reported,Regional,Greater Shepparton City
+0.251954701,Non-current liabilities compared to own source revenue,0.110538373,O4,2024-25,Reported,Regional,Horsham Rural City
+0.251954701,Non-current liabilities compared to own source revenue,0.232284975,O4,2024-25,Reported,Regional,Latrobe City
+0.251954701,Non-current liabilities compared to own source revenue,0.254594446,O4,2024-25,Reported,Regional,Mildura Rural City
+0.251954701,Non-current liabilities compared to own source revenue,0.475514882,O4,2024-25,Reported,Regional,Wangaratta Rural City
+0.251954701,Non-current liabilities compared to own source revenue,0.096746419,O4,2024-25,Reported,Regional,Warrnambool City
+0.251954701,Non-current liabilities compared to own source revenue,0.251954701,O4,2024-25,Reported,Regional,Wodonga City
+0.08530231,Non-current liabilities compared to own source revenue,0.135618212,O4,2024-25,Reported,Small Shire,Alpine Shire
+0.08530231,Non-current liabilities compared to own source revenue,0.078259667,O4,2024-25,Reported,Small Shire,Ararat Rural City
+0.08530231,Non-current liabilities compared to own source revenue,0.423547978,O4,2024-25,Reported,Small Shire,Benalla Rural City
+0.08530231,Non-current liabilities compared to own source revenue,0.008999221,O4,2024-25,Reported,Small Shire,Borough of Queenscliffe
+0.08530231,Non-current liabilities compared to own source revenue,0.167011925,O4,2024-25,Reported,Small Shire,Buloke Shire
+0.08530231,Non-current liabilities compared to own source revenue,0.026149983,O4,2024-25,Reported,Small Shire,Central Goldfields Shire
+0.08530231,Non-current liabilities compared to own source revenue,0.100319763,O4,2024-25,Reported,Small Shire,Gannawarra Shire
+0.08530231,Non-current liabilities compared to own source revenue,0.424435374,O4,2024-25,Reported,Small Shire,Hepburn Shire
+0.08530231,Non-current liabilities compared to own source revenue,0.03715707,O4,2024-25,Reported,Small Shire,Hindmarsh Shire
+0.08530231,Non-current liabilities compared to own source revenue,0.271633259,O4,2024-25,Reported,Small Shire,Indigo Shire
+0.08530231,Non-current liabilities compared to own source revenue,0.08530231,O4,2024-25,Reported,Small Shire,Loddon Shire
+0.08530231,Non-current liabilities compared to own source revenue,0.215421556,O4,2024-25,Reported,Small Shire,Mansfield Shire
+0.08530231,Non-current liabilities compared to own source revenue,0.079897458,O4,2024-25,Reported,Small Shire,Murrindindi Shire
+0.08530231,Non-current liabilities compared to own source revenue,0.054471545,O4,2024-25,Reported,Small Shire,Northern Grampians Shire
+0.08530231,Non-current liabilities compared to own source revenue,0.137103791,O4,2024-25,Reported,Small Shire,Pyrenees Shire
+0.08530231,Non-current liabilities compared to own source revenue,0.169735741,O4,2024-25,Reported,Small Shire,Strathbogie Shire
+0.08530231,Non-current liabilities compared to own source revenue,0.047171516,O4,2024-25,Reported,Small Shire,Towong Shire
+0.08530231,Non-current liabilities compared to own source revenue,0.023162135,O4,2024-25,Reported,Small Shire,West Wimmera Shire
+0.08530231,Non-current liabilities compared to own source revenue,0.076488943,O4,2024-25,Reported,Small Shire,Yarriambiack Shire
